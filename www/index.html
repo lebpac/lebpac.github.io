@@ -1,0 +1,447 @@
+<!doctype html>
+<html>
+  <head>
+    <title></title>
+    <style type="text/css">
+html, body,
+div, span,
+object, iframe,
+h1, h2, h3, h4, h5, h6,
+p, blockquote,
+pre, a,
+abbr, acronym,
+address, code,
+del, dfn,
+em, img,
+q, dl,
+dt, dd,
+ol, ul,
+li, fieldset,
+form, label,
+legend, table,
+caption, tbody,
+tfoot,thead,
+tr, th, td {
+margin : 0;
+padding : 0;
+border : 0;
+font-weight : inherit;
+font-style : inherit;
+font-size : 100%;
+font-family : inherit;
+vertical-align : baseline; }
+
+/* Body ---------------------------------------------------- */
+
+body {
+width : 50em;
+
+/* http://www.cameronmoll.com/archives/000892.html */
+width : expression(document.body.clientWidth < 640? "640px" : document.body.clientWidth > 120? "120em" : "auto");
+margin : 0 auto;
+padding : 2em 0;
+background :  #fff;
+font : 100% Helvetica, Arial, sans-serif;
+line-height : 1.4;
+color : #333; }
+
+/* Headings ---------------------------------------------------- */
+
+h1, h2, h3, h4, h5, h6 {
+font-weight : normal;
+padding-top: 1.5em; }
+
+h1 {
+margin-bottom : .5em;
+font-size : 3em;
+line-height : 1; }
+
+h2 {
+margin-bottom : .75em;
+font-size : 2em; }
+
+h3 {
+margin-bottom : 1em;
+font-size : 1.5em;
+line-height : 1 ; }
+
+h4 {
+margin-bottom : 1.25em;
+font-size : 1.2em;
+line-height : 1.25; }
+
+h5, h6 {
+margin-bottom : 1.5em;
+font-weight : bold;
+font-size : 1em; }
+
+h1 img, h2 img, h3 img, h4 img, h5 img, h6 img {
+margin : 0; }
+
+/* Text elements -------------------------------------------------------------- */
+
+p {
+margin : 1.5em 0 1.5em; }
+
+a {
+color : #105cb6;
+text-decoration : underline; }
+
+a:visited {
+color : #105cb6; }
+
+a:focus, a:hover {
+color : #003; }
+
+a img {
+border : none; }
+
+blockquote, q {
+quotes : "" ""; }
+
+blockquote {
+margin : 1.5em 1.5em 1.5em 1.5em;
+padding-left : 1.5em;
+border-left : 1px solid #666;
+font : italic 1.1em "Times New Roman", Times, serif;
+line-height: 1.5em; }
+
+blockquote:before, blockquote:after, q:before, q:after {
+content : ""; }
+
+strong {
+font-weight : bold; }
+
+em, dfn {
+font-style : italic; }
+
+dfn {
+font-weight : bold; }
+
+sup, sub {
+line-height : 0; }
+
+abbr, acronym {
+border-bottom : 1px dotted #666; }
+
+address {
+margin : 0 0 1.5em;
+font-style : italic; }
+
+del {
+color : #666; }
+
+pre, code, tt {
+font : 0.9em 'andale mono', 'consolas', 'lucida console', monospace;
+line-height : 1.5; }
+
+pre {
+white-space : pre;
+padding: 10px; }
+
+/* Lists -------------------------------------------------------------- */
+
+li ul, li ol {
+list-style-type : circle;
+margin : 0 1.5em .75em 1.5em; }
+
+ul, ol {
+margin : 0 1.5em 1.5em 0; }
+
+ul {
+list-style-type : disc; }
+
+ol {
+list-style-type : decimal; }
+
+dl {
+margin-bottom: 1.5em;
+padding-top: 1.5em;
+border-top : 1px solid #ccc; }
+
+dl dt {
+margin-bottom : .75em;
+font-size : 1.2em;
+line-height : 1.25; }
+
+dd {
+margin-bottom: 1.5em;
+padding-bottom: 1.5em;
+border-bottom : 1px solid #ccc; }
+
+/* Tables -------------------------------------------------------------- */
+
+table {
+border-collapse : separate;
+border-spacing : 0;
+margin-bottom : 1.4em;
+width : 100%; }
+
+table, td, th {
+vertical-align : top; }
+
+th, thead th {
+font-weight : bold; }
+
+th, td, caption {
+padding : 4px 10px 4px 5px;
+text-align : left;
+font-weight : normal; }
+
+th, td {
+border-bottom : 1px solid #ccc; }
+
+tfoot {
+font-size : .9em; }
+
+caption {
+margin-bottom : 1em;
+font-size : 1.5em;
+line-height : 1 ; }
+
+/* Forms -------------------------------------------------------------- */
+
+label {
+font-weight : bold; }
+
+fieldset {
+margin : 0 0 1.5em 0;
+padding : 1.4em 1.4em 0 1.4em;
+border : 1px solid #ccc; }
+
+legend {
+font-size : 1.2em;
+font-weight : bold; }
+
+textarea {
+width : 390px;
+height : 250px;
+padding : 5px; }
+
+
+body { line-height: 2em; font-size: 12pt; }
+h2, h3, h5 { font-weight: bold; }
+ul { margin-left: 0em; }
+li { margin-left: 1.5em; }
+
+#tabs li {
+display: inline; }
+
+#tabs h1 a {
+text-decoration: none; }
+
+#tabs ul, #tabs ol {
+margin : 0; }
+
+#tabs {
+text-align: right;
+margin-bottom: 1.5em; }
+
+#footer {
+clear: both;
+text-align: center;
+padding-top: 150px;
+font-size: small;
+color: #888;
+padding-bottom: 50px; }
+
+.article_date {
+font-style: italic;
+color: #666;
+text-align: right; }
+
+.article_date_title {
+line-height: .5em;
+visibility: hidden;
+font-size: .8em;
+font-style: italic;
+color: #666; }
+
+.projectscol h3 {
+text-decoration: underline;
+font-size: 1.1em;
+color : #105cb6;
+padding: .5em;
+width: 11em;
+border: 1px dotted #888;
+margin: .25em 0 0 0;
+cursor: pointer;
+text-shadow: none; }
+
+.projectscol p {
+margin: 0 1em 1em 1em; }
+
+.rightcol {
+float: right;
+border-left: dotted black 1px;
+margin: 0;
+padding: 1em;
+width: 18em;
+text-align: right; }
+
+.rightcol ul {
+font-size: .85em;
+list-style-type : none; }
+
+.rightcol li, .rightcol ul {
+margin: 0; }
+
+.intro h1 a {
+text-decoration: none; }
+
+.highlight {
+margin : 1.5em 1.5em 1.5em -1.5em;
+padding-left : 1.5em;
+border-left : 1px dotted #666; }
+.highlight  { background: #ffffff; }
+.highlight .c { color: #008000 } /* Comment */
+.highlight .err { border: 1px solid #FF0000 } /* Error */
+.highlight .k { color: #0000ff } /* Keyword */
+.highlight .cm { color: #008000 } /* Comment.Multiline */
+.highlight .cp { color: #0000ff } /* Comment.Preproc */
+.highlight .c1 { color: #008000 } /* Comment.Single */
+.highlight .cs { color: #008000 } /* Comment.Special */
+.highlight .ge { font-style: italic } /* Generic.Emph */
+.highlight .gh { font-weight: bold } /* Generic.Heading */
+.highlight .gp { font-weight: bold } /* Generic.Prompt */
+.highlight .gs { font-weight: bold } /* Generic.Strong */
+.highlight .gu { font-weight: bold } /* Generic.Subheading */
+.highlight .kc { color: #0000ff } /* Keyword.Constant */
+.highlight .kd { color: #0000ff } /* Keyword.Declaration */
+.highlight .kn { color: #0000ff } /* Keyword.Namespace */
+.highlight .kp { color: #0000ff } /* Keyword.Pseudo */
+.highlight .kr { color: #0000ff } /* Keyword.Reserved */
+.highlight .kt { color: #2b91af } /* Keyword.Type */
+.highlight .s { color: #a31515 } /* Literal.String */
+.highlight .nc { color: #2b91af } /* Name.Class */
+.highlight .ow { color: #0000ff } /* Operator.Word */
+.highlight .sb { color: #a31515 } /* Literal.String.Backtick */
+.highlight .sc { color: #a31515 } /* Literal.String.Char */
+.highlight .sd { color: #a31515 } /* Literal.String.Doc */
+.highlight .s2 { color: #a31515 } /* Literal.String.Double */
+.highlight .se { color: #a31515 } /* Literal.String.Escape */
+.highlight .sh { color: #a31515 } /* Literal.String.Heredoc */
+.highlight .si { color: #a31515 } /* Literal.String.Interpol */
+.highlight .sx { color: #a31515 } /* Literal.String.Other */
+.highlight .sr { color: #a31515 } /* Literal.String.Regex */
+.highlight .s1 { color: #a31515 } /* Literal.String.Single */
+.highlight .ss { color: #a31515 } /* Literal.String.Symbol */
+    </style>
+<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+  </head>
+  <body>
+
+<h1>Welcome to L'&Eacute;cole Bilingue!</h1>
+
+<h2>About the PAC</h2>
+
+<p>The LEB PAC (Parent's Advisory Council) works with the admin and teachers to
+improve school life and educational opportunities for our kids.</p>
+
+<p>We organize <b>fun</b> activities (Welcome Back BBQ in September, Halloween
+Haunt in October, Bike to School Week, ...). We run babysitting and first aid
+courses for older grades. We run a choir program, and <b>after school</b>
+activities (chess, drawing, coding, dance, cooking, ...). We invite in
+interesting <b>speakers and guests</b> (circus, dance performances, authors,
+artists, ...).</p>
+
+<p>We also run a <b>hot lunch program</b>, currently Tuesday (sushi) and
+Thursday (pizza), which are both fundraisers and a break from making lunch every
+day for parents!</p>
+
+<p>The PAC also funds longer term projects. This year, we started <a
+  href="https://www.earthbites.ca/">EarthBites</a> which is a food literacy
+program (all the way from soil preparation, through planting, harvesting, and
+preparation).</p>
+
+<p>We would encourage you to get involved wherever you are able. It makes for a
+much richer school experience for both you and your children.</p>
+
+<h2>Mailing list</h2>
+
+<p>To stay up to date with upcoming events, please subscribe yourself to the
+PAC mailing list.</p>
+
+<p>If you ever want to change your subscription or the address you're using,
+there will be a link at the bottom of every email we send.</p>
+
+<p><b>Please indicate your children's divisions</b> so that if there's grade-
+or division-specific communications, we can send to the right group.</p>
+
+<p>Thanks!</p>
+
+<!-- Begin Mailchimp Signup Form -->
+<div id="mc_embed_signup">
+<form action="https://rocks.us18.list-manage.com/subscribe/post?u=eed6e287f4a5337e8be08e3a4&amp;id=cdb789cfb5" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+	<h2>Subscribe</h2>
+<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+<div class="mc-field-group">
+	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
+</label>
+	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+</div>
+<div class="mc-field-group">
+	<label for="mce-NAME">Parent's Name  <span class="asterisk">*</span>
+</label>
+	<input type="text" value="" name="NAME" class="required" id="mce-NAME">
+</div>
+<div class="mc-field-group input-group">
+    <strong>Your child's/children's divisions </strong>
+    <ul><li><input type="checkbox" value="1" name="group[3329][1]" id="mce-group[3329]-3329-0"><label for="mce-group[3329]-3329-0">Division 1, Grade 7 - Sylvie Gobel</label></li>
+<li><input type="checkbox" value="2" name="group[3329][2]" id="mce-group[3329]-3329-1"><label for="mce-group[3329]-3329-1">Division 2, Grade 7 - Olivier Salvas</label></li>
+<li><input type="checkbox" value="4" name="group[3329][4]" id="mce-group[3329]-3329-2"><label for="mce-group[3329]-3329-2">Division 3, Grade 6 - Patrick Robert</label></li>
+<li><input type="checkbox" value="8" name="group[3329][8]" id="mce-group[3329]-3329-3"><label for="mce-group[3329]-3329-3">Division 4, Grade 6 - Sonia Schenkel</label></li>
+<li><input type="checkbox" value="16" name="group[3329][16]" id="mce-group[3329]-3329-4"><label for="mce-group[3329]-3329-4">Division 5, Grade 5/6 - Brianne Fenrich</label></li>
+<li><input type="checkbox" value="32" name="group[3329][32]" id="mce-group[3329]-3329-5"><label for="mce-group[3329]-3329-5">Division 6, Grade 5 - Ala Talmatchi</label></li>
+<li><input type="checkbox" value="64" name="group[3329][64]" id="mce-group[3329]-3329-6"><label for="mce-group[3329]-3329-6">Division 7, Grade 5 - Kerria Gray</label></li>
+<li><input type="checkbox" value="128" name="group[3329][128]" id="mce-group[3329]-3329-7"><label for="mce-group[3329]-3329-7">Division 8, Grade 4 - Janine Dobry</label></li>
+<li><input type="checkbox" value="256" name="group[3329][256]" id="mce-group[3329]-3329-8"><label for="mce-group[3329]-3329-8">Division 9, Grade 4 - Marriette Delevallee</label></li>
+<li><input type="checkbox" value="512" name="group[3329][512]" id="mce-group[3329]-3329-9"><label for="mce-group[3329]-3329-9">Division 10, Grade 3/Grade 4 - Suzanne Carry</label></li>
+<li><input type="checkbox" value="1024" name="group[3329][1024]" id="mce-group[3329]-3329-10"><label for="mce-group[3329]-3329-10">Division 11, Grade 3 - Catherine Pilotte</label></li>
+<li><input type="checkbox" value="2048" name="group[3329][2048]" id="mce-group[3329]-3329-11"><label for="mce-group[3329]-3329-11">Division 12, Grade 3 - Louise Maltais</label></li>
+<li><input type="checkbox" value="4096" name="group[3329][4096]" id="mce-group[3329]-3329-12"><label for="mce-group[3329]-3329-12">Division 13, Grade 2/Grade 3 - Lisl Clar</label></li>
+<li><input type="checkbox" value="8192" name="group[3329][8192]" id="mce-group[3329]-3329-13"><label for="mce-group[3329]-3329-13">Division 14, Grade 02 - Laura Oswin &amp; Julie Corbin</label></li>
+<li><input type="checkbox" value="16384" name="group[3329][16384]" id="mce-group[3329]-3329-14"><label for="mce-group[3329]-3329-14">Division 15, Grade 1/Grade 2 - Remi Lacroix</label></li>
+<li><input type="checkbox" value="32768" name="group[3329][32768]" id="mce-group[3329]-3329-15"><label for="mce-group[3329]-3329-15">Division 16, Grade 1 - Pierre-Luc Blain</label></li>
+<li><input type="checkbox" value="65536" name="group[3329][65536]" id="mce-group[3329]-3329-16"><label for="mce-group[3329]-3329-16">Division 17, Grade 1 - Tania Danilovic</label></li>
+<li><input type="checkbox" value="131072" name="group[3329][131072]" id="mce-group[3329]-3329-17"><label for="mce-group[3329]-3329-17">Division 18, Kindergarten - Charlotta Prigent &amp; Michele Christen</label></li>
+<li><input type="checkbox" value="262144" name="group[3329][262144]" id="mce-group[3329]-3329-18"><label for="mce-group[3329]-3329-18">Division 19, Kindergarten - Matthew McBride</label></li>
+</ul>
+</div>
+	<div id="mce-responses" class="clear">
+		<div class="response" id="mce-error-response" style="display:none"></div>
+		<div class="response" id="mce-success-response" style="display:none"></div>
+	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_eed6e287f4a5337e8be08e3a4_cdb789cfb5" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
+<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[2]='NAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+<!--End mc_embed_signup-->
+<h2>Evans Lake</h2>
+
+<p>
+Especially if you're a family that's joining us in Kindergarten, we'd like to
+encourage you to consider joining us on September Labour Day weekend at <a
+href="http://www.lebevanslake.com/">Evans Lake</a>. It's a great way to get to
+know parents in the community. Having your Kindergarteners have some new best
+friends from camp the weekend before school starts makes for a much easier first
+week as well. More information and sign up at <a
+href="http://www.lebevanslake.com">lebevanslake.com</a>.
+</p>
+
+<h2>Contacting the PAC Exec</h2>
+
+<p>If you have questions about PAC or things that are happening at school, you
+can email us at <a href="mailto:lapebpac@gmail.com">lapebpac@gmail.com</a>, and
+a parent volunteer will try to help or direct you.</p>
+
+  </body>
+</html>
