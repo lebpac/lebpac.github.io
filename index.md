@@ -9,7 +9,7 @@ title: Home
 {% include_relative _content/about.md %}
 
 <div class="message-highlight">
-  <strong>Our annual direct donation drive is open!</strong><br>Please consider <a href="/donate" target="_blank">making a donation</a> to support your PAC.
+  <strong>Our annual direct donation drive is open!</strong><br>Please consider <a href="/donate" target="_blank">making a donation</a> to support L'École Bilingue and your PAC.
 </div>
 
 ## Stay in the loop
