@@ -80,6 +80,7 @@ html {
   margin-top: 0;
   font-family: "Permanent Marker", serif;
   font-size: 3.20rem;
+  white-space: nowrap;
 }
 
 /* Sidebar nav */
