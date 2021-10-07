@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# Welcome to L'École Bilingue! 👋
+# Hello from your LEB PAC! 👋
 {: .page-title}
 
 {% include_relative _content/about.md %}
