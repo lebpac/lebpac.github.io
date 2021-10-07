@@ -14,7 +14,7 @@ title: Meetings
 <h3>{{ tag.name }} school year</h3>
 <ul>
   {% for post in tag.items %}
-  <li><a href="{{ post.url }}">{{ post.title }}, {{ post.date | date: "%Y-%m-%d" }} </a></li>
+  <li><a href="{{ post.url }}">{{ post.title }}, {{ post.date | date: "%Y-%m-%d" }}</a></li>
   {% endfor %}
 </ul>
 {% endfor %}
