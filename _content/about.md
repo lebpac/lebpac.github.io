@@ -1,0 +1,5 @@
+The L'École Bilingue Parent Advisory Council (LEB PAC) works with the admin and teachers to improve school life and educational opportunities for our kids.
+
+We run fun **activities** like the Welcome Back BBQ in September and Hallowe'en Haunt in October. We organize **courses** like babysitting and first aid. We run **after school programs** like chess, coding, music, and ski & snowboard club. We invite interesting **speakers and guests** to share with the school. We have a [**hot lunch program**](hot-lunch) which is both a fundraiser and a break from making lunch! We also fund **longer term projects** like [EarthBites](https://www.earthbites.ca){:target="_blank"}.
+
+We would encourage you to get involved wherever you are able. It makes for a much richer school experience for both you and your children.

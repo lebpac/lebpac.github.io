@@ -1,0 +1,41 @@
+# Jekyll config
+
+# Setup
+
+title: LEB PAC
+tagline: L'École Bilingue Parent Advisory Council
+description: L'École Bilingue<br>Parent Advisory Council
+domain: lebpac.ca
+url: https://lebpac.ca
+baseurl: /
+
+# GitHub config settings
+# https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll
+
+lsi: false
+safe: true
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+
+# Excludes
+# The following items will not be processed, by default.
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
