@@ -22,6 +22,12 @@ kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
 
+# Plugins
+plugins:
+  - jekyll-redirect-from
+whitelist:
+  - jekyll-redirect-from
+
 # Excludes
 # The following items will not be processed, by default.
 #
