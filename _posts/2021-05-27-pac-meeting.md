@@ -9,4 +9,4 @@ tag: 2020-2021
 
 {% include pdf.html file="meetings/2021-05-27-open-positions.pdf" name="Open Positions" %}
 
-Please get in touch with [exec@lebpac.ca](mailto: exec@lebpac.ca) if you're interested in any of the open positions!
+Please get in touch with [exec@lebpac.ca](mailto:exec@lebpac.ca) if you're interested in any of the open positions!
