@@ -1,1 +1,1 @@
-If you have questions about PAC or things that are happening at school, send us an email at [hello@lebpac.ca](mailto:exec@lebpac.ca) and we'll help you out.
+If you have questions about PAC or things that are happening at school, send us an email at [hello@lebpac.ca](mailto:exec@lebpac.ca) and we'll do our best to help you out.
