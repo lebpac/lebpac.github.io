@@ -5,7 +5,7 @@ title: Meetings
 
 ## Upcoming
 
-Join the [mailing list]({% link mailing-list.md %}) to get notified about upcoming meetings.
+This year's scheduled PAC meetings:
 
 * October 20, 2021
 * November 18, 2021
@@ -15,7 +15,7 @@ Join the [mailing list]({% link mailing-list.md %}) to get notified about upcomi
 * May 18, 2022
 * June 16, 2022
 
-Oct 20th (Weds); Nov 18th (Thurs); Jan 20 (Thurs); Feb 24th (Thurs); April 21 (Thurs); May 18th (Weds); June 16th (Thurs)
+All meetings take place at **7 pm** on **Microsoft Teams**. Subscribe to the [mailing list]({% link mailing-list.md %}) and we'll send you instructions on how to join prior to each meeting.
 
 ## Minutes
 
