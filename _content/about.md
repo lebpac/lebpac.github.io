@@ -1,5 +1,5 @@
 We're a friendly team of volunteers who work with the admin and teachers to improve school life and educational opportunities for our kids.
 
-We run fun **activities** like the Welcome Back BBQ in September and Hallowe'en Haunt in October. We organize **courses** like babysitting and first aid. We run **after school programs** like chess, coding, music, and ski & snowboard club. We invite interesting **speakers and guests** to share with the school. We have a **[hot lunch program]({% link hot-lunch.md %})** which is both a fundraiser and a break from making lunch! We also fund **longer term projects** like [EarthBites](https://www.earthbites.ca){:target="_blank"}.
+We run fun **events** like the Welcome Back BBQ and Hallowe'en Haunt. We organize **after school programs** like coding, music, and the Ski & Snowboard Club. We coordinate **courses** like Red Cross Babysitting and First Aid. We invite interesting **speakers and guests** to share their knowledge. We have a **[hot lunch program]({% link hot-lunch.md %})** to fundraise and give parents a break from making lunch!
 
 We would encourage you to get involved wherever you are able. It makes for a much richer school experience for both you and your children.
