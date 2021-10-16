@@ -15,7 +15,7 @@ This year's scheduled PAC meetings:
 * May 18, 2022
 * June 16, 2022
 
-All meetings take place at **7 pm** on **Microsoft Teams**. Subscribe to the [mailing list]({% link mailing-list.md %}) and we'll send you instructions on how to join prior to each meeting.
+All meetings take place at **7 pm** on **Zoom**. Subscribe to the [mailing list]({% link mailing-list.md %}) and we'll send you instructions on how to join prior to each meeting.
 
 ## Minutes
 
