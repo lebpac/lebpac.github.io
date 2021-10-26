@@ -7,7 +7,6 @@ title: Meetings
 
 This year's scheduled PAC meetings:
 
-* October 20, 2021
 * November 18, 2021
 * January 20, 2022
 * February 24, 2022
