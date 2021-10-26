@@ -1,4 +1,3 @@
-<div class="message message-icon">
-  <img src="/assets/img/pdf_icon.svg" alt="PDF Icon">
-  <a href="/assets/files/{{ include.file }}">{{ include.name }}</a>
-</div>
+<a class="message message-icon" href="/assets/files/{{ include.file }}">
+  <img src="/assets/img/pdf_icon.svg" alt="PDF Icon"> {{ include.name }}
+</a>
