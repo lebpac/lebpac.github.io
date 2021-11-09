@@ -3,6 +3,10 @@ layout: page
 title: Hot Lunch
 ---
 
-**The hot lunch program will be back soon! Join the [mailing list]({% link mailing-list.md %}) for updates.**
+🍣 Sushi lunch is every **Wednesday**, starting November 17th.
 
-Lunches are ordered ahead of time. Ordering and payment is done through MunchaLunch. If you're new to the school, you can [sign up for a MunchaLunch account here](https://munchalunch.com/schools/leb/).
+## How to order
+
+Lunches are ordered, and paid for, ahead of time through [MunchaLunch](https://munchalunch.com/schools/leb/). Orders must be placed at least six days in advance (by Thursday evening); no exceptions.
+
+Have a lunch question? [We got you!](mailto:lunch@lebpac.ca)
