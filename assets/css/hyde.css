@@ -253,6 +253,10 @@ a.sidebar-nav-item:focus {
  * PAC Edits
  */
 
+ .page-title + .message-highlight {
+   margin-top: 1rem;
+ }
+
 /* Theme */
 .theme-base-pac .sidebar {
   background-image: linear-gradient(315deg, #081e77, #4141a5);
