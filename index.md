@@ -3,10 +3,10 @@ layout: default
 title: Home
 ---
 
-**📚 The [Scholastic Virtual Book Fair]({% link book-fair.md %}) is now open!**
+**The [Scholastic Virtual Book Fair]({% link book-fair.md %}) is now open!**
 {: .message-highlight}
 
-# Hello from your LEB PAC!
+# Hello from your LEB PAC! 👋 
 {: .page-title}
 
 {% include_relative _content/about.md %}
