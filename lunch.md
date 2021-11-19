@@ -3,9 +3,10 @@ layout: page
 title: Lunch Program
 ---
 
-🍣 **Sushi Wednesdays are back!**\
-Place your order through [MunchaLunch](https://munchalunch.com/schools/leb/){:target="_blank"}.
-{: .message-highlight}
+Sushi Wednesdays are back!
+
+**🍣 [Place your order through MunchaLunch](https://munchalunch.com/schools/leb/){:target="_blank"}**
+{: .message}
 
 ## How to order
 
