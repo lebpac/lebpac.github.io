@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Your PAC
+title: About the PAC
 ---
 
 {% include_relative _content/about.md %}
