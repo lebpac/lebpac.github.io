@@ -25,6 +25,9 @@ Direct donation is also a great way for parents to contribute to school activiti
 
 ## Donate!
 
-The easiest way is through SchoolCash Online. **[Click here to donate.]({% link donate.html %}){:target="_blank"}**
+The easiest way is through SchoolCash Online.
+
+{% capture donate_link %}{% link donate.html %}{% endcapture %}
+{% include link.html link=donate_link text="Donate through SchoolCash Online" %}
 
 While it is much faster and easier to use SchoolCash Online, we are able to accept donations by cheque. Please make it out to "L'École Bilingue PAC" and leave it in the PAC mailbox in the office. If you would like a tax receipt, please include a note with your contact details.

@@ -5,8 +5,7 @@ title: Lunch Program
 
 Sushi Wednesdays are back!
 
-**🍣 [Place your order through MunchaLunch](https://munchalunch.com/schools/leb/){:target="_blank"}**
-{: .message}
+{% include link.html link="https://munchalunch.com/schools/leb/" text="🍣 Place your order through MunchaLunch" %}
 
 ## How to order
 
