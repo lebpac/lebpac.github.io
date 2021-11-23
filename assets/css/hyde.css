@@ -287,3 +287,20 @@ img.emoji {
   margin: 0 .05em 0 .1em;
   vertical-align: -0.1em;
 }
+
+/* Calendar */
+
+#calendar.fc {
+  font-size: 0.8em;
+  margin-bottom: 1rem;
+}
+
+.fc table {
+  margin-bottom: 0;
+}
+
+.content .fc a,
+.content .fc a:hover {
+  color: #515151;
+  text-decoration: none;
+}

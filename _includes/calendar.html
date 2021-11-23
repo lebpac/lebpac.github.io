@@ -1,1 +1,25 @@
-<iframe src="https://calendar.google.com/calendar/embed?height=480&wkst=1&bgcolor=%23ffffff&ctz=America%2FVancouver&showTitle=0&showTz=0&showCalendars=0&showTabs=0&showPrint=0&showDate=1&showNav=1&mode=MONTH&src=bGFwZWJwYWNAZ21haWwuY29t&color=%237986CB" style="border-width:0" width="720" height="480" frameborder="0" scrolling="no"></iframe>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/fullcalendar@5.10.1/main.min.css" integrity="sha256-16PDMvytZTH9heHu9KBPjzrFTaoner60bnABykjNiM0=" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/npm/fullcalendar@5.10.1/main.min.js" integrity="sha256-XOMgUu4lWKSn8CFoJoBoGd9Q/OET+xrfGYSo+AKpFhE=" crossorigin="anonymous"></script>
+<script>
+
+  document.addEventListener('DOMContentLoaded', function() {
+    var calendarEl = document.getElementById('calendar');
+    var calendar = new FullCalendar.Calendar(calendarEl, {
+      initialView: 'dayGridMonth',
+      height: 'auto',
+      weekends: false,
+      eventColor: '#4141a5',
+      googleCalendarApiKey: 'AIzaSyDCUlhTzZyJR6SSnu40qVWzxAZX-k8H7-g',
+      events: {
+        googleCalendarId: 'lapebpac@gmail.com'
+      },
+      // eventClick: function(info) {
+      //   info.jsEvent.preventDefault(); // don't let the browser nagivate
+      // }
+    });
+    calendar.render();
+  });
+
+</script>
+
+<div id="calendar"></div>
