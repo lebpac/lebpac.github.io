@@ -13,9 +13,13 @@
       events: {
         googleCalendarId: 'lapebpac@gmail.com'
       },
-      // eventClick: function(info) {
-      //   info.jsEvent.preventDefault(); // don't let the browser nagivate
-      // }
+      eventClick: function(info) {
+        info.jsEvent.preventDefault(); // don't let the browser nagivate
+
+        if (info.event.url) {
+          window.open(info.event.url);
+        }
+      }
     });
     calendar.render();
   });
