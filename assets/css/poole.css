@@ -259,8 +259,14 @@ tbody tr:nth-child(odd) th {
  */
 
 .lead {
+  display: none;
   font-size: 1.25rem;
   font-weight: 300;
+}
+@media (min-width: 48em) {
+  .lead {
+    display: block;
+  }
 }
 
 
