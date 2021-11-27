@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Book Fair
+published: false
 ---
 
 The Scholastic Virtual Book Fair is now open, but only until November 26th!
