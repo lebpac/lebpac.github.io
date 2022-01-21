@@ -3,7 +3,7 @@ layout: page
 title: Lunch Program
 ---
 
-Sushi Wednesdays are back!
+~~Sushi Wednesdays are back!~~ Temporarily on hold.
 
 {% include link.html link="https://munchalunch.com/schools/leb/" text="🍣 Place your order through MunchaLunch" %}
 
