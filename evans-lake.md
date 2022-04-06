@@ -1,7 +1,13 @@
 ---
 layout: page
 title: Evans Lake
-published: false
+badge: 🏕
 ---
 
-Especially if you're a family that's joining us in Kindergarten, we'd like to encourage you to consider joining us on September Labour Day weekend at [Evans Lake](https://evanslake.com/). It's a great way to get to know parents in the community. Having your Kindergarteners have some new best friends from camp the weekend before school starts makes for a much easier first week as well. More information and sign up at [lebevanslake.com](http://www.lebevanslake.com).
+**Evans Lake 2022 is on, so mark your calendars for September 3–5th!**
+
+This annual tradition takes place at [Evans Lake](https://evanslake.com/){:target="_blank"} and is a great way to get to know other families in the L'École Bilingue community, especially if you're new to the school.
+
+For more info, email [evanslake@lebpac.ca](mailto:evanslake@lebpac.ca).
+
+![Evans Lake Map](/assets/img/evans-lake-map.jpg)
