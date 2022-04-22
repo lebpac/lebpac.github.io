@@ -3,8 +3,6 @@ layout: page
 title: Lunch Program
 ---
 
-Sushi Wednesdays are back!
-
 {% include link.html link="https://munchalunch.com/schools/leb/" text="🍣 Place your order through MunchaLunch" %}
 
 ## How to order
