@@ -4,7 +4,7 @@ title: Evans Lake
 badge: 🏕
 ---
 
-Come join other L'École Bilingue families for our annual Family Camp at [Evans Lake Camp](https://evanslake.com/){:target="_blank"} over the Labour Day long weekend!
+Come join other L'École Bilingue families for our annual Family Camp at [Evans Lake](https://evanslake.com/){:target="_blank"} over the Labour Day long weekend!
 
 ## About the Camp
 
