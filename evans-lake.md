@@ -26,7 +26,7 @@ $205 per person (entering K and older; younger kids free).
 
 Heads-up: Evans Lake can only accommodate only _95 people_, so register early to get a spot. 
 
-Once you register, you'll receive a confirmation email from the organizing committee within 48 hours. Payment by _Interac_ e-Transfer is due within one week of confirmation. Please send the e-Transfer to:
+Once you register, you'll receive a confirmation email from the organizing committee within 48 hours. Payment by _Interac_ e-Transfer is then due within one week. Please send the e-Transfer to:
 
 *	Name: LAPEB
 *	Email address: lapebtreasurer@gmail.com
