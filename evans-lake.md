@@ -24,7 +24,7 @@ $205 per person (entering K and older; younger kids free).
   📋 Register here, starting at 7 pm on May 11th
 </div>
 
-Heads-up: Evans Lake can only accommodate only _95 people_, so register early to get a spot. 
+Heads-up: Evans Lake can only accommodate _95 people_, so register early to get a spot. 
 
 Once you register, you'll receive a confirmation email from the organizing committee within 48 hours. Payment by _Interac_ e-Transfer is then due within one week. Please send the e-Transfer to:
 
@@ -47,7 +47,7 @@ Sorry, the camp is for L’École Bilingue students and their immediate families
 
 **What do I need to bring?**  
 Kids: pillow, sleeping bag, towels, facecloth, toothbrush/toothpaste, hairbrush, life jacket (for small children), clothes, swimsuit, shoes, sandals, flashlight, etc.  
-Adults: camping gear, tent, air mattress or foam pad, ground cloth, musical instruments, sports gear, camera, etc. 
+Adults: camping gear, tent, air mattress or foam pad, ground cloth, musical instruments, sports gear, camera, etc.
 
 **Can I bring my dog?**  
 Sorry, no pets please. Stuffies only!
