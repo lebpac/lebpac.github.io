@@ -12,7 +12,7 @@ Families of students who attend École Bilingue have been privately organizing a
 
 School-age children (those entering grade one through grade seven) stay in cabins with counsellors. Parents and small children (children entering kindergarten in September, or younger) camp in tents and vans on a grassy field by the lake. All meals are prepared by Evans Lake staff. The camp is participatory with parents assisting with some duties.
 
-This year's camp takes place **September 3–5, 2022**. Plan to arrive by 3 pm on Saturday and stay until Monday around 2 pm.
+This year's camp takes place **September 3–5**. Plan to arrive by 3 pm on Saturday and stay until Monday around 2 pm.
 
 ## Cost
 
@@ -31,7 +31,7 @@ Once you register, you'll receive a confirmation email from the organizing commi
 *	Name: LAPEB
 *	Email address: lapebtreasurer@gmail.com
 
-### Cancellation Policy
+### Cancellation policy
 
 *	Evans Lake will reimburse camp/food costs in event of Covid ($160 per person).
 *	The organizing committee will keep the remaining $45 to cover pre-paid costs (insurance, counsellor fees, arts and crafts supplies, canteen).
