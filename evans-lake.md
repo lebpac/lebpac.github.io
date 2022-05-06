@@ -8,7 +8,7 @@ Come join other L'École Bilingue families for our annual Family Camp at [Evans 
 
 ## About the Camp
 
-Families of students who attend École Bilingue have been privately organizing a camping trip over Labour Day long weekend for almost 40 years. This is not a school or PAC sponsored event. It's a chance for families to come together for a private group camp organized by parents. It is a great opportunity to get to know other families while enjoying the great outdoors.
+Families of students who attend L'École Bilingue have been privately organizing a camping trip over Labour Day long weekend for almost 40 years. This is not a school or PAC sponsored event. It's a chance for families to come together for a private group camp organized by parents. It is a great opportunity to get to know other families while enjoying the great outdoors.
 
 School-age children (those entering grade one through grade seven) stay in cabins with counsellors. Parents and small children (children entering kindergarten in September, or younger) camp in tents and vans on a grassy field by the lake. All meals are prepared by Evans Lake staff. The camp is participatory with parents assisting with some duties.
 
@@ -43,7 +43,7 @@ Once you register, you'll receive a confirmation email from the organizing commi
 No, it’s not an immersion camp.
 
 **Can I bring friends?**  
-Sorry, the camp is for L’École Bilingue students and their immediate families.
+Sorry, the camp is for L'École Bilingue students and their immediate families.
 
 **What do I need to bring?**  
 Kids: pillow, sleeping bag, towels, facecloth, toothbrush/toothpaste, hairbrush, life jacket (for small children), clothes, swimsuit, shoes, sandals, flashlight, etc.  
