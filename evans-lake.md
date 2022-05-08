@@ -8,11 +8,11 @@ Come join other L'École Bilingue families for our annual Family Camp at [Evans 
 
 ## About the Camp
 
-Families of students who attend L'École Bilingue have been privately organizing a camping trip over Labour Day long weekend for almost 40 years. This is not a school or PAC sponsored event. It's a chance for families to come together for a private group camp organized by parents. It is a great opportunity to get to know other families while enjoying the great outdoors.
+Families of students who attend L'École Bilingue have been privately organizing a camping trip over the Labour Day long weekend for almost 40 years. It's a great opportunity to get to know other families while enjoying the outdoors. This is not a school or PAC sponsored event.
 
 School-age children (those entering grade one through grade seven) stay in cabins with counsellors. Parents and small children (children entering kindergarten in September, or younger) camp in tents and vans on a grassy field by the lake. All meals are prepared by Evans Lake staff. The camp is participatory with parents assisting with some duties.
 
-This year's camp takes place **September 3–5**. Plan to arrive by 3 pm on Saturday and stay until Monday around 2 pm.
+This year's camp takes place **Labour Day weekend, September 3–5**. Plan to arrive by 3 pm on Saturday and stay until Monday around 2 pm.
 
 ## Cost
 
@@ -24,7 +24,7 @@ $205 per person (entering K and older; younger kids free).
   📋 Register here, starting at 7 pm on May 11th
 </div>
 
-Heads-up: Evans Lake can only accommodate _95 people_, so register early to get a spot. 
+Evans Lake can accommodate _only 95 people_, so register early to get a spot. 
 
 Once you register, you'll receive a confirmation email from the organizing committee within 48 hours. Payment by _Interac_ e-Transfer is then due within one week. Please send the e-Transfer to:
 
@@ -38,6 +38,9 @@ Once you register, you'll receive a confirmation email from the organizing commi
 *	If a surplus remains after the camp is finished, we may be able to reimburse some of the $45 to those who cancelled due to Covid.
 
 ## FAQ
+
+**Where is the camp?**  
+It's at the [Evans Lake Forest Education Centre](https://goo.gl/maps/eU2bzYBFbjybUhtz7){:target="_blank"}, just north of Squamish.
 
 **Do I need to speak French?**  
 No, it’s not an immersion camp.
@@ -53,9 +56,9 @@ Adults: camping gear, tent, air mattress or foam pad, ground cloth, musical inst
 Sorry, no pets please. Stuffies only!
 
 **Is there a coffee shop or grocery nearby?**  
-Not really, but coffee is on pretty early and the snack team make great evening cookies and hot chocolate treats!
+Not really, but coffee is on pretty early and the snack team makes great evening cookies and hot chocolate treats!
 
-**I still have questions!**  
+**I still have a question!**  
 Talk to anyone on the organizing committee or email [lebevanslake@gmail.com](mailto:lebevanslake@gmail.com).
 
 ---
