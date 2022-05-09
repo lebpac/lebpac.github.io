@@ -9,7 +9,7 @@ Public funds cover basic education at L'École Bilingue, but as parents and guar
 
 As outlined in our annual PAC Budget, funds raised are targeted in a number of ways including investments in:
 
-* Arts and Cultural Programs for the entire school (author visits/performances)
+* Arts and cultural programs for the entire school (author visits/performances)
 * Sports equipment, fitness programs (like new jerseys for our school teams)
 * Science workshops
 * Building up our technological resources (tablets/laptops)
