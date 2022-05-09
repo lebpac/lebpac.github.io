@@ -8,7 +8,7 @@ Come join other L'École Bilingue families for our annual Family Camp at [Evans 
 
 ## About the Camp
 
-Families of students who attend L'École Bilingue have been privately organizing a camping trip over the Labour Day long weekend for almost 40 years. It's a great opportunity to get to know other families while enjoying the outdoors. This is not a school or PAC sponsored event.
+Families of students who attend L'École Bilingue have been privately organizing a camping trip over the Labour Day long weekend for almost 40 years. It's a great opportunity to get to know other families while enjoying the outdoors.
 
 School-age children (those entering grade one through grade seven) stay in cabins with counsellors. Parents and small children (children entering kindergarten in September, or younger) camp in tents and vans on a grassy field by the lake. All meals are prepared by Evans Lake staff. The camp is participatory with parents assisting with some duties.
 
@@ -75,3 +75,6 @@ Liz Kay
 Alita Krickan  
 Cyprien Lomas  
 Kyle Robertson
+
+This is not a school or PAC sponsored event.
+{: .footnote}

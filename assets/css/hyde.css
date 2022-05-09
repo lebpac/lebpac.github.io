@@ -253,6 +253,11 @@ html {
   margin-top: 1rem;
 }
 
+.footnote {
+  margin-top: 2rem;
+  color: #c0c0c0;
+}
+
 /* Theme */
 .theme-base-pac .sidebar {
   background-image: linear-gradient(315deg, #081e77, #4141a5);
