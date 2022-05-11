@@ -12,7 +12,7 @@ Families of students who attend L'École Bilingue have been privately organizing
 
 School-age children (those entering grade one through grade seven) stay in cabins with counsellors. Parents and small children (children entering kindergarten in September, or younger) camp in tents and vans on a grassy field by the lake. All meals are prepared by Evans Lake staff. The camp is participatory with parents assisting with some duties.
 
-This year's camp takes place **Labour Day weekend, September 3–5**. Plan to arrive by 3 pm on Saturday and stay until Monday around 2 pm.
+This year's Camp takes place **Labour Day weekend, September 3–5**. Plan to arrive by 3 pm on Saturday and stay until Monday around 2 pm.
 
 ## Cost
 
@@ -20,16 +20,18 @@ $205 per person (entering K and older; younger kids free).
 
 ## How to register 
 
-<div class="message message-icon">
-  📋 Register here, starting at 7 pm on May 11th
-</div>
+{% include link.html link="https://docs.google.com/forms/d/e/1FAIpQLSe1F8PUQFERtSxhxlUce5ldo4F_akvtTewjLLkej0irSqUYRg/viewform?usp=sf_link" text="📋 Register for Evans Lake Family Camp 2022" %}
 
 Evans Lake can accommodate _only 95 people_, so register early to get a spot. 
 
-Once you register, you'll receive a confirmation email from the organizing committee within 48 hours. Payment by _Interac_ e-Transfer is then due within one week. Please send the e-Transfer to:
+Once you register, you'll receive a confirmation email from the organizing committee within 48 hours. Payment and Medical Waivers are then due within one week. Please send payment by _Interac_ e-Transfer to:
 
 *	Name: LAPEB
 *	Email address: lapebtreasurer@gmail.com
+
+{% include link.html link="https://script.google.com/macros/s/AKfycbzPfSdWV_Vdaz8eu9NtRbgGgvUZT23qgS4gqGhVLZ1e2PqhsDc/exec?action=sign&formId=1_cG5-dYUqkjNV0KfGQPA48_gwCrnVoMid2PE_szJwoo&editorUUID=70b047f7-e5cc-4440-a8f2-895860afaf5a" text="🩺 Complete the Medical Waiver" %}
+
+Please note: a separate Medical Waiver is required for all adults and dependants attending the camp.
 
 ### Cancellation policy
 
