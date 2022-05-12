@@ -253,6 +253,10 @@ html {
   margin-top: 1rem;
 }
 
+.message-highlight p:last-child {
+  margin-bottom: 0;
+}
+
 .footnote {
   margin-top: 2rem;
   color: #c0c0c0;
