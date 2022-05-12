@@ -20,9 +20,17 @@ $205 per person (entering K and older; younger kids free).
 
 ## How to register 
 
-{% include link.html link="https://docs.google.com/forms/d/e/1FAIpQLSe1F8PUQFERtSxhxlUce5ldo4F_akvtTewjLLkej0irSqUYRg/viewform?usp=sf_link" text="📋 Register for Evans Lake Family Camp 2022" %}
+<div class="message message-icon">
+  📋 Registration is closed
+</div>
 
-Evans Lake can accommodate _only 95 people_, so register early to get a spot. 
+<div class="message-highlight">
+  <p>Thank you so much for your interest. Registration for Camp is currently closed as spaces filled up very fast. It is wonderful to see such an enthusiastic school community.</p>
+
+  <p>Those who have already completed the registration form will be contacted by email within 48 hours. Spaces will be filled in the order we received registration forms. As we are currently at capacity, some people may be placed on a waitlist and informed as spaces open up.</p>
+
+  <p>Thank you again and looking forward to seeing people at camp!</p>
+</div>
 
 Once you register, you'll receive a confirmation email from the organizing committee within 48 hours. Payment and Medical Waivers are then due within one week. Please send payment by _Interac_ e-Transfer to:
 
