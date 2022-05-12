@@ -3,7 +3,7 @@ layout: page
 title: Lunch Program
 ---
 
-Orders are now closed for the rest of the school year.
+Orders are closed for the rest of the school year.
 
 ## How to order
 
