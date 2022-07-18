@@ -3,8 +3,6 @@ layout: page
 title: Lunch Program
 ---
 
-Orders are closed for the rest of the school year.
-
 ## How to order
 
 {% include link.html link="https://munchalunch.com/schools/leb/" text="🍣 Place your order through MunchaLunch" %}

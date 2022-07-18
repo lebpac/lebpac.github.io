@@ -25,17 +25,13 @@ $205 per person (entering K and older; younger kids free).
 </div>
 
 <div class="message-highlight">
-  <p>Thank you so much for your interest. Registration for Camp is currently closed as spaces filled up very fast. It is wonderful to see such an enthusiastic school community.</p>
-
-  <p>Those who have already completed the registration form will be contacted by email within 48 hours. Spaces will be filled in the order we received registration forms. As we are currently at capacity, some people may be placed on a waitlist and informed as spaces open up.</p>
-
-  <p>Thank you again and looking forward to seeing people at camp!</p>
+  <p>Thank you for your interest. Registration for Camp is currently closed as we are at capacity. It is wonderful to see such an enthusiastic school community!</p>
 </div>
 
 Once you register, you'll receive a confirmation email from the organizing committee within 48 hours. Payment and Medical Waivers are then due within one week. Please send payment by _Interac_ e-Transfer to:
 
-*	Name: LAPEB
-*	Email address: lapebtreasurer@gmail.com
+*	Name: LEB PAC
+*	Email address: treasurer@lebpac.ca
 
 {% include link.html link="https://script.google.com/macros/s/AKfycbzPfSdWV_Vdaz8eu9NtRbgGgvUZT23qgS4gqGhVLZ1e2PqhsDc/exec?action=sign&formId=1_cG5-dYUqkjNV0KfGQPA48_gwCrnVoMid2PE_szJwoo&editorUUID=70b047f7-e5cc-4440-a8f2-895860afaf5a" text="🩺 Complete the Medical Waiver" %}
 
