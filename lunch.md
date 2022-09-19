@@ -3,6 +3,8 @@ layout: page
 title: Lunch Program
 ---
 
+Subscribe to the [mailing list]({% link mailing-list.md %}) for lunch program updates.
+
 ## How to order
 
 {% include link.html link="https://munchalunch.com/schools/leb/" text="🍣 Place your order through MunchaLunch" %}
