@@ -11,7 +11,7 @@ Come join other L'École Bilingue families for our annual Family Camp at [Evans 
 
 Families of students who attend L'École Bilingue have been privately organizing a camping trip over the Labour Day long weekend for almost 40 years. It's a great opportunity to get to know other families while enjoying the outdoors.
 
-School-age children (those entering kindergarten through grade seven) stay in cabins with counsellors. Parents and small children (children entering kindergarten or younger) camp in tents or stay in a limited number of bunk rooms in the lodge. All meals are prepared by Evans Lake staff. The camp is participatory with parents assisting with some duties.
+School-age children (those entering grade one through grade seven) stay in cabins with counsellors. Parents and small children (children entering kindergarten or younger) camp in tents or stay in a limited number of bunk rooms in the lodge. All meals are prepared by Evans Lake staff. The camp is participatory with parents assisting with some duties.
 
 This year's Camp takes place **Labour Day weekend, September 2–4**. Plan to arrive by 3 pm on Saturday and stay until Monday around 2 pm.
 
