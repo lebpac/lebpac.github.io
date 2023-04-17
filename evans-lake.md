@@ -21,32 +21,34 @@ $250 per person (entering K and older; younger kids free).
 
 ## How to register 
 
+{% comment %}
 <div class="message message-icon">
   📋 Register here, starting at 7 pm on April 20th
 </div>
-
-{% comment %}
-{% include link.html link="" text="📋 Register for Evans Lake Family Camp 2023" %}
 {% endcomment %}
 
-Evans Lake can accommodate _only 120 people_, so register early to get a spot. 
+Complete this registration form (opens at **7 pm on April 20th**):
 
-Once you register, you'll receive a confirmation email from the organizing committee within 48 hours. Payment and Medical Waivers are then due within one week.
+{% include link.html link="https://docs.google.com/forms/d/e/1FAIpQLSc7l6fZ8IcnhCHqF_QxAPTFFG3OXixK14Xz9ElxuzWvGmB79g/viewform" text="📋 Register for Evans Lake Family Camp 2023" %}
 
 {% comment %}
-Please send payment by _Interac_ e-Transfer to:
+<div class="message-highlight">
+  <p>Thank you for your interest. Registration for Camp is currently closed as we are at capacity. It is wonderful to see such an enthusiastic school community!</p>
+</div>
+{% endcomment %}
+
+Evans Lake can accommodate _only 120 people_, so register early to get a spot.
+
+Once you register, you'll receive a confirmation email from the organizing committee within 48 hours. Payment is then due within one week via _Interac_ e-Transfer to:
 
 *	Name: LEB PAC
 *	Email address: treasurer@lebpac.ca
 
-{% include link.html link="" text="🩺 Complete the Medical Waiver" %}
-
-A _separate_ Medical Waiver is required for each adult and child attending the camp.
-{% endcomment %}
+Medical, liability, and activity waivers will be sent out later in the spring.
 
 ### Cancellation policy
 
-*	Evans Lake will reimburse camp/food costs for medical reasons up to two weeks before camp ($206 per person). There are no refunds within two weeks of camp.
+*	Evans Lake will reimburse camp/food costs for medical reasons up to two weeks before the camp ($206 per person). There are no refunds within two weeks of camp.
 *	The organizing committee will keep the remaining $44 to cover pre-paid costs (insurance, counsellor fees, arts and crafts supplies, canteen).
 *	If a surplus remains after the camp is finished, we may be able to reimburse some of the $44 to those who cancelled.
 
