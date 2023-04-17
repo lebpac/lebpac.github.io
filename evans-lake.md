@@ -48,7 +48,7 @@ Medical, liability, and activity waivers will be sent out later in the spring.
 
 ### Cancellation policy
 
-*	Evans Lake will reimburse camp/food costs for medical reasons up to two weeks before the camp ($206 per person). There are no refunds within two weeks of camp.
+*	Evans Lake will reimburse camp/food costs for medical reasons up to two weeks before the camp ($206 per person). There are no refunds within two weeks of the camp.
 *	The organizing committee will keep the remaining $44 to cover pre-paid costs (insurance, counsellor fees, arts and crafts supplies, canteen).
 *	If a surplus remains after the camp is finished, we may be able to reimburse some of the $44 to those who cancelled.
 
