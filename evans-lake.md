@@ -7,7 +7,7 @@ sidebar: true
 
 Come join other L'École Bilingue families for our annual Family Camp at [Evans Lake](https://evanslake.com/){:target="_blank"} over the Labour Day long weekend!
 
-## About the Camp
+## About the camp
 
 Families of students who attend L'École Bilingue have been privately organizing a camping trip over the Labour Day long weekend for almost 40 years. It's a great opportunity to get to know other families while enjoying the outdoors.
 
@@ -26,8 +26,6 @@ $250 per person (entering K and older; younger kids free).
   📋 Register here, starting at 7 pm on April 20th
 </div>
 {% endcomment %}
-
-Complete this registration form (opens at **7 pm on April 20th**):
 
 {% include link.html link="https://docs.google.com/forms/d/e/1FAIpQLSc7l6fZ8IcnhCHqF_QxAPTFFG3OXixK14Xz9ElxuzWvGmB79g/viewform" text="📋 Register for Evans Lake Family Camp 2023" %}
 
