@@ -5,13 +5,12 @@ badge: 🎾
 sidebar: false
 ---
 
-Fall/Winter 2023 After-School Programs
+September to December 2023 After-School Programs
 
 ## Mondays
 Art of Tennis — Mini Tennis
 - Grades 1-3
-- September 25, 2023 to December 18, 2023
-    - no classes October 2, October 9, and November 13, 2023
+- September 25 to December 18 (no class October 2, October 9, or November 13)
 - 3:05 p.m. to 5:00 p.m. in the gym
 - $250 (10 sessions)
 
@@ -20,7 +19,7 @@ Art of Tennis — Mini Tennis
 ## Tuesdays
 Lights Up Musical Theatre — “The Little Mermaid”
 - Grades K+ (grouped by age)
-- October 17, 2023 to December 12, 2023
+- October 17 to December 12
 - 3:05 p.m. to 5:15 p.m. in the music room
 - $345 (9 sessions)
 
@@ -29,7 +28,7 @@ Lights Up Musical Theatre — “The Little Mermaid”
 ## Wednesdays
 Art of Tennis — Junior Tennis
 - Grades 4+
-- September 27, 2023 to December 13, 2023
+- September 27 to December 13
 - 3:05 p.m. to 5:00 p.m. in the gym
 - $300 (12 sessions)
 
@@ -38,7 +37,7 @@ Art of Tennis — Junior Tennis
 ## Thursdays
 Young Rembrandts — Art (Cartooning)
 - Grades 1-6
-- September 28, 2023 to December 14, 2023
+- September 28 to December 14
 - 3:05 P.M. to 4:15 p.m. in the music room
 - $264 (12 sessions)
 
@@ -46,7 +45,7 @@ Young Rembrandts — Art (Cartooning)
 
 ---
 
-Our goal for this year is to build out the schedule to offer a broad range of activities for the kids in fitness, arts, and STEM. If there are any specific programs you’d like to see at the school, please let us know!
+Our goal for the 2023/2024 school year is to build out the schedule to offer a broad range of activities for the kids in fitness, arts, and STEM. If there are any specific programs you’d like to see at the school please let us know!
 
 Rose & Allison  
 [programs@lebpac.ca](mailto:programs@lebpac.ca)
