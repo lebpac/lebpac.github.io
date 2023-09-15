@@ -2,7 +2,6 @@
 layout: page
 title: After-School Programs
 badge: 🎾
-sidebar: false
 ---
 
 September to December 2023 After-School Programs
@@ -18,7 +17,7 @@ Art of Tennis — Mini Tennis
 
 ## Tuesdays
 Lights Up Musical Theatre — “The Little Mermaid”
-- Grades K+ (grouped by age)
+- Grades K+ (split by age)
 - October 17 to December 12
 - 3:05 p.m. to 5:15 p.m. in the music room
 - $345 (9 sessions)
