@@ -91,6 +91,9 @@ html {
   display: block;
   line-height: 1.75;
 }
+.sidebar-nav-item img.emoji {
+  margin: 0 .2em 0 0;
+}
 .sidebar-nav-item.active {
   font-weight: bold;
 }

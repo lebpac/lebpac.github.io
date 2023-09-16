@@ -17,12 +17,13 @@
         The code below dynamically generates a sidebar nav of pages with `layout: page` in the front-matter.
       {% endcomment %}
 
-      {% assign pages_list = site.pages %}
+      {% assign pages_list = site.pages | sort: "rank", "last" %}
       {% for node in pages_list %}
         {% if node.title != null and node.sidebar != false %}
           {% if node.layout == "page" %}
             <div class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}">
-              <a href="{{ node.url }}">{{ node.title }}</a> {{ node.badge }}
+              {% if node.badge != null %}<a href="{{ node.url }}">{{ node.badge }}</a>{% endif %}
+              <a href="{{ node.url }}">{{ node.title }}</a> 
             </div>
 
           {% endif %}
