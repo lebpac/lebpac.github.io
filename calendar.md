@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Calendar
-rank: 20
 ---
 
 {% include calendar.html %}

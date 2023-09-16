@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About the PAC
-rank: 10
 ---
 
 {% include_relative _content/about.md %}

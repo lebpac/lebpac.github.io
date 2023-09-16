@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Direct Donation
-rank: 50
 ---
 
 Public funds cover basic education at L'École Bilingue, but as parents and guardians we directly fund additional valuable education resources beyond those normally provided by the VSB and government. Most of our funds are received directly from our parent families and raised through countless volunteer hours and dedicated efforts on programs like the pizza and sushi lunch.

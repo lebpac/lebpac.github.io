@@ -8,6 +8,18 @@ description: L'École Bilingue<br>Parent Advisory Council
 url: https://lebpac.ca
 permalink: /:categories/:year/:month/:day/:title
 
+# Sidebar
+
+sidebar_pages:
+  - about.md
+  - calendar.md
+  - programs.md
+  - lunch.md
+  - donations.md
+  - meetings.md
+  - mailing-list.md
+  - contact.md
+
 # GitHub config settings
 # https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll
 
@@ -22,12 +34,14 @@ kramdown:
   syntax_highlighter: rouge
 
 # Plugins
+
 plugins:
   - jekyll-redirect-from
 whitelist:
   - jekyll-redirect-from
 
 # Excludes
+
 exclude:
   - README.md
   - Gemfile
