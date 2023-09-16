@@ -92,7 +92,7 @@ html {
   line-height: 1.75;
 }
 .sidebar-nav-item img.emoji {
-  margin: 0;
+  margin: 0 .3em 0 0;
 }
 .sidebar-nav-item.active {
   font-weight: bold;

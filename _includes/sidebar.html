@@ -22,7 +22,7 @@
         {% if node.title != null and node.sidebar != false %}
           {% if node.layout == "page" %}
             <div class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}">
-              {% if node.badge != null %}<a href="{{ node.url }}">{{ node.badge }}</a>&nbsp;{% endif %}
+              {% if node.badge != null %}<a href="{{ node.url }}">{{ node.badge }}</a>{% endif %}
               <a href="{{ node.url }}">{{ node.title }}</a> 
             </div>
 
