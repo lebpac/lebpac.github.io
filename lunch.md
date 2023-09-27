@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Lunch Program
-badge: 🍣
 ---
 
 Subscribe to the [mailing list]({% link mailing-list.md %}) for lunch program updates.

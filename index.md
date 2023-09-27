@@ -6,7 +6,7 @@ title: Home
 <!-- **Message**
 {: .message-highlight} -->
 
-# Hello, we're your LEB PAC
+# Hello,
 {: .page-title}
 
 {% include_relative _content/about.md %}
