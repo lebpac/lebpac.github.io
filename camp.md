@@ -84,6 +84,3 @@ Sarah Evanetz
 Kelly Grossert  
 Liz Kay  
 Tessa Wilson
-
-This is not a school or PAC sponsored event.
-{: .footnote}
