@@ -6,7 +6,8 @@ badge: 🍣
 
 Sushi lunch is back every Tuesday starting October 10th!
 
-{% include link.html link="https://munchalunch.com/schools/leb/" text="🍣 Place your order through MunchaLunch" %}
+{% capture munchalunch_link %}{% link munchalunch.html %}{% endcapture %}
+{% include link.html link=munchalunch_link text="🍣 Place your order through MunchaLunch" %}
 
 Lunch orders for the 2023 fall session (October 10th to December 19th) must be placed through MunchaLunch by **Thursday, October 5th**.
 
