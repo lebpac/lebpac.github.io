@@ -62,7 +62,7 @@ September to December 2023 After-School Programs
 - 3:05 to 4:35 pm in the music room
 - $220 + $25 registration fee (6 sessions)
 
-{% include link.html link="https://app.amilia.com/store/en/wize-academy-of-vancouver-south-richmond/shop/programs/95017" text="📋 Sign up for Robotics with Lego WeDo" %}
+{% include link.html link="https://app.amilia.com/store/en/wize-academy-of-vancouver-south-richmond/shop/programs/95017" text="📋 Sign up for Robotics with LEGO WeDo" %}
 
 ---
 
