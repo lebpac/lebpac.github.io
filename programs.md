@@ -56,7 +56,7 @@ September to December 2023 After-School Programs
 
 ## Fridays
 
-#### Wize Computing — Robotics with Lego WeDo
+#### Wize Computing — Robotics with LEGO WeDo
 - 6-8 years old
 - October 27 to December 15 (no class November 10 or November 24)
 - 3:05 to 4:35 pm in the music room
