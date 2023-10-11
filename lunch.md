@@ -19,9 +19,9 @@ The current lunch session runs until December 21st. Orders for the _entire sessi
 
 We need your help! If you're able to volunteer, even occasionally, please sign up. Any time you're able to give will be greatly appreciated!
 
-{% include link.html link="https://signup.com/go/dJcVfui" text="🍣 Volunteer to help with sushi" %}
+{% include link.html link="https://signup.com/go/FHfXYcB" text="🍣 Volunteer to help with sushi" %}
 
-{% include link.html link="https://signup.com/go/FHfXYcB" text="🍕 Volunteer to help with pizza" %}
+{% include link.html link="https://signup.com/go/dJcVfui" text="🍕 Volunteer to help with pizza" %}
 
 ---
 
