@@ -25,4 +25,4 @@ We need your help! If you're able to volunteer, even occasionally, please sign u
 
 ---
 
-Have a lunch question? Send Krista an email at [lunch@lebpac.ca](mailto:lunch@lebpac.ca).
+Have a lunch question? Send Krista a friendly email at [lunch@lebpac.ca](mailto:lunch@lebpac.ca).
