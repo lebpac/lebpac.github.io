@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AGM Meeting
+title: PAC AGM
 tag: 2020-2021
 ---
 {% capture minutes_file %}meetings/{{ page.date | date: "%Y-%m-%d" }}-agm-minutes.pdf{% endcapture %}
