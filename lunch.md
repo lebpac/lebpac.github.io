@@ -10,7 +10,7 @@ Sushi Tuesdays and Pizza Thursdays are back for the 2023–24 school year!
 
 Lunch orders are placed through MunchaLunch.
 
-The current lunch session runs until December 21st. Orders for the _entire session_ must be placed before the session starts. Be sure to subscribe to the [mailing list]({% link mailing-list.md %}) for lunch program updates.
+The current lunch session runs until December 21st. Orders for the _entire session_ must be placed before the session starts. Be sure you're subscribed to the [mailing list]({% link mailing-list.md %}) for lunch program updates.
 
 {% capture munchalunch_link %}{% link munchalunch.html %}{% endcapture %}
 {% include link.html link=munchalunch_link text="🥪 Place your lunch order through MunchaLunch" %}
@@ -25,4 +25,4 @@ We need your help! If you're able to volunteer, even occasionally, please sign u
 
 ---
 
-Have a lunch question? Send Krista a friendly email at [lunch@lebpac.ca](mailto:lunch@lebpac.ca).
+Have a lunch question? Send Krista an email at [lunch@lebpac.ca](mailto:lunch@lebpac.ca).
