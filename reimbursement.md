@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Reimbursements
+title: Reimbursement Policy
 ---
 
 Complete this form to get reimbursed for a PAC-related expense:
