@@ -15,10 +15,10 @@ sidebar_pages:
   - calendar.md
   - programs.md
   - lunch.md
+  - volunteer.md
   - donations.md
   - meetings.md
   - mailing-list.md
-  - contact.md
 
 # GitHub config settings
 # https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll
