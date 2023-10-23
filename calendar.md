@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Calendar
+badge: 🗓️
 ---
 
 {% include calendar.html %}
