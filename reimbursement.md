@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Reimbursement Policy
+title: Expense Reimbursement
 ---
 
-Complete this form to get reimbursed for a PAC-related expense:
+Complete the form below to get reimbursed for a PAC-related expense.
 
 {% include link.html link="https://docs.google.com/spreadsheets/d/1ydh-vbmsMCnqQN96lJSOwFTv6ajlWWujYARq3ERnKLs/edit?usp=sharing" text="📄 LEB PAC Expense Reimbursement Form" %}
 
