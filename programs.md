@@ -58,7 +58,7 @@ September to December 2023 After-School Programs
 
 #### Wize Computing — Robotics with LEGO WeDo
 - 6-8 years old
-- November 3 to December 15 (there will be class on the November 24 Pro-D Day)
+- November 3 to December 15 (there _is_ class on the November 24 Pro-D Day)
 - 3:05 to 4:35 pm in the music room
 - $220 + $25 registration fee (6 sessions)
 
