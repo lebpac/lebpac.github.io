@@ -13,9 +13,9 @@ permalink: /:categories/:year/:month/:day/:title
 sidebar_pages:
   - about.md
   - calendar.md
+  - volunteer.md
   - programs.md
   - lunch.md
-  - volunteer.md
   - donations.md
   - meetings.md
   - reimbursement.md

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: After-School Programs
-badge: 🤖
+# badge: 🤖
 ---
 
 September to December 2023 After-School Programs

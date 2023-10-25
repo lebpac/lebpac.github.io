@@ -1,16 +1,18 @@
 ---
 layout: page
 title: Get Involved
-badge: 🎃
+badge: 🙌
 ---
 
 Join other parents and get involved with your school community.
 
+{% comment %}
 ## Halloween Haunt
 
 The Halloween Haunt Leads are looking for volunteers! If you're interested in volunteering, please join the [WhatsApp group chat](https://chat.whatsapp.com/BwynZctcTWX6mHmWlXPa03)!
 
 {% include link.html link="https://docs.google.com/spreadsheets/d/1ZOsl05mREL125tX5NkQ4AUsx1bBDlVo9/edit" text="🎃 Volunteer for the Halloween Haunt" %}
+{% endcomment %}
 
 ## Lunch
 
