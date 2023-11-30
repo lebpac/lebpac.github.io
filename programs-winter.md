@@ -3,12 +3,12 @@ layout: page
 title: After-School Programs
 ---
 
-January to March 2024 After School Programs
+## January to March 2024 After School Programs
 
 🎾 Tennis: Coach Carlos is planning on offering tennis lessons again in the winter. We are awaiting some dates from the school board before he can finalize his bookings. Thanks for your patience!
 
 
-## Mondays 
+### Mondays 
 
 #### Wize Computing — 3D Modeling, Design and Printing 🖨️
 - Grade 3 to 5
@@ -18,7 +18,7 @@ January to March 2024 After School Programs
 
 {% include link.html link="https://app.amilia.com/store/en/wize-academy-of-vancouver-south-richmond/shop/programs/96476" text="📋 Learn more and sign up for Wize Computing" %}
 
-## Tuesdays
+### Tuesdays
 
 #### Lights Up Musical Theatre - "Toy Story" 🎭
 - Grades 1+ (split by age)
@@ -28,7 +28,7 @@ January to March 2024 After School Programs
 
 {% include link.html link="https://lightsuptheatre.ca/afterschool/lecolebilingue/" text="📋 Learn more and sign up for Lights Up Musical Theatre" %}
 
-## Wednesdays
+### Wednesdays
 
 #### Petit Architect — Design and Architecture in French! 🏛
 - Grades 2 to 7
@@ -47,7 +47,7 @@ January to March 2024 After School Programs
 
 {% include link.html link="https://app.amilia.com/store/en/wize-academy-of-vancouver-south-richmond/shop/programs/96476" text="📋 Learn more and sign up for Wize Computing" %}
 
-## Thursdays
+### Thursdays
 
 #### Young Rembrandts — Drawing Classes for Kids ✏️
 - Grades 1 to 6
@@ -61,7 +61,7 @@ January to March 2024 After School Programs
 
 September to December 2023 After-School Programs
 
-## Mondays
+### Mondays
 
 #### Art of Tennis — Mini Tennis
 - Grades 1-3
@@ -75,7 +75,7 @@ September to December 2023 After-School Programs
 - 3:05 to 4:35 pm in the music room
 - $290 + $25 registration fee (8 sessions)
 
-## Tuesdays
+### Tuesdays
 
 #### Lights Up Musical Theatre — “The Little Mermaid”
 - Grades K+ (split by age)
@@ -83,7 +83,7 @@ September to December 2023 After-School Programs
 - 3:05 to 5:15 pm in the music room
 - $345 (9 sessions)
 
-## Wednesdays
+### Wednesdays
 
 #### Art of Tennis — Junior Tennis
 - Grades 4+
@@ -91,7 +91,7 @@ September to December 2023 After-School Programs
 - 3:05 to 5:00 pm in the gym (except October 25 from 2:00 — 4:00 pm)
 - $300 (12 sessions)
 
-## Thursdays
+### Thursdays
 
 #### Young Rembrandts — Art (Cartooning)
 - Grades 1-6
@@ -99,7 +99,7 @@ September to December 2023 After-School Programs
 - 3:05 to 4:15 pm in the music room (except October 26 from 2:15 - 3:15 pm)
 - $264 (12 sessions)
 
-## Fridays
+### Fridays
 
 #### Wize Computing — Robotics with LEGO WeDo
 - 6-8 years old
