@@ -6,8 +6,7 @@ title: After-School Programs
 
 ## January to March 2024 After-School Programs
 
-Tennis: Coach Carlos is planning on offering the Art of Tennis programs (Mini and Junior) again next term. However, we're awaiting some dates from the school board before he can confirm his dates. Thank you for your patience!
-
+🎾 Tennis: Coach Carlos is planning on offering the Art of Tennis programs (Mini and Junior) again next term. However, we're awaiting some dates from the school board before he can confirm his dates. Thank you for your patience!
 
 ### Mondays
 
@@ -29,7 +28,6 @@ Tennis: Coach Carlos is planning on offering the Art of Tennis programs (Mini an
 
 {% include link.html link="https://lightsuptheatre.ca/afterschool/lecolebilingue/" text="📋 Sign up for Lights Up Musical Theatre" %}
 
-
 ### Wednesdays
 
 #### Petit Architect — Design and Architecture in French! 🏛
@@ -39,11 +37,7 @@ Tennis: Coach Carlos is planning on offering the Art of Tennis programs (Mini an
 - 3:15 to 4:45 pm in the music room (on February 14, early dismissal day, class will run from 2:15 - 3:45 pm)
 - 9 sessions for $280
 
-
-
-
-{% include link.html link="https://campscui.active.com/orgs/PetitArchitectDesignforKids?season=3399835&session=61157442" text="📋 Sign up for Young Rembrandts" %}
-
+{% include link.html link="https://campscui.active.com/orgs/PetitArchitectDesignforKids?season=3399835&session=61157442" text="📋 Sign up for Petit Architect" %}
 
 #### Wize Computing — Two options!
 - Engineering and Robotics with Lego Spike & WeDo for Grades 1 to 3 🤖
@@ -63,11 +57,6 @@ Tennis: Coach Carlos is planning on offering the Art of Tennis programs (Mini an
 - 8 sessions for $176 
 
 {% include link.html link="https://campscui.active.com/orgs/YoungRembrandtsMetroVancouver?season=3416639&session=61190739" text="📋 Learn more and sign up for Young Rembrandts" %}
-
-
-
-
-
 
 ---
 
