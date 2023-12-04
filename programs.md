@@ -16,7 +16,7 @@ title: After-School Programs
 - 3:05 to 4:35 pm in the music room
 - 6 sessions for $220 + $25 annual registration fee (if not a previous student)
 
-{% include link.html link="https://app.amilia.com/store/en/wize-academy-of-vancouver-south-richmond/shop/programs/96476" text="📋 Sign up for Modding in Minecraft" %}
+{% include link.html link="https://app.amilia.com/store/en/wize-academy-of-vancouver-south-richmond/shop/programs/96476" text="📋 Sign up for Wize Computing" %}
 
 ### Tuesdays
 
@@ -26,7 +26,7 @@ title: After-School Programs
 - 3:05 to 5:15 pm in the music room
 - 9 sessions for $345
 
-{% include link.html link="https://lightsuptheatre.ca/afterschool/lecolebilingue/" text="📋 Sign up for Lights Up Musical Theatre" %}
+{% include link.html link="https://lightsuptheatre.ca/afterschool/lecolebilingue/" text="📋 Sign up for Lights Up" %}
 
 ### Wednesdays
 
