@@ -6,12 +6,21 @@ title: After-School Programs
 
 ## January to March 2024 After-School Programs
 
-🎾 Tennis: Coach Carlos is planning on offering the Art of Tennis programs (Mini and Junior) again next term. However, we're awaiting some dates from the school board before he can confirm his dates. Thank you for your patience!
-
 ### Mondays
 
-#### Wize Computing — 3D Modeling, Design and Printing 🖨️
-- Grade 3-5
+
+#### 🎾 Art of Tennis — Mini Tennis 
+- Grade 1 to 3
+- January 8 to March 11, except no classes on January 22 (Pro-D Day) or February 19 (Family Day)
+- 3:05 to 5:00 in the gym
+- 8 sessions for $200 
+- Important: LEB is participating in a basketball tournament that may impact the schedule. We are awaiting dates from the VSB. Refunds or makeups will be applied.
+
+{% include link.html link="https://docs.google.com/spreadsheets/d/12xdVk9L4r9c0qNkISsQT1ZfVwSeE2YtcewliF5DHPMs/edit?usp=sharing" text="📋 Sign up for Mini Tennis" %}
+
+
+#### 🖨️ Wize Computing — 3D Modeling, Design and Printing 
+- Grade 3 to 5
 - January 29 to March 11, except no class on February 19 (Family Day)
 - 3:05 to 4:35 pm in the music room
 - 6 sessions for $220 + $25 annual registration fee (if not a previous student)
@@ -20,7 +29,7 @@ title: After-School Programs
 
 ### Tuesdays
 
-#### Lights Up Musical Theatre — "Toy Story" 🎭
+#### 🎭 Lights Up Musical Theatre — "Toy Story" 
 - Grades 1+ (split by age)
 - January 16 to March 12
 - 3:05 to 5:15 pm in the music room
@@ -30,18 +39,26 @@ title: After-School Programs
 
 ### Wednesdays
 
-#### Petit Architect — Design and Architecture in French! 🏛
+#### 🎾 Art of Tennis — Junior Tennis
+- Grade 4 to 7
+- January 10 to March 13,
+- 3:05 to 5:00 in the gym  (on February 14, early dismissal day, class will run from 2:05 - 4:00 pm)
+- 10 sessions for $250 
+- Important: LEB is participating in a basketball tournament that may impact the schedule. We are awaiting dates from the VSB. Refunds or makeups will be applied.
 
-- Grades 2 to 7
+{% include link.html link="https://docs.google.com/spreadsheets/d/1RE_7LC90_BYtt3oLNa5M01DbEoItFRy53SWjZqXJIUk/edit?usp=sharing" text="📋 Sign up for Junior Tennis" %}
+
+#### 🏛 Petit Architect — Design and Architecture in French! 
+- Grade 2 to 7
 - January 17 to March 13
 - 3:15 to 4:45 pm in the music room (on February 14, early dismissal day, class will run from 2:15 - 3:45 pm)
 - 9 sessions for $280
 
 {% include link.html link="https://campscui.active.com/orgs/PetitArchitectDesignforKids?season=3399835&session=61157442" text="📋 Sign up for Petit Architect" %}
 
-#### Wize Computing — Two options!
-- Engineering and Robotics with Lego Spike & WeDo for Grades 1 to 3 🤖
-- Coding, Designing & Modding with Minecraft for Grades 3 to 5 👩‍💻
+#### 🤖 Wize Computing — Two options!
+- Engineering and Robotics with Lego Spike & WeDo for Grade 1 to 3 
+- Coding, Designing & Modding with Minecraft for Grade 3 to 5 
 - January 17 to March 13 (no class on February 14, early dismissal day)
 - 3:05 to 4:35 pm in the library
 - 8 sessions for $290 + $25 annual registration fee (if not a previous student)
