@@ -8,7 +8,6 @@ title: After-School Programs
 
 ### Mondays
 
-
 #### 🎾 Art of Tennis — Mini Tennis 
 - Grade 1 to 3
 - January 8 to March 11, except no classes on January 22 (Pro-D Day) or February 19 (Family Day)
@@ -30,7 +29,7 @@ title: After-School Programs
 ### Tuesdays
 
 #### 🎭 Lights Up Musical Theatre — "Toy Story" 
-- Grades 1+ (split by age)
+- Grades 1 to 7 (split by age)
 - January 16 to March 12
 - 3:05 to 5:15 pm in the music room
 - 9 sessions for $345
@@ -57,8 +56,8 @@ title: After-School Programs
 {% include link.html link="https://campscui.active.com/orgs/PetitArchitectDesignforKids?season=3399835&session=61157442" text="📋 Sign up for Petit Architect" %}
 
 #### 🤖 Wize Computing — Two options!
-- Engineering and Robotics with Lego Spike & WeDo for Grade 1 to 3 
-- Coding, Designing & Modding with Minecraft for Grade 3 to 5 
+- Engineering and Robotics with Lego Spike & WeDo for Grade 1 to 2 
+- Coding, Designing & Modding with Minecraft for Grade 3 to 5
 - January 17 to March 13 (no class on February 14, early dismissal day)
 - 3:05 to 4:35 pm in the library
 - 8 sessions for $290 + $25 annual registration fee (if not a previous student)
@@ -67,7 +66,7 @@ title: After-School Programs
 
 ### Thursdays
 
-#### Young Rembrandts — Drawing Classes for Kids ✏️
+#### ✏️ Young Rembrandts — Drawing Classes for Kids 
 - Grades 1 to 6
 - January 25 to March 14
 - 3:05 to 4:15 pm in the music room (on February 15, early dismissal day, class will run from 2:05 - 3:15 pm)
