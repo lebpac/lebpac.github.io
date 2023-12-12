@@ -67,7 +67,7 @@ title: After-School Programs
 
 ### Thursdays
 
-#### Young Rembrandts — Drawing Classes for Kids ✏️
+#### ✏️ Young Rembrandts — Drawing Classes for Kids
 - Grades 1 to 6
 - January 25 to March 14
 - 3:05 to 4:15 pm in the music room (on February 15, early dismissal day, class will run from 2:05 - 3:15 pm)
