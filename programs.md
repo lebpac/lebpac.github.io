@@ -54,7 +54,7 @@ title: After-School Programs
 - 3:15 to 4:45 pm in the music room (on February 14, early dismissal day, class will run from 2:15 - 3:45 pm)
 - 9 sessions for $280
 
-{% include link.html link="https://campscui.active.com/orgs/PetitArchitectDesignforKids?season=3399835&session=61157442" text="📋 Sign up for Petit Architect" %}
+{% include link.html link="https://petitarchitect.com/school-pacs" text="📋 Sign up for Petit Architect" %}
 
 #### 🤖 Wize Computing — Two options!
 - Engineering and Robotics with Lego Spike & WeDo for Grade 1 to 3 
