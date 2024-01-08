@@ -4,10 +4,9 @@ title: After-School Programs
 # badge: 🤖
 ---
 
-## January to March 2024 After-School Programs
+## January to March 2024
 
 ### Mondays
-
 
 #### 🎾 Art of Tennis — Mini Tennis 
 - Grade 1 to 3
@@ -17,7 +16,6 @@ title: After-School Programs
 - Important: LEB is participating in a basketball tournament that may impact the schedule. We are awaiting dates from the VSB. Refunds or makeups will be applied.
 
 {% include link.html link="https://docs.google.com/spreadsheets/d/12xdVk9L4r9c0qNkISsQT1ZfVwSeE2YtcewliF5DHPMs/edit?usp=sharing" text="📋 Sign up for Mini Tennis" %}
-
 
 #### 🖨️ Wize Computing — 3D Modeling, Design and Printing 
 - Grade 3 to 7
@@ -77,7 +75,7 @@ title: After-School Programs
 
 ---
 
-## September to December 2023 After-School Programs
+## September to December 2023
 
 ### Mondays
 
@@ -124,7 +122,6 @@ title: After-School Programs
 - November 3 to December 15 (there _is_ class on the November 24 Pro-D Day)
 - 3:05 to 4:35 pm in the music room
 - $220 + $25 registration fee (6 sessions)
-
 
 --- 
 
