@@ -55,7 +55,7 @@ title: After-School Programs
 {% include link.html link="https://petitarchitect.com/school-pacs" text="📋 Sign up for Petit Architect" %}
 
 #### 🤖 Wize Computing — Engineering and Robotics with Lego Spike & WeDo
-- Grade 3 to 7
+- Grade 1 to 3
 - January 17 to March 13 (no class on February 14, early dismissal day)
 - 3:05 to 4:35 pm in the library
 - 8 sessions for $290 + $25 annual registration fee (if not a previous student)
