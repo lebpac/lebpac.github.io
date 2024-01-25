@@ -8,7 +8,7 @@ title: After-School Programs
 
 Important: the basketball schedule has been released and several tennis classes have been cancelled. Please see the updated dates below and contact Coach Carlos for more information.
 
-We're super excited to have several programs running. [See a summary schedule here](https://docs.google.com/document/d/1Fq3Nm42klQ7kkVMkdogxYvRjm7SdTlvdapSymFKO5j8/) (we try to keep this up to date).
+We're super excited to have several programs running this winter! [See a summary schedule here](https://docs.google.com/document/d/1Fq3Nm42klQ7kkVMkdogxYvRjm7SdTlvdapSymFKO5j8/).
 
 ### Mondays
 
@@ -44,7 +44,7 @@ We're super excited to have several programs running. [See a summary schedule he
 #### 🎾 Art of Tennis — Junior Tennis
 - Grade 4 to 7
 - **UPDATED**: January 10 to March 13, except no classes January 24, January 31, February 7, and February 14 (due to VSB basketball)
-- 3:05 to 5:00 in the gym  (on February 14, early dismissal day, class will run from 2:05 - 4:00 pm)
+- 3:05 to 5:00 in the gym
 - 10 sessions for $250, please contact Coach Carlos about refunds or make-up classes
 
 {% include link.html link="https://docs.google.com/spreadsheets/d/1RE_7LC90_BYtt3oLNa5M01DbEoItFRy53SWjZqXJIUk/edit?usp=sharing" text="📋 Sign up for Junior Tennis" %}
