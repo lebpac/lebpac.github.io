@@ -6,7 +6,9 @@ title: After-School Programs
 
 ## January to March 2024
 
-Important: the basketball schedule has been release and many tennis classes are impacted. Please see dates below and contact Coach Carlos for more information about refunds or makeups.
+Important: the basketball schedule has been released and several tennis classes have been cancelled. Please see the updated dates below and contact Coach Carlos for more information.
+
+We're super excited to have several programs running. [See a summary schedule here](https://docs.google.com/document/d/1Fq3Nm42klQ7kkVMkdogxYvRjm7SdTlvdapSymFKO5j8/) (we try to keep this up to date).
 
 ### Mondays
 
