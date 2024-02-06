@@ -51,7 +51,8 @@ We're super excited to have several programs running this winter! [See a summary
 
 #### 🏛 Petit Architect — Design and Architecture in French! 
 - Grade 2 to 7
-- January 17 to March 13, likely snow day make up on April 3
+- January 17 to March 13
+- **UPDATED: Make up class for snow day April 3**
 - **UPDATED**: 3:05 to 4:35 pm in the music room (on February 14, early dismissal day, class will run from 2:05 - 3:35 pm)
 - 9 sessions for $280
 
@@ -59,7 +60,8 @@ We're super excited to have several programs running this winter! [See a summary
 
 #### 🤖 Wize Computing — Engineering and Robotics with Lego Spike & WeDo
 - Grade 1 to 3
-- January 17 to March 13 (no class on February 14, early dismissal day)
+- January 17 to March 13 ~no class on February 14, early dismissal day~
+= **UPDATED: Make up class for snow day February 14 from 2:05 - 3:35**
 - 3:05 to 4:35 pm in the library
 - 8 sessions for $290 + $25 annual registration fee (if not a previous student)
 
