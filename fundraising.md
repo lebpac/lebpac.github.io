@@ -11,10 +11,10 @@ As parents and guardians, we directly fund additional educational resources beyo
 Most of our funds are raised through direct donation, an annual voluntary contribution.
 
 <a class="message message-icon" href="{% link donations.md %}">
-  💵 Donate directly to the LEB PAC
+  💵 Donate directly to the PAC
 </a>
 
-## Other ways to support the LEB PAC
+## Other ways to support the PAC
 
 ### Mabel's Labels
 
@@ -22,7 +22,7 @@ Most of our funds are raised through direct donation, an annual voluntary contri
 
 Mabel’s Labels sells highly customizable labels that are laundry and dishwasher safe. For use on clothing, shoes, bags, lunchboxes and anything your child might use or lose at school.
 
-{% include link.html link="https://campaigns.mabelslabels.com" text="🔗 Support the LEB PAC with Mabel's Labels" %}
+{% include link.html link="https://campaigns.mabelslabels.com" text="🔗 Support the PAC with Mabel's Labels" %}
 
 Click the link, search for L'Ecole Bilingue PAC (Vancouver), and shop!
 
@@ -32,7 +32,7 @@ Click the link, search for L'Ecole Bilingue PAC (Vancouver), and shop!
 
 Reduce your families single use plastics with laundry strips! Every 32-load eco-strips package eliminates 1 plastic jug from potentially ending up in landfills and oceans. Tru Earth sells laundry detergent as well as other environmentally friendly products.
 
-{% include link.html link="http://tru-earth.sjv.io/lebpac" text="🔗 Support the LEB PAC with Tru Earth" %}
+{% include link.html link="http://tru-earth.sjv.io/lebpac" text="🔗 Support the PAC with Tru Earth" %}
 
 ### COBS Bread
 
