@@ -8,9 +8,9 @@ As parents and guardians, we directly fund additional educational resources beyo
 
 ## Direct donation
 
-Most of our funds are raised through direct donation, an annual voluntary contribution.
+Most of our funds are raised through direct donation, an annual voluntary contribution. The suggested amount is **$100 per child**. This allows us to significantly reduce the number of small fundraisers and retain only those that are efficient and contribute to our community. All donations are eligible for an income tax receipt.
 
-<a class="message message-icon" href="{% link donations.md %}">
+<a class="message message-icon" href="{% link donate.md %}">
   💵 Donate directly to the PAC
 </a>
 
