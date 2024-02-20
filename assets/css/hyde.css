@@ -252,6 +252,10 @@ html {
  * PAC Edits
  */
 
+img {
+  margin: 1rem auto;
+}
+
 .page-title + .message-highlight {
   margin-top: 1rem;
 }
