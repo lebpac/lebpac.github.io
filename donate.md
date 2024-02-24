@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Donate to the PAC
+redirect_from: /donations
 ---
 
 The easiest way to donate is through SchoolCash Online.
