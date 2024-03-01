@@ -18,14 +18,12 @@ Please remember that these programs are not school-sanctioned nor supervised by 
 - $200, 8 sessions
 - [Registration link](https://docs.google.com/spreadsheets/d/1vQohuhOQM21fs39-IdUQgWBdiJPJc8vmgxv4nj_XSkY/edit?usp=sharing)
 
-
 #### 📱 Wize Computing — Mobile App Development (Music Room)
 - Grade 3 to 7
-- April 29 to June 17, except no class on May 20 (Victoria Day) 
+- April 29 to June 24, except no class on May 20 (Victoria Day) 
 - 3:05 to 4:35 pm in the music room
 - $290, 8 sessions + $25 annual registration fee (if new to WIZE)
 - [Registration link](https://app.amilia.com/store/en/wize-academy-of-vancouver-south-richmond/shop/programs)
-- _Note:_ the session end date and number of sessions don't line up due to the holiday. We're working with WIZE to get this sorted. 
 
 ### Tuesdays
 
