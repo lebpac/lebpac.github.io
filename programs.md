@@ -4,6 +4,9 @@ title: After-School Programs
 # badge: 🤖
 ---
 
+Please remember that these programs are not school-sanctioned nor supervised by the PAC or by L’Ecole Bilingue staff. The instructors rent school space from the VSB Rentals Department and are fully responsible for the supervision of the students. Please ensure your child knows exactly where and when to go (or be there to help on the first day of the program).
+{: .footnote}
+
 ## April to June 2024
 
 ### Mondays
@@ -107,6 +110,3 @@ Our goal is to build out the schedule to offer a broad range of activities for t
 
 Rose & Allison
 [programs@lebpac.ca](mailto:programs@lebpac.ca)
-
-Please remember that these programs are not school-sanctioned nor supervised by the PAC or by L’Ecole Bilingue staff. The instructors rent school space from the VSB Rentals Department and are fully responsible for the supervision of the students. Please ensure your child knows exactly where and when to go (or be there to help on the first day of the program).
-{: .footnote}
