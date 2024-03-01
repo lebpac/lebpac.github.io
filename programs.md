@@ -11,29 +11,32 @@ Please remember that these programs are not school-sanctioned nor supervised by 
 
 ### Mondays
 
-#### 🎾 Art of Tennis — Mini Tennis
+#### 🎾 Art of Tennis — Mini Tennis (Gym)
 - Grade 1 to 3
-- April 29 to June 24, except no class on May 29 (Victoria Day)
+- April 29 to June 24, except no class on May 20 (Victoria Day)
 - 3:05 to 5:00 in the gym
 - $200, 8 sessions
 - [Registration link](https://docs.google.com/spreadsheets/d/1vQohuhOQM21fs39-IdUQgWBdiJPJc8vmgxv4nj_XSkY/edit?usp=sharing)
 
 
-#### 📱 Wize Computing — Mobile App Development
+#### 📱 Wize Computing — Mobile App Development (Music Room)
 - Grade 3 to 7
-- Dates, cost, and registration link coming soon (check back)
+- April 29 to June 17, except no class on May 20 (Victoria Day) 
 - 3:05 to 4:35 pm in the music room
+- $290, 8 sessions + $25 annual registration fee (if new to WIZE)
+- [Registration link](https://app.amilia.com/store/en/wize-academy-of-vancouver-south-richmond/shop/programs)
+- _Note:_ the session end date and number of sessions don't line up due to the holiday. We're working with WIZE to get this sorted. 
 
 ### Tuesdays
 
-#### 🏀 DRIVE Basketball Academy
+#### 🏀 DRIVE Basketball Academy (Gym)
 - Grades 2 to 4
 - April 2 to June 18
 - 3:05 to 5:05 pm in the gym
 - $360+ tax, 12 sessions
 - [Registration link](https://drivebasketball.teamsportsadmin.com/events/details/tryout/3929)
 
-#### 🎭 Lights Up Musical Theatre — "The Lorax"
+#### 🎭 Lights Up Musical Theatre — "The Lorax" (Music Room)
 - Grades 1 to 7 (split by age)
 - April 2 to May 28
 - 3:05 to 5:15 pm in the music room
@@ -42,14 +45,14 @@ Please remember that these programs are not school-sanctioned nor supervised by 
 
 ### Wednesdays
 
-#### 🎾 Art of Tennis — Junior Tennis
+#### 🎾 Art of Tennis — Junior Tennis (Gym)
 - Grade 4 to 7
 - April 24 to June 26
 - 3:05 to 5:00 in the gym
 - $250, 10 sessions
 - [Registration link](https://docs.google.com/spreadsheets/d/1GCDPNayQmLxIwNnFNZM5EAhVx7KGsJO0_iyW7KBiH8Y/edit?usp=sharing)
 
-#### 🏛 Petit Architect — Design and Architecture in French
+#### 🏛 Petit Architect — Design and Architecture in French (Music Room)
 - Grade 2 to 7
 - April 10 to June 12
 - 3:05 to 4:35 pm in the music room
@@ -59,27 +62,29 @@ Please remember that these programs are not school-sanctioned nor supervised by 
 
 ### Thursdays
 
-#### 🏀 DRIVE Basketball Academy
+#### 🏀 DRIVE Basketball Academy (Gym)
 - Grades 5 to 7
 - April 4 to June 20
 - 3:05 to 5:05 pm in the gym
 - $360+ tax, 12 sessions
 - [Registration link](https://drivebasketball.teamsportsadmin.com/events/details/tryout/3929)
 
-#### ✏️ Young Rembrandts — Drawing
+#### ✏️ Young Rembrandts — Elementary Drawing (Music Room)
 - Grades 1 to 6
 - April 25 to June 13
 - 3:05 to 4:15 pm in the music room
-- 8 sessions for $176
+- $176, 8 sessions
 - [Registration link](https://campscui.active.com/orgs/YoungRembrandtsMetroVancouver?season=3465445&session=62302245)
 
 
 ### Fridays
 
-#### 🤖 Wize Computing — Engineering and Robotics with Lego Spike & WeDo
+#### 🤖 Wize Computing — Engineering and Robotics with Lego Spike & WeDo (Music Room)
 - Grade 1 to 3
-- Dates, cost, and registration link coming soon (check back)
+- April 26 to June 14, except no class on May 20 (Victoria Day) 
 - 3:05 to 4:35 pm in the music room
+- $290, 8 sessions + $25 annual registration fee (if new to WIZE)
+- [Registration link](https://app.amilia.com/store/en/wize-academy-of-vancouver-south-richmond/shop/programs)
 
 
 ---
