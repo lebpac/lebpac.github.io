@@ -4,8 +4,10 @@ title: After-School Programs
 # badge: 🤖
 ---
 
-Please remember that these programs are not school-sanctioned nor supervised by the PAC or by L’Ecole Bilingue staff. The instructors rent school space from the VSB Rentals Department and are fully responsible for the supervision of the students. Please ensure your child knows exactly where and when to go (or be there to help on the first day of the program).
-{: .footnote}
+These programs are not school-sanctioned nor supervised by the PAC or L'École Bilingue staff. The instructors rent school space from the VSB Rentals Department and are fully responsible for the supervision of the students.
+
+Please ensure your child knows exactly where and when to go.
+{: .message-highlight}
 
 ## April to June 2024
 
@@ -57,7 +59,6 @@ Please remember that these programs are not school-sanctioned nor supervised by 
 - $315, 9 sessions
 - [Registration link](https://petitarchitect.com/school-pacs)
 
-
 ### Thursdays
 
 #### 🏀 DRIVE Basketball Academy (Gym)
@@ -74,7 +75,6 @@ Please remember that these programs are not school-sanctioned nor supervised by 
 - $176, 8 sessions
 - [Registration link](https://campscui.active.com/orgs/YoungRembrandtsMetroVancouver?season=3465445&session=62302245)
 
-
 ### Fridays
 
 #### 🤖 Wize Computing — Engineering and Robotics with Lego Spike & WeDo (Music Room)
@@ -83,7 +83,6 @@ Please remember that these programs are not school-sanctioned nor supervised by 
 - 3:05 to 4:35 pm in the music room
 - $290, 8 sessions + $25 annual registration fee (if new to WIZE)
 - [Registration link](https://app.amilia.com/store/en/wize-academy-of-vancouver-south-richmond/shop/programs)
-
 
 ---
 
@@ -105,7 +104,6 @@ Please remember that these programs are not school-sanctioned nor supervised by 
 - Wednesday: Art of Tennis — Junior Tennis, Grades 4+
 - Thursday: Young Rembrandts — Art (Cartooning), Grades 1-6
 - Friday: Wize Computing — Robotics with LEGO WeDo, 6-8 years old
-
 
 ---
 
