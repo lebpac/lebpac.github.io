@@ -4,136 +4,109 @@ title: After-School Programs
 # badge: 🤖
 ---
 
-## January to March 2024
-
-Important: the basketball schedule has been released and several tennis classes have been cancelled. Please see the updated dates below and contact Coach Carlos for more information.
-
-We're super excited to have several programs running this winter! [See a summary schedule here](https://docs.google.com/document/d/1Fq3Nm42klQ7kkVMkdogxYvRjm7SdTlvdapSymFKO5j8/).
+## April to June 2024
 
 ### Mondays
 
-#### 🎾 Art of Tennis — Mini Tennis 
+#### 🎾 Art of Tennis — Mini Tennis
 - Grade 1 to 3
-- **UPDATED**: January 8 to March 11, except no classes on January 22 (Pro-D Day), January 29 (VSB basketball), February 12 (VSB basketball), February 19, or February 26 (VSB basketball)
+- April 29 to June 24, except no class on May 29 (Victoria Day)
 - 3:05 to 5:00 in the gym
-- 8 sessions for $200, please contact Coach Carlos about refunds or make-up classes
+- $200, 8 sessions
+- [Registration link](https://docs.google.com/spreadsheets/d/1vQohuhOQM21fs39-IdUQgWBdiJPJc8vmgxv4nj_XSkY/edit?usp=sharing)
 
 
-{% include link.html link="https://docs.google.com/spreadsheets/d/12xdVk9L4r9c0qNkISsQT1ZfVwSeE2YtcewliF5DHPMs/edit?usp=sharing" text="📋 Sign up for Mini Tennis" %}
-
-#### 🖨️ Wize Computing — 3D Modeling, Design and Printing 
+#### 📱 Wize Computing — Mobile App Development
 - Grade 3 to 7
-- January 29 to March 11, except no class on February 19 (Family Day)
+- Dates, cost, and registration link coming soon (check back)
 - 3:05 to 4:35 pm in the music room
-- 6 sessions for $220 + $25 annual registration fee (if not a previous student)
-
-{% include link.html link="https://app.amilia.com/store/en/wize-academy-of-vancouver-south-richmond/shop/programs/96476" text="📋 Sign up for Wize Computing" %}
 
 ### Tuesdays
 
-#### 🎭 Lights Up Musical Theatre — "Toy Story" 
-- Grades 1 to 7 (split by age)
-- January 16 to March 12
-- 3:05 to 5:15 pm in the music room
-- 9 sessions for $345
+#### 🏀 DRIVE Basketball Academy
+- Grades 2 to 4
+- April 2 to June 18
+- 3:05 to 5:05 pm in the gym
+- $360+ tax, 12 sessions
+- [Registration link](https://drivebasketball.teamsportsadmin.com/events/details/tryout/3929)
 
-{% include link.html link="https://lightsuptheatre.ca/afterschool/lecolebilingue/" text="📋 Sign up for Lights Up" %}
+#### 🎭 Lights Up Musical Theatre — "The Lorax"
+- Grades 1 to 7 (split by age)
+- April 2 to May 28
+- 3:05 to 5:15 pm in the music room
+- $345, 9 sessions
+- [Registration link](https://lightsuptheatre.ca/afterschool/lecolebilingue/)
 
 ### Wednesdays
 
 #### 🎾 Art of Tennis — Junior Tennis
 - Grade 4 to 7
-- **UPDATED**: January 10 to March 13, except no classes January 24, January 31, February 7, and February 14 (due to VSB basketball)
+- April 24 to June 26
 - 3:05 to 5:00 in the gym
-- 10 sessions for $250, please contact Coach Carlos about refunds or make-up classes
+- $250, 10 sessions
+- [Registration link](https://docs.google.com/spreadsheets/d/1GCDPNayQmLxIwNnFNZM5EAhVx7KGsJO0_iyW7KBiH8Y/edit?usp=sharing)
 
-{% include link.html link="https://docs.google.com/spreadsheets/d/1RE_7LC90_BYtt3oLNa5M01DbEoItFRy53SWjZqXJIUk/edit?usp=sharing" text="📋 Sign up for Junior Tennis" %}
-
-#### 🏛 Petit Architect — Design and Architecture in French! 
+#### 🏛 Petit Architect — Design and Architecture in French
 - Grade 2 to 7
-- January 17 to March 13
-- **UPDATED: Make up class for snow day April 3**
-- **UPDATED**: 3:05 to 4:35 pm in the music room (on February 14, early dismissal day, class will run from 2:05 - 3:35 pm)
-- 9 sessions for $280
-
-{% include link.html link="https://petitarchitect.com/school-pacs" text="📋 Sign up for Petit Architect" %}
-
-#### 🤖 Wize Computing — Engineering and Robotics with Lego Spike & WeDo
-- Grade 1 to 3
-- January 17 to March 13
-- **UPDATED: Make up class for snow day February 14 from 2:05 - 3:35 (originally no class scheduled for that date)**
-- 3:05 to 4:35 pm in the library
-- 8 sessions for $290 + $25 annual registration fee (if not a previous student)
-
-{% include link.html link="https://app.amilia.com/store/en/wize-academy-of-vancouver-south-richmond/shop/programs/96476" text="📋 Learn more and sign up for Wize Computing" %}
-
-### Thursdays
-
-#### ✏️ Young Rembrandts — Drawing Classes for Kids
-- Grades 1 to 6
-- January 25 to March 14
-- 3:05 to 4:15 pm in the music room (on February 15, early dismissal day, class will run from 2:05 - 3:15 pm)
-- 8 sessions for $176 
-
-{% include link.html link="https://campscui.active.com/orgs/YoungRembrandtsMetroVancouver?season=3416639&session=61190739" text="📋 Learn more and sign up for Young Rembrandts" %}
-
----
-
-## September to December 2023
-
-### Mondays
-
-#### Art of Tennis — Mini Tennis
-- Grades 1-3
-- September 25 to December 18 (no class October 2, October 9, or November 13)
-- 3:05 to 5:00 pm in the gym
-- $250 (10 sessions)
-
-#### Wize Computing — Modding in Minecraft
-- 8-12 years old
-- October 23 to December 18 (no class November 13)
+- April 10 to June 12
 - 3:05 to 4:35 pm in the music room
-- $290 + $25 registration fee (8 sessions)
+- $315, 9 sessions
+- [Registration link](https://petitarchitect.com/school-pacs)
 
-### Tuesdays
-
-#### Lights Up Musical Theatre — “The Little Mermaid”
-- Grades K+ (split by age)
-- October 17 to December 12
-- 3:05 to 5:15 pm in the music room
-- $345 (9 sessions)
-
-### Wednesdays
-
-#### Art of Tennis — Junior Tennis
-- Grades 4+
-- September 27 to December 13
-- 3:05 to 5:00 pm in the gym (except October 25 from 2:00 — 4:00 pm)
-- $300 (12 sessions)
 
 ### Thursdays
 
-#### Young Rembrandts — Art (Cartooning)
-- Grades 1-6
-- September 28 to December 14
-- 3:05 to 4:15 pm in the music room (except October 26 from 2:15 - 3:15 pm)
-- $264 (12 sessions)
+#### 🏀 DRIVE Basketball Academy
+- Grades 5 to 7
+- April 4 to June 20
+- 3:05 to 5:05 pm in the gym
+- $360+ tax, 12 sessions
+- [Registration link](https://drivebasketball.teamsportsadmin.com/events/details/tryout/3929)
+
+#### ✏️ Young Rembrandts — Drawing
+- Grades 1 to 6
+- April 25 to June 13
+- 3:05 to 4:15 pm in the music room
+- 8 sessions for $176
+- [Registration link](https://campscui.active.com/orgs/YoungRembrandtsMetroVancouver?season=3465445&session=62302245)
+
 
 ### Fridays
 
-#### Wize Computing — Robotics with LEGO WeDo
-- 6-8 years old
-- November 3 to December 15 (there _is_ class on the November 24 Pro-D Day)
+#### 🤖 Wize Computing — Engineering and Robotics with Lego Spike & WeDo
+- Grade 1 to 3
+- Dates, cost, and registration link coming soon (check back)
 - 3:05 to 4:35 pm in the music room
-- $220 + $25 registration fee (6 sessions)
 
 
 ---
 
-Our goal for the 2023/2024 school year is to build out the schedule to offer a broad range of activities for the kids in fitness, arts, and STEM. If there are any specific programs you’d like to see at the school please let us know!
+## Previous Sessions
 
-Rose & Allison  
+### January - March 2024
+- Mondays: Art of Tennis — Mini Tennis, Grade 1 to 3
+- Monday: Wize Computing — 3D Modeling, Design and Printing, Grade 3 to 7
+- Tuesday: Lights Up Musical Theatre — "Toy Story", Grades 1 to 7 (split by age)
+- Wednesday: Art of Tennis — Junior Tennis, Grade 4 to 7
+- Wednesday: Petit Architect — Design and Architecture in French, Grade 2 to 7
+- Wednesday: Wize Computing — Engineering and Robotics with Lego Spike & WeDo, Grade 1 to 3
+- Thursday: Young Rembrandts — Drawing Classes for Kids, Grades 1 to 6
+
+### September - December 2023
+- Monday: Art of Tennis — Mini Tennis, Grades 1-3
+- Monday: Wize Computing — Modding in Minecraft, 8-12 years old
+- Tuesday: Lights Up Musical Theatre — “The Little Mermaid”, Grades K+ (split by age)
+- Wednesday: Art of Tennis — Junior Tennis, Grades 4+
+- Thursday: Young Rembrandts — Art (Cartooning), Grades 1-6
+- Friday: Wize Computing — Robotics with LEGO WeDo, 6-8 years old
+
+
+---
+
+Our goal is to build out the schedule to offer a broad range of activities for the kids in fitness, arts, and STEM. If there are any specific programs you’d like to see at the school please let us know!
+
+Rose & Allison
 [programs@lebpac.ca](mailto:programs@lebpac.ca)
 
-These programs are not school sanctioned nor supervised by L'École Bilingue staff. The instructors rent school space from the VSB Rentals Department and are fully responsible for the supervision of the students.
+Please remember that these programs are not school-sanctioned nor supervised by the PAC or by L’Ecole Bilingue staff. The instructors rent school space from the VSB Rentals Department and are fully responsible for the supervision of the students. Please ensure your child knows exactly where and when to go (or be there to help on the first day of the program).
 {: .footnote}
