@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lunch Program
-# badge: 🍕
+# badge: 🍣
 ---
 
 Sushi Tuesdays and Pizza Thursdays are back for the 2023–24 school year!
