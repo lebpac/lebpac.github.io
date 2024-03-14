@@ -12,29 +12,29 @@ Families of students who attend L'École Bilingue have been privately organizing
 
 School-age children (those entering kindergarten through grade seven) stay in cabins with counsellors. Parents and small children (children entering kindergarten—if they prefer, or younger) camp in tents or stay in a limited number of bunk rooms in the lodge. All meals are prepared by Evans Lake staff. The camp is participatory with parents assisting with some duties.
 
-This year's Camp takes place **Labour Day weekend, September 2–4**. Plan to arrive by 3 pm on Saturday and stay until Monday around 2 pm.
+This year's camp takes place **Labour Day weekend, August 31–September 2, 2024**. Plan to arrive by 10 am on Saturday and stay until Monday around 2 pm.
 
 ## Cost
 
-$250 per person (entering K and older; younger kids free).
+Last year, the camp cost $250 per person (entering K and older; younger kids free). Rates for this year will be confirmed soon.
 
 ## How to register 
 
-{% comment %}
 <div class="message message-icon">
-  📋 Register here, starting at 7 pm on April 20th
+  📋 Register here, date and time TBD
 </div>
-{% endcomment %}
 
-{% include link.html link="https://docs.google.com/forms/d/e/1FAIpQLSc7l6fZ8IcnhCHqF_QxAPTFFG3OXixK14Xz9ElxuzWvGmB79g/viewform" text="📋 Register for Evans Lake Family Camp 2023" %}
+{% comment %}
+{% include link.html link="https://docs.google.com/forms/d/e/1FAIpQLSc7l6fZ8IcnhCHqF_QxAPTFFG3OXixK14Xz9ElxuzWvGmB79g/viewform" text="📋 Register for Evans Lake Family Camp 2024" %}
+{% endcomment %}
 
 {% comment %}
 <div class="message-highlight">
-  <p>Thank you for your interest. Registration for Camp is currently closed as we are at capacity. It is wonderful to see such an enthusiastic school community!</p>
+  <p>Thank you for your interest. Registration for camp is currently closed as we are at capacity. It is wonderful to see such an enthusiastic school community!</p>
 </div>
 {% endcomment %}
 
-Evans Lake can accommodate _only 120 people_, so register early to get a spot.
+Evans Lake can only accommodate _120 people_, so register early to get a spot.
 
 Once you register, you'll receive a confirmation email from the organizing committee within 48 hours. Payment is then due within one week via _Interac_ e-Transfer to:
 
@@ -77,7 +77,7 @@ Talk to anyone on the organizing committee or email [lebevanslake@gmail.com](mai
 
 We look forward to seeing you at Evans Lake this year!
 
-Your 2023 LEB Evans Lake Family Camp Organizing Committee,
+Your 2024 LEB Evans Lake Family Camp Organizing Committee,
 
 Siku Adam  
 Sarah Evanetz  
