@@ -89,8 +89,8 @@ Siku Adam
 Sarah Evanetz  
 Liz Kay  
 Ariella Menashe  
-Michelle Rainer
-Tessa Wilson
+Michelle Rainer  
+Tessa Wilson  
 
 This is not a school or PAC sponsored event.
 {: .footnote}
