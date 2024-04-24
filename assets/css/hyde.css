@@ -264,6 +264,10 @@ img {
   margin-bottom: 0;
 }
 
+.message-highlight.align-left {
+  text-align: left;
+}
+
 .footnote {
   margin-top: 2rem;
   color: #c0c0c0;
