@@ -6,11 +6,7 @@ badge: 💵
 
 As parents and guardians, we directly fund additional educational resources beyond those provided by the VSB and provincial government.
 
-<div class="message-highlight align-left">
-<p>Final Draft - Fundraising Guidelines to be voted on by the PAC at the upcoming meeting on Monday, May 6th, 2024. As always, the PAC meeting will be at the school library and all families with children currently attending L'École Bilingue are welcome and encouraged to attend.</p>
-{% include link.html link="https://docs.google.com/document/d/1khI7AEsCMfvWZKj8aZCd_jN_Ypy-G0jsrNHc8naVl34/edit?usp=sharing" text="📄 Fundraising Model (DRAFT)" %}
-<p>Please send any questions or comments regarding the Fundraising Guidelines document to <a href="mailto:chair@lebpac.ca">chair@lebpac.ca</a> or <a href="mailto:fundraising@lebpac.ca">fundraising@lebpac.ca</a>.</p>
-</div>
+{% include link.html link="https://docs.google.com/document/d/1khI7AEsCMfvWZKj8aZCd_jN_Ypy-G0jsrNHc8naVl34/edit?usp=sharing" text="📄 Fundraising at L'École Bilingue" %}
 
 ## Direct donation
 
