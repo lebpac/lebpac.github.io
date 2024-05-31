@@ -14,11 +14,13 @@ The Halloween Haunt Leads are looking for volunteers! If you're interested in vo
 {% include link.html link="https://docs.google.com/spreadsheets/d/1ZOsl05mREL125tX5NkQ4AUsx1bBDlVo9/edit" text="🎃 Volunteer for the Halloween Haunt" %}
 {% endcomment %}
 
+{% comment %}
 ## School Streets (May 2024)
 
 Volunteers are needed at drop-off and pick-up times for the month of May to help out with our School Streets program. For detailed information and to sign-up, please see the link below.
 
 {% include link.html link="https://volunteersignup.org/RW7WT" text="![Walk Bike Roll](/assets/img/wbr_logo.png) Volunteer for School Streets" %}
+{% endcomment %}
 
 ## Lunch
 
