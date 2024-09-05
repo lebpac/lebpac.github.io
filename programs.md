@@ -9,84 +9,79 @@ These programs are not school-sanctioned nor supervised by the PAC or L'École B
 Please ensure your child knows exactly where and when to go.
 {: .message-highlight}
 
-## April to June 2024
+## Fall 2024
 
 ### Mondays
 
 #### 🎾 Art of Tennis — Mini Tennis (Gym)
 - Grade 1 to 3
-- April 29 to June 24, except no class on May 20 (Victoria Day)
-- 3:05 to 5:00 in the gym
-- $200, 8 sessions
-- [Registration link](https://docs.google.com/spreadsheets/d/1vQohuhOQM21fs39-IdUQgWBdiJPJc8vmgxv4nj_XSkY/edit?usp=sharing)
+- Details still TBD with Coach Carlos
 
-#### 📱 Wize Computing — Mobile App Development (Music Room)
+
+#### 📱 Wize Computing — Interactive Programming in Python (Music Room)
 - Grade 3 to 7
-- April 29 to June 24, except no class on May 20 (Victoria Day) 
-- 3:05 to 4:35 pm in the music room
-- $290, 8 sessions + $25 annual registration fee (if new to WIZE)
-- [Registration link](https://app.amilia.com/store/en/wize-academy-of-vancouver-south-richmond/shop/programs)
+- September 23 to December 2, except no classes on September 30, October 14, and November 11th
+- 3:00 to 4:30 pm in the music room
+- $300, 8 sessions + $25 annual registration fee 
+- [Registration link](https://app.amilia.com/store/en/wize-academy-of-vancouver-south-richmond/shop/activities/5457362)
 
 ### Tuesdays
 
-#### 🏀 DRIVE Basketball Academy (Gym)
-- Grades 2 to 4
-- April 2 to June 18
-- 3:05 to 5:05 pm in the gym
+#### 🏀 Journey Basketball (Gym)
+- Grades 5 to 7
+- September 17 to December 3 
+- 3:30 to 5:00 pm in the gym (coaches at the school from 3pm)
 - $360+ tax, 12 sessions
-- [Registration link](https://drivebasketball.teamsportsadmin.com/events/details/tryout/3929)
+- [Registration link](https://www.journeybasketball.ca/developmentprogram/development-program-at-lecole-bilingue)
 
-#### 🎭 Lights Up Musical Theatre — "The Lorax" (Music Room)
+#### 🎭 Lights Up Musical Theatre — "Scooby Doo" (Music Room)
 - Grades 1 to 7 (split by age)
-- April 2 to May 28
+- October 8 to December 3
 - 3:05 to 5:15 pm in the music room
-- $345, 9 sessions
+- $365, 9 sessions
 - [Registration link](https://lightsuptheatre.ca/afterschool/lecolebilingue/)
 
 ### Wednesdays
 
 #### 🎾 Art of Tennis — Junior Tennis (Gym)
 - Grade 4 to 7
-- April 24 to June 26
-- 3:05 to 5:00 in the gym
-- $250, 10 sessions
-- [Registration link](https://docs.google.com/spreadsheets/d/1GCDPNayQmLxIwNnFNZM5EAhVx7KGsJO0_iyW7KBiH8Y/edit?usp=sharing)
+- Details still TBD with Coach Carlos
 
-#### 🏛 Petit Architect — Design and Architecture in French (Music Room)
-- Grade 2 to 7
-- April 10 to June 12
-- 3:05 to 4:35 pm in the music room
-- $315, 9 sessions
-- [Registration link](https://petitarchitect.com/school-pacs)
+#### 🤖 Wize Computing — Scratch Junior: Coding, Animation and Games
+ (Music Room)
+- Grade 1 to 2
+- Septmber 23 to November 13
+- 3:00 to 4:30 pm in the music room
+- $290, 8 sessions + $25 annual registration fee (if new to WIZE)
+- [Registration link](https://app.amilia.com/store/en/wize-academy-of-vancouver-south-richmond/shop/activities/5457363)
 
 ### Thursdays
 
-#### 🏀 DRIVE Basketball Academy (Gym)
-- Grades 5 to 7
-- April 4 to June 20
-- 3:05 to 5:05 pm in the gym
-- $360+ tax, 12 sessions
-- [Registration link](https://drivebasketball.teamsportsadmin.com/events/details/tryout/3929)
+#### 🏀 RBL Basketball (Gym)
+- Grades 2 to 4
+- September 26 to December 19, except no class October 31
+- 3:15 to 4:45 pm in the gym
+- $360 (12 sessions)
+- [Registration link](https://secure.esportsdesk.com/login.cfm?leagueID=22292&clientID=1477&regEventID=68387)
 
 #### ✏️ Young Rembrandts — Elementary Drawing (Music Room)
 - Grades 1 to 6
-- April 25 to June 13
+- October 3 to December 12
 - 3:05 to 4:15 pm in the music room
-- $176, 8 sessions
-- [Registration link](https://campscui.active.com/orgs/YoungRembrandtsMetroVancouver?season=3465445&session=62302245)
+- $253, 8 sessions
+- [Registration link](https://campscui.active.com/orgs/YoungRembrandtsMetroVancouver?season=3529941&session=63667941)
 
-### Fridays
-
-#### 🤖 Wize Computing — Engineering and Robotics with Lego Spike & WeDo (Music Room)
-- Grade 1 to 3
-- April 26 to June 14, except no class on May 20 (Victoria Day) 
-- 3:05 to 4:35 pm in the music room
-- $290, 8 sessions + $25 annual registration fee (if new to WIZE)
-- [Registration link](https://app.amilia.com/store/en/wize-academy-of-vancouver-south-richmond/shop/programs)
 
 ---
 
 ## Previous Sessions
+
+### April - June 2024
+- Art of Tennis — Mini and Junior Tennis
+- Wize Computing — 3D Modeling, Design and Printing and Engineering and Robotics with Lego Spike & WeDo
+- Lights Up Musical Theatre — "Toy Story"
+- Petit Architect — Design and Architecture in French
+- Young Rembrandts — Drawing Classes for Kids
 
 ### January - March 2024
 - Mondays: Art of Tennis — Mini Tennis, Grade 1 to 3
