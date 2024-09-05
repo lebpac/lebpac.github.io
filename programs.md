@@ -15,7 +15,7 @@ Please ensure your child knows exactly where and when to go.
 
 #### 🎾 Art of Tennis — Mini Tennis (Gym)
 - Grade 1 to 3
-- Details still TBD with Coach Carlos
+- Details TBD with Coach Carlos
 
 
 #### 📱 Wize Computing — Interactive Programming in Python (Music Room)
@@ -31,7 +31,7 @@ Please ensure your child knows exactly where and when to go.
 - Grades 5 to 7
 - September 17 to December 3 
 - 3:30 to 5:00 pm in the gym (coaches at the school from 3pm)
-- $360+ tax, 12 sessions
+- $280, 12 sessions
 - [Registration link](https://www.journeybasketball.ca/developmentprogram/development-program-at-lecole-bilingue)
 
 #### 🎭 Lights Up Musical Theatre — "Scooby Doo" (Music Room)
@@ -45,7 +45,7 @@ Please ensure your child knows exactly where and when to go.
 
 #### 🎾 Art of Tennis — Junior Tennis (Gym)
 - Grade 4 to 7
-- Details still TBD with Coach Carlos
+- Details TBD with Coach Carlos
 
 #### 🤖 Wize Computing — Scratch Junior: Coding, Animation and Games
  (Music Room)
