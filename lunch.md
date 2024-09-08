@@ -4,12 +4,13 @@ title: Lunch Program
 # badge: 🍣
 ---
 
-Sushi Tuesdays and Pizza Thursdays are back for the 2023–24 school year!
+2024–25 lunch program information is coming soon!
+{: .message-highlight}
 
 Sushi and pizza lunches are run by grade 7 and grade 4 parents, respectively, to raise money for special events and Camp Sasamat.
 
-We need volunteers to distribute lunch! If you're able to help, even occasionally, we'd really appreciate it. You can [sign up to volunteer here]({% link volunteer.md %}).
-{: .message-highlight}
+<!-- We need volunteers to distribute lunch! If you're able to help, even occasionally, we'd really appreciate it. You can [sign up to volunteer here]({% link volunteer.md %}).
+{: .message-highlight} -->
 
 ## How to order
 

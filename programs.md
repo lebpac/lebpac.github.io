@@ -1,7 +1,7 @@
 ---
 layout: page
 title: After-School Programs
-# badge: 🤖
+badge: 🎾
 ---
 
 These programs are not school-sanctioned nor supervised by the PAC or L'École Bilingue staff. The instructors rent school space from the VSB Rentals Department and are fully responsible for the supervision of the students.

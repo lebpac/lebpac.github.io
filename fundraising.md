@@ -6,8 +6,6 @@ badge: 💵
 
 As parents and guardians, we directly fund additional educational resources beyond those provided by the VSB and provincial government.
 
-{% include link.html link="https://docs.google.com/document/d/1khI7AEsCMfvWZKj8aZCd_jN_Ypy-G0jsrNHc8naVl34/edit?usp=sharing" text="📄 Fundraising at L'École Bilingue" %}
-
 ## Direct donation
 
 Most of our funds are raised through direct donation, an annual voluntary contribution. The suggested amount is **$100 per child**. This allows us to significantly reduce the number of small fundraisers and retain only those that are efficient and contribute to our community. All donations are eligible for an income tax receipt.
@@ -53,3 +51,5 @@ As outlined in our annual PAC Budget, funds are used in a variety of ways:
 * Supplementing classroom learning resources (like books and supplies)
 * Camp Sasamat (keeping the camp affordable)
 * School growth and other initiatives like EarthBites
+
+{% include link.html link="https://docs.google.com/document/d/1khI7AEsCMfvWZKj8aZCd_jN_Ypy-G0jsrNHc8naVl34/edit?usp=sharing" text="📄 Fundraising at L'École Bilingue" %}
