@@ -2,8 +2,8 @@
 layout: default
 ---
 
-<!-- **Message**
-{: .message-highlight} -->
+**The Welcome Back BBQ is on Thursday, September 19th from 5-8pm!<br>Order your tickets now through [MunchaLunch]({% link munchalunch.html %})**!
+{: .message-highlight}
 
 # Hello,
 {: .page-title}
