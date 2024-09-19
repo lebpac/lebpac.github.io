@@ -13,10 +13,9 @@ Please ensure your child knows exactly where and when to go.
 
 ### Mondays
 
-#### 🎾 Art of Tennis — Mini Tennis (Gym)
+#### 🎾 Art of Tennis — Mini Tennis (Gym)  
 - Grade 1 to 3
-- Details TBD with Coach Carlos
-
+- Tentative, details forthcoming
 
 #### 📱 Wize Computing — Interactive Programming in Python (Music Room)
 - Grade 3 to 7
@@ -26,6 +25,12 @@ Please ensure your child knows exactly where and when to go.
 - [Registration link](https://app.amilia.com/store/en/wize-academy-of-vancouver-south-richmond/shop/activities/5457362)
 
 ### Tuesdays
+
+#### 🎶 Junior Choir at Lunch (Music Room)
+- Grade 1 to 3
+- October 1 to December 10 + a concert (date to be announced)
+- $132, 12 sessions (financial assitance available)
+- [Registration link](https://vems.ca/signup.html)
 
 #### 🏀 Journey Basketball (Gym)
 - Grades 5 to 7
@@ -45,17 +50,23 @@ Please ensure your child knows exactly where and when to go.
 
 #### 🎾 Art of Tennis — Junior Tennis (Gym)
 - Grade 4 to 7
-- Details TBD with Coach Carlos
+- Tentative, details forthcoming
 
 #### 🤖 Wize Computing — Scratch Junior: Coding, Animation and Games
  (Music Room)
 - Grade 1 to 2
-- Septmber 23 to November 13
+- Septmber 25 to November 13
 - 3:00 to 4:30 pm in the music room
-- $290, 8 sessions + $25 annual registration fee (if new to WIZE)
+- $290, 8 sessions + $25 annual registration fee
 - [Registration link](https://app.amilia.com/store/en/wize-academy-of-vancouver-south-richmond/shop/activities/5457363)
 
 ### Thursdays
+
+#### 🎶 Senior Choir at Lunch (Music Room)
+- Grade 4 to 7
+- October 3 to December 12 + a concert (date to be announced)
+- $132, 12 sessions (financial assitance available)
+- [Registration link](https://vems.ca/signup.html)
 
 #### 🏀 RBL Basketball (Gym)
 - Grades 2 to 4
@@ -77,28 +88,24 @@ Please ensure your child knows exactly where and when to go.
 ## Previous Sessions
 
 ### April - June 2024
-- Art of Tennis — Mini and Junior Tennis
-- Wize Computing — 3D Modeling, Design and Printing and Engineering and Robotics with Lego Spike & WeDo
+- Art of Tennis — Mini & Junior Tennis
+- Wize Computing — 3D Modeling, Design and Printing and Engineering & Robotics with Lego Spike & WeDo
 - Lights Up Musical Theatre — "Toy Story"
 - Petit Architect — Design and Architecture in French
 - Young Rembrandts — Drawing Classes for Kids
 
 ### January - March 2024
-- Mondays: Art of Tennis — Mini Tennis, Grade 1 to 3
-- Monday: Wize Computing — 3D Modeling, Design and Printing, Grade 3 to 7
-- Tuesday: Lights Up Musical Theatre — "Toy Story", Grades 1 to 7 (split by age)
-- Wednesday: Art of Tennis — Junior Tennis, Grade 4 to 7
-- Wednesday: Petit Architect — Design and Architecture in French, Grade 2 to 7
-- Wednesday: Wize Computing — Engineering and Robotics with Lego Spike & WeDo, Grade 1 to 3
-- Thursday: Young Rembrandts — Drawing Classes for Kids, Grades 1 to 6
+- Art of Tennis — Mini & Junior Tennis
+- Lights Up Musical Theatre — "Toy Story"
+- Wize Computing — 3D Modeling, Design and Printing & Engineering & Robotics with Lego Spike & WeDo
+- Petit Architect — Design and Architecture in French
+- Young Rembrandts — Drawing Classes for Kids
 
 ### September - December 2023
-- Monday: Art of Tennis — Mini Tennis, Grades 1-3
-- Monday: Wize Computing — Modding in Minecraft, 8-12 years old
-- Tuesday: Lights Up Musical Theatre — “The Little Mermaid”, Grades K+ (split by age)
-- Wednesday: Art of Tennis — Junior Tennis, Grades 4+
-- Thursday: Young Rembrandts — Art (Cartooning), Grades 1-6
-- Friday: Wize Computing — Robotics with LEGO WeDo, 6-8 years old
+- Art of Tennis — Mini & Junior Tennis
+- Wize Computing — Modding in Minecraft & Robotics with LEGO WeDo
+- Lights Up Musical Theatre — “The Little Mermaid”
+- Young Rembrandts — Art (Cartooning)
 
 ---
 
