@@ -85,6 +85,13 @@ Please ensure your child knows exactly where and when to go.
 
 ---
 
+Our goal is to build out the schedule to offer a broad range of activities for the kids in fitness, arts, and STEM. If there are any specific programs you’d like to see at the school please let us know!
+
+Rose & Allison
+[programs@lebpac.ca](mailto:programs@lebpac.ca)
+
+---
+
 ## Previous Sessions
 
 ### April - June 2024
@@ -106,10 +113,3 @@ Please ensure your child knows exactly where and when to go.
 - Wize Computing — Modding in Minecraft & Robotics with LEGO WeDo
 - Lights Up Musical Theatre — “The Little Mermaid”
 - Young Rembrandts — Art (Cartooning)
-
----
-
-Our goal is to build out the schedule to offer a broad range of activities for the kids in fitness, arts, and STEM. If there are any specific programs you’d like to see at the school please let us know!
-
-Rose & Allison
-[programs@lebpac.ca](mailto:programs@lebpac.ca)
