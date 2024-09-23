@@ -29,7 +29,7 @@ Please ensure your child knows exactly where and when to go.
 #### 🎶 Junior Choir at Lunch (Music Room)
 - Grade 1 to 3
 - October 1 to December 10 + a concert (date to be announced)
-- $132, 12 sessions (financial assitance available)
+- $132, 11 sessions (financial assitance available)
 - [Registration link](https://vems.ca/signup.html)
 
 #### 🏀 Journey Basketball (Gym)
@@ -65,7 +65,7 @@ Please ensure your child knows exactly where and when to go.
 #### 🎶 Senior Choir at Lunch (Music Room)
 - Grade 4 to 7
 - October 3 to December 12 + a concert (date to be announced)
-- $132, 12 sessions (financial assitance available)
+- $132, 11 sessions (financial assitance available)
 - [Registration link](https://vems.ca/signup.html)
 
 #### 🏀 RBL Basketball (Gym)
