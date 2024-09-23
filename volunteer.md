@@ -32,6 +32,6 @@ Volunteers are needed Tuesdays from 12:40 to 1:15 pm.
 {% include link.html link="" text="🍣 Volunteer to help with sushi" %}
 {% endcomment %}
 
-Volunteers are needed Thursdays from 11:35 am to 12:05 pm and 12:45 to 1:15 pm; more help is needed in the earlier slot as more classes eat before long recess.
+Volunteers are needed Thursdays from 11:30 am to 12:05 pm and 12:50 to 1:10 pm.
 
 {% include link.html link="https://signup.com/go/ZhcVgHN" text="🍕 Volunteer to help with pizza" %}
