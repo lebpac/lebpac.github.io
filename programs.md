@@ -71,7 +71,7 @@ Please ensure your child knows exactly where and when to go.
 #### 🏀 RBL Basketball (Gym)
 - Grades 2 to 4
 - September 26 to December 19, except no class October 31
-- 3:15 to 4:45 pm in the gym
+- 3:00 to 5:00 pm in the gym
 - $360 (12 sessions)
 - [Registration link](https://secure.esportsdesk.com/login.cfm?leagueID=22292&clientID=1477&regEventID=68387)
 
