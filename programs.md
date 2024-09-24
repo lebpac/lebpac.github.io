@@ -1,6 +1,6 @@
 ---
 layout: page
-title: After-School Programs
+title: Extracurricular Programs
 badge: 🎾
 ---
 
