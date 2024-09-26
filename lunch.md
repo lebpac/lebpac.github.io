@@ -1,23 +1,21 @@
 ---
 layout: page
 title: Lunch Program
-badge: 🍕
+badge: 🍱
 ---
 
-Sushi and pizza lunches are run by grade 7 and grade 4 parents, respectively, to raise money for special events and Camp Sasamat.
+Sushi and pizza lunches are back for the 2024–25 school year!
 
-**🍕 Pizza Lunch is open for ordering on [MunchaLunch]({% link munchalunch.html %}) now through to September 22nd at midnight! This session runs from September 26th until December 19th.**
+Sushi and pizza lunches are run by Grade 7 and Grade 4 parents, respectively, to raise money for Grade 7 trips and Camp Sasamat.
 
-Thank you for supporting our PAC fundraisers and a special shout out to the parent volunteers who have signed up to help with pizza lunch this year.
-
-<!-- We need volunteers to distribute lunch! If you're able to help, even occasionally, we'd really appreciate it. You can [sign up to volunteer here]({% link volunteer.md %}).
-{: .message-highlight} -->
+We need volunteers to distribute lunch! If you're able to help, even occasionally, we'd really appreciate it. You can [sign up to volunteer here]({% link volunteer.md %}).
+{: .message-highlight}
 
 ## How to order
 
 Lunch orders are placed through MunchaLunch.
 
-Orders for the _entire session_ must be placed before the session starts. Subscribe to the [mailing list]({% link mailing-list.md %}) for ordering dates and reminders.
+Orders are for the _entire session_ and must be placed before the session starts. The current session runs from September 26th to December 19th. Since this is a fundraiser, there are no refunds for missed dates. Please check your calendar and confirm your order with your child before ordering.
 
 {% capture munchalunch_link %}{% link munchalunch.html %}{% endcapture %}
 {% include link.html link=munchalunch_link text="🥪 Place your lunch order through MunchaLunch" %}
