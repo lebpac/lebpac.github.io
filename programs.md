@@ -19,7 +19,7 @@ Please ensure your child knows exactly where and when to go.
 - 3:30 - 5:00 (coach on site to supervise kids in the gym from 3:05)
 - $270 + GST, 9 sessions
 - [Registration link](https://www.jrtennis.ca/), click on "Programs"
-- For questions contact Rilan at <rilanjrtennis@gmail.com>
+- For questions contact <rilanjrtennis@gmail.com>
 
 #### 📱 Wize Computing — Interactive Programming in Python (Music Room)
 - Grade 3 to 7
@@ -27,7 +27,7 @@ Please ensure your child knows exactly where and when to go.
 - 3:00 to 4:30 pm in the music room
 - $300, 8 sessions + $25 annual registration fee 
 - [Registration link](https://app.amilia.com/store/en/wize-academy-of-vancouver-south-richmond/shop/activities/5457362)
-- For questions contact Namrata at <namrata.sood@wizeacademy.com> or Nikhil at <nikhil.naidu@wizeacademy.com>
+- For questions contact <namrata.sood@wizeacademy.com> or <nikhil.naidu@wizeacademy.com>
 
 ### Tuesdays
 
@@ -36,7 +36,7 @@ Please ensure your child knows exactly where and when to go.
 - October 1 to December 10 + a concert (date to be announced)
 - $132, 11 sessions (financial assitance available)
 - [Registration link](https://vems.ca/signup.html)
-- For questions contact Rob at <president@vems.ca>
+- For questions contact <president@vems.ca>
 
 #### 🏀 Journey Basketball (Gym)
 - Grades 5 to 7
@@ -44,7 +44,7 @@ Please ensure your child knows exactly where and when to go.
 - 3:30 to 5:00 pm in the gym (coaches at the school from 3pm)
 - $280, 12 sessions
 - [Registration link](https://www.journeybasketball.ca/developmentprogram/development-program-at-lecole-bilingue)
-- For questions contact Coach Arnel Santiago Jr at <journeybasketball2020@gmail.com>
+- For questions contact <journeybasketball2020@gmail.com>
 
 #### 🎭 Lights Up Musical Theatre — "Scooby Doo" (Music Room)
 - Grades 1 to 7 (split by age)
@@ -52,7 +52,7 @@ Please ensure your child knows exactly where and when to go.
 - 3:05 to 5:15 pm in the music room
 - $365, 9 sessions
 - [Registration link](https://lightsuptheatre.ca/afterschool/lecolebilingue/)
-- For questions contact Billie at <vancouver@lightsuptheatre.ca>
+- For questions contact <vancouver@lightsuptheatre.ca>
 
 ### Wednesdays
 
@@ -62,7 +62,7 @@ Please ensure your child knows exactly where and when to go.
 - 3:30 - 5:00 (coach on site to supervise kids in the gym from 3:05)
 - $300 + GST, 10 sessions
 - [Registration link](https://www.jrtennis.ca/), click on "Programs"
-- For questions contact Rilan at <rilanjrtennis@gmail.com>
+- For questions contact <rilanjrtennis@gmail.com>
 
 #### 🤖 Wize Computing — Scratch Junior: Coding, Animation and Games
  (Music Room)
@@ -71,7 +71,7 @@ Please ensure your child knows exactly where and when to go.
 - 3:00 to 4:30 pm in the music room
 - $290, 8 sessions + $25 annual registration fee
 - [Registration link](https://app.amilia.com/store/en/wize-academy-of-vancouver-south-richmond/shop/activities/5457363)
-- For questions contact Namrata at <namrata.sood@wizeacademy.com> or Nikhil at <nikhil.naidu@wizeacademy.com>
+- For questions contact <namrata.sood@wizeacademy.com> or <nikhil.naidu@wizeacademy.com>
 
 ### Thursdays
 
@@ -81,7 +81,7 @@ Please ensure your child knows exactly where and when to go.
 - $132, 11 sessions (financial assitance available)
 - [Registration link](https://vems.ca/signup.html)
 - Try before you buy & bring a buddy available! 
-- For questions contact Rob at <president@vems.ca>
+- For questions contact <president@vems.ca>
 
 #### 🏀 RBL Basketball (Gym)
 - Grades 2 to 4
@@ -97,7 +97,7 @@ Please ensure your child knows exactly where and when to go.
 - 3:05 to 4:15 pm in the music room
 - $253, 8 sessions
 - [Registration link](https://campscui.active.com/orgs/YoungRembrandtsMetroVancouver?season=3529941&session=63667941)
-- For questions contact Virgine at <metrovancouver@youngrembrandts.com>
+- For questions contact <metrovancouver@youngrembrandts.com>
 
 
 ---
