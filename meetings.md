@@ -11,7 +11,7 @@ title: Meetings
 {% endcase %}
 {% endcapture %}
 
-You can find upcoming PAC meetings on the [calendar]({% link calendar.md %}). Meetings are generally held from 7–8 pm in the school library.
+You can find upcoming PAC meetings on the [calendar]({% link calendar.md %}). Meetings are held in the school library.
 
 ## Minutes
 
