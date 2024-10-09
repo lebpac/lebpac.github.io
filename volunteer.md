@@ -24,14 +24,14 @@ Volunteers are needed at drop-off and pick-up times for the month of May to help
 
 ## Lunch
 
-We need parent volunteers to distribute lunch! If you're able to help, even occasionally, we'd really appreciate it. Grandparents welcome!
+Hot lunch programs aren't possible without parent volunteers. If you're able to help, even occasionally, we'd really appreciate it! Grandparents welcome!
 
 {% comment %}
-Volunteers are needed Tuesdays from 12:40 to 1:15 pm.
+Volunteers are needed Tuesdays to help distribute sushi.
 
-{% include link.html link="" text="🍣 Volunteer to help with sushi" %}
+{% include link.html link="https://signup.com/go/tQpmqCd" text="🍣 Volunteer to help with sushi" %}
 {% endcomment %}
 
-Volunteers are needed Thursdays from 11:30 am to 12:05 pm and 12:50 to 1:10 pm.
+Volunteers are needed Thursdays to help distribute pizza.
 
 {% include link.html link="https://signup.com/go/ZhcVgHN" text="🍕 Volunteer to help with pizza" %}
