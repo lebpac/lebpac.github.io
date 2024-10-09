@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lunch Program
-badge: 🍱
+badge: 🍣
 ---
 
 Sushi and pizza lunches are back for the 2024–25 school year!
