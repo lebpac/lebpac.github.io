@@ -85,7 +85,7 @@ Please ensure your child knows exactly where and when to go.
 
 #### 🏀 RBL Basketball (Gym)
 - Grades 2 to 4
-- September 26 to December 19, except no class October 31
+- September 26 to December 19, except no class October 31 and UPDATE: no class on October 24
 - 3:00 to 5:00 pm in the gym
 - $360 (12 sessions)
 - [Registration link](https://secure.esportsdesk.com/login.cfm?leagueID=22292&clientID=1477&regEventID=68387)
@@ -94,7 +94,7 @@ Please ensure your child knows exactly where and when to go.
 #### ✏️ Young Rembrandts — Elementary Drawing (Music Room)
 - Grades 1 to 6
 - October 3 to December 12
-- 3:05 to 4:15 pm in the music room
+- 3:05 to 4:15 pm in the music room (except 2:05 to 3:15 pm on October 24 due to early dismissal)
 - $253, 8 sessions
 - [Registration link](https://campscui.active.com/orgs/YoungRembrandtsMetroVancouver?season=3529941&session=63667941)
 - For questions contact <metrovancouver@youngrembrandts.com>
