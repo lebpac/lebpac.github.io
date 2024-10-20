@@ -68,7 +68,7 @@ Please ensure your child knows exactly where and when to go.
  (Music Room)
 - Grade 1 to 2
 - Septmber 25 to November 13
-- 3:00 to 4:30 pm in the music room
+- 3:00 to 4:30 pm in the music room (except 2:00 - 3:30 on October 23rd due to early dismissal)
 - $290, 8 sessions + $25 annual registration fee
 - [Registration link](https://app.amilia.com/store/en/wize-academy-of-vancouver-south-richmond/shop/activities/5457363)
 - For questions contact <namrata.sood@wizeacademy.com> or <nikhil.naidu@wizeacademy.com>
