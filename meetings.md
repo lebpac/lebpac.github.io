@@ -15,6 +15,8 @@ You can find upcoming PAC meetings on the [calendar]({% link calendar.md %}). Me
 
 ## Minutes
 
+{% include link.html link="https://drive.google.com/drive/folders/1cXYcP6r-JS9iND2MxebtMhN7xCuAapDp" text="📁 Meeting Minutes" %}
+
 {% assign postsByTag = site.posts | group_by_exp: "post", "post.tag" %}
 {% for tag in postsByTag %}
 <h3>{{ tag.name }} school year</h3>
