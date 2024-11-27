@@ -52,4 +52,4 @@ As outlined in our annual PAC Budget, funds are used in a variety of ways:
 * Camp Sasamat (keeping the camp affordable)
 * School growth and other initiatives like EarthBites
 
-{% include link.html link="https://docs.google.com/document/d/1khI7AEsCMfvWZKj8aZCd_jN_Ypy-G0jsrNHc8naVl34/edit?usp=sharing" text="📄 Fundraising at L'École Bilingue" %}
+{% include link.html link="https://docs.google.com/document/d/1khI7AEsCMfvWZKj8aZCd_jN_Ypy-G0jsrNHc8naVl34" text="📄 Fundraising at L'École Bilingue" %}

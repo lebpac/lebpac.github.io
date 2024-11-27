@@ -5,7 +5,7 @@ title: Expense Reimbursement
 
 Complete the form below to get reimbursed for a PAC-related expense.
 
-{% include link.html link="https://docs.google.com/spreadsheets/d/1ydh-vbmsMCnqQN96lJSOwFTv6ajlWWujYARq3ERnKLs/edit?usp=sharing" text="📄 LEB PAC Expense Reimbursement Form" %}
+{% include link.html link="https://docs.google.com/spreadsheets/d/1ydh-vbmsMCnqQN96lJSOwFTv6ajlWWujYARq3ERnKLs" text="📄 LEB PAC Expense Reimbursement Form" %}
 
 Please note that all reimbursements must be pre-approved in the PAC budget.
 

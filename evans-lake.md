@@ -12,7 +12,7 @@ This year's camp takes place **Labour Day weekend, August 31–September 2, 2024
 
 This timing is about 5 hours earlier than previous years so folks can avoid traffic and get home earlier the night before school starts.
 
-{% include video.html file="https://drive.google.com/file/d/1vyiFY8fE4wtS_c0B-ZaP8eCV4GyFJDzL/view?usp=drive_link" name="Check out our video of the 2023 camp" %}
+{% include video.html file="https://drive.google.com/file/d/1vyiFY8fE4wtS_c0B-ZaP8eCV4GyFJDzL" name="Check out our video of the 2023 camp" %}
 
 ## About the camp
 
