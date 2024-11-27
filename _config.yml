@@ -18,8 +18,7 @@ sidebar_pages:
   - programs.md
   - lunch.md
   - meetings.md
-  - reimbursement.md
-  - mailing-list.md
+  - newsletter.md
 
 # GitHub config settings
 # https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll

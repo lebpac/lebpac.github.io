@@ -1,4 +1,4 @@
-Want to stay up-to-date on upcoming events? Subscribe to the PAC mailing list!
+Want to stay up-to-date on upcoming events? Subscribe to the PAC Newsletter!
 
 {% include mailchimp.html %}
 

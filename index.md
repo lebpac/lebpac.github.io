@@ -11,7 +11,7 @@ layout: default
 {% include_relative _content/about.md %}
 
 ## Stay in the loop
-{% include_relative _content/mailing-list.md %}
+{% include_relative _content/newsletter.md %}
 
 ## Get in touch
 {% include_relative _content/contact.md %}
