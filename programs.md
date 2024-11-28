@@ -17,7 +17,7 @@ A choir update will be coming soon.
 _For January to March 2025 the gym will be used for VSB basketball so we cannot offer any sports._
 
 #### |Day| Monday    | Tuesday    | Wednesday     | Thursday |
-|------|--------| -------- | ------- | ------- |
+| --- | --- | --- | --- | --- |
 |Class| Python Programming, Beginner/Intermediate 📱 |  Lights Up Musical Theatre — "Inside Out" 🎭 | Coding and Animation with MIT Scratch 🤖 | Young Rembrandts — Elementary Drawing ️️️✏️|
 |Grades| 3 to 7 |1 to 7     |1 to 3 |1 to 6 |
 |Dates| January 13 to March 10 (no class on Family Day) | January 14 to March 11 | January 15 to March 5 | January 23 to March 13 | 
@@ -68,12 +68,6 @@ _For January to March 2025 the gym will be used for VSB basketball so we cannot 
 - [Registration link](https://campscui.active.com/orgs/youngrembrandtsmetrovancouver?season=3567836&session=64589836)
 - Contact [Virginie](mailto:metrovancouver@youngrembrandts.com) with questions.
 
-
-|Day    | Class    | Day     |
-|--------| -------- | ------- |
-| January  | $250    |
-| February | $80     |
-| March    | $420    |
 
 
 
