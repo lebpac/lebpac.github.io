@@ -9,12 +9,9 @@ These programs are not school-sanctioned nor supervised by the PAC or L'École B
 Please ensure your child knows exactly where and when to go.
 {: .message-highlight}
 
-
-
-A choir update will be coming soon.
-
 ## Winter 2024 
-_For January to March 2025 all classes will be in the Music Room. Program providers can't rent the gym as it is being used for VSB basketball._
+_For January to March 2025 all classes will be in the Music Room. Program providers can't rent the gym as it is being used for VSB basketball. We will add choir information when it is available._
+
 
 |Day| Monday    | Tuesday    | Wednesday     | Thursday |
 | --- | --- | --- | --- | --- |
