@@ -13,21 +13,20 @@ Please ensure your child knows exactly where and when to go.
 
 A choir update will be coming soon.
 
-## Winter 2024 (all classes in the Music Room)
-_For January to March 2025 the gym will be used for VSB basketball so we cannot offer any sports._
+## Winter 2024 
+_For January to March 2025 all classes will be in the Music Room. Program providers can't rent the gym as it is being used for VSB basketball._
 
 |Day| Monday    | Tuesday    | Wednesday     | Thursday |
 | --- | --- | --- | --- | --- |
-|Class| Python Programming, Beginner/Intermediate 📱 |  Lights Up Musical Theatre — "Inside Out" 🎭 | Coding and Animation with MIT Scratch 🤖 | Young Rembrandts — Elementary Drawing ️️️✏️|
-|Grades| 3 to 7 |1 to 7     |1 to 3 |1 to 6 |
-|Dates| January 13 to March 10 (no class on Family Day) | January 14 to March 11 | January 15 to March 5 | January 23 to March 13 | 
-|Time| 3:00 to 4:30 | 3:00 to 5:15 | 3:00 to 4:30 | 3:00 to 4:15 | 
-|Cost| $300 + $25 annual fee | $383.25 (incl tax) | $300 + $25 annual fee | $184 | 
-|Registration| [Link](https://app.amilia.com/store/en/wize-academy-of-vancouver-south-richmond/shop/programs/107270) | [Link](https://lightsuptheatre.ca/afterschool/lecolebilingue/) | [Link](https://app.amilia.com/store/en/wize-academy-of-vancouver-south-richmond/shop/programs/107270) | [Link](https://campscui.active.com/orgs/youngrembrandtsmetrovancouver?season=3567836&session=64589836) | 
-|Contact| [Namrata](mailto:namrata.sood@wizeacademy.com) |[Billie](mailto:vancouver@lightsuptheatre.ca)|[Namrata](mailto:namrata.sood@wizeacademy.com) |[Virginie](mailto:metrovancouver@youngrembrandts.com) |
+|**Class**| [Wize—Python Programming 📱](https://app.amilia.com/store/en/wize-academy-of-vancouver-south-richmond/shop/programs/107270) |  [Lights Up Musical Theatre—"Inside Out" 🎭](https://lightsuptheatre.ca/afterschool/lecolebilingue/) | [Wize—Coding with Scratch 🤖](https://app.amilia.com/store/en/wize-academy-of-vancouver-south-richmond/shop/programs/107270) | [Young Rembrandts—Elementary Drawing ️️️✏️](https://campscui.active.com/orgs/youngrembrandtsmetrovancouver?season=3567836&session=64589836)|
+|**Grades**| 3 to 7 |1 to 7     |1 to 3 |1 to 6 |
+|**Dates**| Jan 13-Mar 10 (except Jan 17) | Jan 14-Mar 11 | Jan 15-Mar 5 | Jan 23-Mar 13 | 
+|**Time**| 3:00-4:30 | 3:00-5:15 | 3:00-4:30 | 3:00-4:15 | 
+|**Cost**| $300 + $25 fee | $383.25 (incl tax) | $300 + $25 fee | $184 | 
+|**Contact**| [Namrata](mailto:namrata.sood@wizeacademy.com) |[Billie](mailto:vancouver@lightsuptheatre.ca)|[Namrata](mailto:namrata.sood@wizeacademy.com) |[Virginie](mailto:metrovancouver@youngrembrandts.com) |
 
 
-
+<!-- 
 ### Mondays
 
 #### 📱 Python Programming, Beginner/Intermediate (Music Room)
@@ -67,7 +66,7 @@ _For January to March 2025 the gym will be used for VSB basketball so we cannot 
 - $184, 8 sessions
 - [Registration link](https://campscui.active.com/orgs/youngrembrandtsmetrovancouver?season=3567836&session=64589836)
 - Contact [Virginie](mailto:metrovancouver@youngrembrandts.com) with questions.
-
+ -->
 
 
 
