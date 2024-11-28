@@ -9,6 +9,53 @@ These programs are not school-sanctioned nor supervised by the PAC or L'École B
 Please ensure your child knows exactly where and when to go.
 {: .message-highlight}
 
+For January to March 2025 the gym will be used for VSB basketball so we cannot offer any sports. 
+
+A choir update will be coming soon.
+
+## Winter 2024
+
+### Mondays
+
+#### 📱 Python Programming, Beginner/Intermediate (Music Room)
+- Grades 3 to 7
+- January 13 to March 10 (no class on Family Day)
+- 3:00 to 4:30 pm in the music room
+- $300, 8 sessions + $25 annual registration fee 
+- [Registration link](https://app.amilia.com/store/en/wize-academy-of-vancouver-south-richmond/shop/programs/107270)
+- For questions contact <namrata.sood@wizeacademy.com> or <nikhil.naidu@wizeacademy.com>
+
+### Tuesdays
+
+#### 🎭 Lights Up Musical Theatre — "Inside Out" (Music Room)
+- Grades 1 to 7
+- January 14 to March 11
+- 3:05 to 5:15 pm in the music room
+- $383.25 (incl tax), 9 sessions
+- [Registration link](https://lightsuptheatre.ca/afterschool/lecolebilingue/)
+- For questions contact <vancouver@lightsuptheatre.ca>
+
+### Wednesdays
+
+#### 🤖 Wize Computing — Coding and Animation with MIT Scratch (Music Room)
+- Grades 1 to 3
+- January 15 to March 5
+- 3:00 to 4:30 pm in the music room
+- $300, 8 sessions + $25 annual registration fee
+- [Registration link](https://app.amilia.com/store/en/wize-academy-of-vancouver-south-richmond/shop/programs/107270)
+- For questions contact <namrata.sood@wizeacademy.com> or <nikhil.naidu@wizeacademy.com>
+
+### Thursdays
+
+#### ✏️ Young Rembrandts — Elementary Drawing (Music Room)
+- Grades 1 to 6
+- January 23 to March 13
+- 3:05 to 4:15 pm in the music room (except 2:05 to 3:15 pm on October 24 due to early dismissal)
+- $184, 8 sessions
+- [Registration link](https://campscui.active.com/orgs/youngrembrandtsmetrovancouver?season=3567836&session=64589836)
+- For questions contact <metrovancouver@youngrembrandts.com>
+
+
 ## Fall 2024
 
 ### Mondays
