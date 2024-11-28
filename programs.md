@@ -16,7 +16,7 @@ A choir update will be coming soon.
 ## Winter 2024 (all classes in the Music Room)
 _For January to March 2025 the gym will be used for VSB basketball so we cannot offer any sports._
 
-#### |Day| Monday    | Tuesday    | Wednesday     | Thursday |
+|Day| Monday    | Tuesday    | Wednesday     | Thursday |
 | --- | --- | --- | --- | --- |
 |Class| Python Programming, Beginner/Intermediate 📱 |  Lights Up Musical Theatre — "Inside Out" 🎭 | Coding and Animation with MIT Scratch 🤖 | Young Rembrandts — Elementary Drawing ️️️✏️|
 |Grades| 3 to 7 |1 to 7     |1 to 3 |1 to 6 |
