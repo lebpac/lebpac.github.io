@@ -18,7 +18,7 @@ _For January to March 2025 all classes will be in the Music Room. Program provid
 
 |Day| Monday    | Tuesday    | Wednesday     | Thursday |
 | --- | --- | --- | --- | --- |
-|**Class**| [Wize—Python Programming 📱](https://app.amilia.com/store/en/wize-academy-of-vancouver-south-richmond/shop/programs/107270) |  [Lights Up Musical Theatre—"Inside Out" 🎭](https://lightsuptheatre.ca/afterschool/lecolebilingue/) | [Wize—Coding with Scratch 🤖](https://app.amilia.com/store/en/wize-academy-of-vancouver-south-richmond/shop/programs/107270) | [Young Rembrandts—Elementary Drawing ️️️✏️](https://campscui.active.com/orgs/youngrembrandtsmetrovancouver?season=3567836&session=64589836)|
+|**Class**| [Python Programming 📱](https://app.amilia.com/store/en/wize-academy-of-vancouver-south-richmond/shop/programs/107270)/ Wize Computing |  [Inside Out 🎭](https://lightsuptheatre.ca/afterschool/lecolebilingue/)/ Lights Up Musical Theatre | [Coding with Scratch 🤖](https://app.amilia.com/store/en/wize-academy-of-vancouver-south-richmond/shop/programs/107270)/ Wize Computing | [Elementary Drawing ️️️✏️](https://campscui.active.com/orgs/youngrembrandtsmetrovancouver?season=3567836&session=64589836)/ Young Rembrandts|
 |**Grades**| 3 to 7 |1 to 7     |1 to 3 |1 to 6 |
 |**Dates**| Jan 13-Mar 10 (except Jan 17) | Jan 14-Mar 11 | Jan 15-Mar 5 | Jan 23-Mar 13 | 
 |**Time**| 3:00-4:30 | 3:00-5:15 | 3:00-4:30 | 3:00-4:15 | 
