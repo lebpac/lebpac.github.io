@@ -13,21 +13,24 @@ Please ensure your child knows exactly where and when to go.
 _For January to March 2025 all classes will be in the Music Room. Program providers can't rent the gym as it is being used for VSB basketball._
 
 
-|Day| Monday    | Tuesday    | Wednesday     | Thursday |
+|After School| Monday    | Tuesday    | Wednesday     | Thursday |
 | --- | --- | --- | --- | --- |
-|**Class**| [Python Programming 📱](https://app.amilia.com/store/en/wize-academy-of-vancouver-south-richmond/shop/programs/107270) |  [Inside Out 🎭](https://lightsuptheatre.ca/afterschool/lecolebilingue/) | [Coding with Scratch 🤖](https://app.amilia.com/store/en/wize-academy-of-vancouver-south-richmond/shop/programs/107270)| [Elementary Drawing ️️️✏️](https://campscui.active.com/orgs/youngrembrandtsmetrovancouver?season=3567836&session=64589836)|
+|**Program**| [Python Programming 📱](https://app.amilia.com/store/en/wize-academy-of-vancouver-south-richmond/shop/programs/107270) |  [Inside Out 🎭](https://lightsuptheatre.ca/afterschool/lecolebilingue/) | [Coding with Scratch 🤖](https://app.amilia.com/store/en/wize-academy-of-vancouver-south-richmond/shop/programs/107270)| [Elementary Drawing ️️️✏️](https://campscui.active.com/orgs/youngrembrandtsmetrovancouver?season=3567836&session=64589836)|
 |**Instructor**| Wize Computing | Lights Up | Wize Computing | Young Rembrandts |
 |**Grades**| 3 to 7 |1 to 7     |1 to 3 |1 to 6 |
 |**Dates**| Jan 13-Mar 10 (except Jan 17) | Jan 14-Mar 11 | Jan 15-Mar 5 | Jan 23-Mar 13 | 
 |**Time**| 3:00-4:30 | 3:00-5:15 | 3:00-4:30 | 3:00-4:15 | 
 |**Cost**| $300 + $25 fee | $383.25 (incl tax) | $300 + $25 fee | $184 | 
 |**Contact**| [Namrata](mailto:namrata.sood@wizeacademy.com) |[Billie](mailto:vancouver@lightsuptheatre.ca)|[Namrata](mailto:namrata.sood@wizeacademy.com) |[Virginie](mailto:metrovancouver@youngrembrandts.com) |
-|**Choir**|     | [Junior Choir 🎶 ](https://www.onlinebookingsystem.com/choralregistration)|  |  [Senior Choir 🎶](https://www.onlinebookingsystem.com/choralregistration)|
-|**Grades**|  | K to 3  |  | 3-7 |
-|**Dates**|  | Jan 14-Mar 4 | | Jan 16-Mar 6 | 
-|**Time**|  | Noon |  | Noon | 
-|**Cost**| | $96 |  |  $96 | 
-|**Contact**|  |[Rob](mailto:president@vems.ca)| |[Rob](mailto:president@vems.ca) |
+
+|Choir|  Tuesday    |  Thursday |
+| --- | --- | --- |
+|**Program**|     [Junior Choir 🎶 ](https://www.onlinebookingsystem.com/choralregistration)|  [Senior Choir 🎶](https://www.onlinebookingsystem.com/choralregistration)|
+|**Grades**|  K to 3  |  3-7 |
+|**Dates**|  Jan 14-Mar 4 | Jan 16-Mar 6 | 
+|**Time**|   Noon | Noon |
+|**Cost**| $96 | $96 |
+|**Contact**| [Rob](mailto:president@vems.ca) | [Rob](mailto:president@vems.ca) |
 
 
 <!-- 
