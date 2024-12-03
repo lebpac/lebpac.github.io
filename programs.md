@@ -10,7 +10,7 @@ Please ensure your child knows exactly where and when to go.
 {: .message-highlight}
 
 ## Winter 2024 
-_For January to March 2025 all classes will be in the Music Room. Program providers can't rent the gym as it is being used for VSB basketball. We will add choir information when it is available._
+_For January to March 2025 all classes will be in the Music Room. Program providers can't rent the gym as it is being used for VSB basketball._
 
 
 |Day| Monday    | Tuesday    | Wednesday     | Thursday |
@@ -22,6 +22,13 @@ _For January to March 2025 all classes will be in the Music Room. Program provid
 |**Time**| 3:00-4:30 | 3:00-5:15 | 3:00-4:30 | 3:00-4:15 | 
 |**Cost**| $300 + $25 fee | $383.25 (incl tax) | $300 + $25 fee | $184 | 
 |**Contact**| [Namrata](mailto:namrata.sood@wizeacademy.com) |[Billie](mailto:vancouver@lightsuptheatre.ca)|[Namrata](mailto:namrata.sood@wizeacademy.com) |[Virginie](mailto:metrovancouver@youngrembrandts.com) |
+|**Class**|     | [Junior Choir 🎶 ](https://www.onlinebookingsystem.com/choralregistration)|  |  [Senior Choir 🎶https://www.onlinebookingsystem.com/choralregistration)|
+|**Instructor**|  | VEMS |  | VEMS |
+|**Grades**|  | K to 3  |  | 3-7 |
+|**Dates**|  | Jan 14-Mar 4 | | Jan 16 - Mar 6 | 
+|**Time**|  | Noon |  | Noon | 
+|**Cost**| | $96 |  |  | 
+|**Contact**|  |[Rob](mailto:president@vems.ca)| |[Rob](mailto:president@vems.ca) |
 
 
 <!-- 
