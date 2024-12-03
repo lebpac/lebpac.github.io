@@ -22,12 +22,11 @@ _For January to March 2025 all classes will be in the Music Room. Program provid
 |**Time**| 3:00-4:30 | 3:00-5:15 | 3:00-4:30 | 3:00-4:15 | 
 |**Cost**| $300 + $25 fee | $383.25 (incl tax) | $300 + $25 fee | $184 | 
 |**Contact**| [Namrata](mailto:namrata.sood@wizeacademy.com) |[Billie](mailto:vancouver@lightsuptheatre.ca)|[Namrata](mailto:namrata.sood@wizeacademy.com) |[Virginie](mailto:metrovancouver@youngrembrandts.com) |
-|**Class**|     | [Junior Choir 🎶 ](https://www.onlinebookingsystem.com/choralregistration)|  |  [Senior Choir 🎶https://www.onlinebookingsystem.com/choralregistration)|
-|**Instructor**|  | VEMS |  | VEMS |
+|**Choir**|     | [Junior Choir 🎶 ](https://www.onlinebookingsystem.com/choralregistration)|  |  [Senior Choir 🎶](https://www.onlinebookingsystem.com/choralregistration)|
 |**Grades**|  | K to 3  |  | 3-7 |
-|**Dates**|  | Jan 14-Mar 4 | | Jan 16 - Mar 6 | 
+|**Dates**|  | Jan 14-Mar 4 | | Jan 16-Mar 6 | 
 |**Time**|  | Noon |  | Noon | 
-|**Cost**| | $96 |  |  | 
+|**Cost**| | $96 |  |  $96 | 
 |**Contact**|  |[Rob](mailto:president@vems.ca)| |[Rob](mailto:president@vems.ca) |
 
 
