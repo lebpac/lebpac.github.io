@@ -9,7 +9,41 @@ These programs are not school-sanctioned nor supervised by the PAC or L'École B
 Please ensure your child knows exactly where and when to go.
 {: .message-highlight}
 
-## Winter 2024 
+
+## Spring 2025 
+
+|Gym/Gravel field| Monday    | Tuesday    | Wednesday     | Thursday |
+| --- | --- | --- | --- | --- |
+|**Program**| [Vancouver Ultimate League](https://www.vul.ca/invite-only-registration/734) |  --- | [JR Tennis](https://www.jrtennis.ca/programs)| [RBL Basketball](https://secure.esportsdesk.com/login.cfm?leagueID=22292&clientID=1477&regEventID=73111)|
+|**Age**| Grades 5 to 7 |---    |Age 6-9 |Grades 4-6 |
+|**Dates**| April 7 to June 16 (except April 21, 28, and May 19) | --- | April 9 to June 11 | April 24 to May 29 | 
+|**Time**| 3:15-4:45 | --- | 3:05-4:35 | 3:30-5:30 | 
+|**Cost**| $200 | --- | $330 + tax | $160 + tax | 
+|**Contact**| [misfit@vul.ca](mailto:misfit@vul.ca) |---|[Rilan](mailto:rilanjrtennis@gmail.com) |[Leland](mailto:leland@rblbasketball.com) |
+
+
+
+|Music Room| Monday    | Tuesday    | Wednesday     | Thursday |
+| --- | --- | --- | --- | --- |
+|**Program**| Python or AI (TBD) 📱 |  [The Magic School Bus 🎭](https://lightsuptheatre.ca/afterschool/lecolebilingue/) | [Coding with Scratch 🤖](https://app.amilia.com/store/en/wize-academy-of-vancouver-south-richmond/shop/activities/5872423)| [Clay Positive!](https://docs.google.com/forms/d/e/1FAIpQLSe5G9bzbGmraWvU6kIwe3yIFck847aFVh5DKCiGrBHuN_aqfg/viewform)|
+|**Instructor**| Wize Computing | Lights Up | Wize Computing | Clay Jolie Arts Co. |
+|**Grades**| 3 to 7 |1 to 7     |1 to 2 |3 to 7 |
+|**Dates**| TBD | April 8 to June 3 | April 23 to June 18 | April 10 to June 12 | 
+|**Time**| 3:00-4:30 | 3:00-5:15 | 3:00-4:30 | 3:00-4:30 | 
+|**Cost**| TBD | $365 + tax | $300 + tax + $25 fee | $200  + tax | 
+|**Contact**| [Namrata](mailto:namrata.sood@wizeacademy.com) |[Billie](mailto:vancouver@lightsuptheatre.ca)|[Namrata](mailto:namrata.sood@wizeacademy.com) |[Syama](mailto:clayjolie.arts@gmail.com) |
+
+|Choir|  Tuesday    |  Thursday |
+| --- | --- | --- |
+|**Program**|     [Junior Choir 🎶 ](https://www.onlinebookingsystem.com/choralregistration)|  [Senior Choir 🎶](https://www.onlinebookingsystem.com/choralregistration)|
+|**Grades**|  K to 3  |  3-7 |
+|**Dates**| April 15 to June 17 | April 17 to June 19 | 
+|**Time**|   Noon | Noon |
+|**Cost**| $120 + tax | $120 + tax |
+|**Contact**| [Rob](mailto:president@vems.ca) | [Rob](mailto:president@vems.ca) |
+
+
+## Winter 2025 
 _For January to March 2025 all classes will be in the Music Room. Program providers can't rent the gym as it is being used for VSB basketball._
 
 
