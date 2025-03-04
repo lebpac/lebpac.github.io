@@ -14,7 +14,7 @@ Please ensure your child knows exactly where and when to go.
 
 |Gym/Gravel field| Monday    | Tuesday    | Wednesday     | Thursday |
 | --- | --- | --- | --- | --- |
-|**Program**| [Vancouver Ultimate League](https://www.vul.ca/invite-only-registration/734) |  --- | [JR Tennis](https://www.jrtennis.ca/programs)| [RBL Basketball](https://secure.esportsdesk.com/login.cfm?leagueID=22292&clientID=1477&regEventID=73111)|
+|**Program**| [Vancouver Ultimate League](https://www.vul.ca/invite-only-registration/734) |  --- | [JR Tennis](https://www.jrtennis.ca/service-page/l-ecole-elementary-wed-age-6-9)| [RBL Basketball](https://secure.esportsdesk.com/login.cfm?leagueID=22292&clientID=1477&regEventID=73111)|
 |**Age**| Grades 5 to 7 |---    |Age 6-9 |Grades 4-6 |
 |**Dates**| April 7 to June 16 (except April 21, 28, and May 19) | --- | April 9 to June 11 | April 24 to May 29 | 
 |**Time**| 3:15-4:45 | --- | 3:05-4:35 | 3:30-5:30 | 
@@ -65,49 +65,6 @@ _For January to March 2025 all classes will be in the Music Room. Program provid
 |**Time**|   Noon | Noon |
 |**Cost**| $96 | $96 |
 |**Contact**| [Rob](mailto:president@vems.ca) | [Rob](mailto:president@vems.ca) |
-
-
-<!-- 
-### Mondays
-
-#### 📱 Python Programming, Beginner/Intermediate (Music Room)
-- Grades 3 to 7
-- January 13 to March 10 (no class on Family Day)
-- 3:00 to 4:30 pm in the music room
-- $300, 8 sessions + $25 annual registration fee 
-- [Registration link](https://app.amilia.com/store/en/wize-academy-of-vancouver-south-richmond/shop/programs/107270)
-- Contact [Namrata](mailto:namrata.sood@wizeacademy.com) with questions. 
-
-### Tuesdays
-
-#### 🎭 Lights Up Musical Theatre — "Inside Out" (Music Room)
-- Grades 1 to 7
-- January 14 to March 11
-- 3:05 to 5:15 pm in the music room
-- $383.25 (incl tax), 9 sessions
-- [Registration link](https://lightsuptheatre.ca/afterschool/lecolebilingue/)
-- Contact [Billie](mailto:vancouver@lightsuptheatre.ca) with questions.
-
-### Wednesdays
-
-#### 🤖 Wize Computing — Coding and Animation with MIT Scratch (Music Room)
-- Grades 1 to 3
-- January 15 to March 5
-- 3:00 to 4:30 pm in the music room
-- $300, 8 sessions + $25 annual registration fee
-- [Registration link](https://app.amilia.com/store/en/wize-academy-of-vancouver-south-richmond/shop/programs/107270)
-- Contact [Namrata](mailto:namrata.sood@wizeacademy.com) with questions. 
-
-### Thursdays
-
-#### ✏️ Young Rembrandts — Elementary Drawing (Music Room)
-- Grades 1 to 6
-- January 23 to March 13
-- 3:05 to 4:15 pm in the music room 
-- $184, 8 sessions
-- [Registration link](https://campscui.active.com/orgs/youngrembrandtsmetrovancouver?season=3567836&session=64589836)
-- Contact [Virginie](mailto:metrovancouver@youngrembrandts.com) with questions.
- -->
 
 
 
