@@ -25,12 +25,12 @@ Please ensure your child knows exactly where and when to go.
 
 |Music Room| Monday    | Tuesday    | Wednesday     | Thursday |
 | --- | --- | --- | --- | --- |
-|**Program**| Python or AI (TBD) 📱 |  [The Magic School Bus 🎭](https://lightsuptheatre.ca/afterschool/lecolebilingue/) | [Coding with Scratch 🤖](https://app.amilia.com/store/en/wize-academy-of-vancouver-south-richmond/shop/activities/5872423)| [Clay Positive!](https://docs.google.com/forms/d/e/1FAIpQLSe5G9bzbGmraWvU6kIwe3yIFck847aFVh5DKCiGrBHuN_aqfg/viewform)|
+|**Program**| [AI & Machine Learning 📱](https://app.amilia.com/store/en/wize-academy-of-vancouver-south-richmond/shop/activities/5883291) |  [The Magic School Bus 🎭](https://lightsuptheatre.ca/afterschool/lecolebilingue/) | [Coding with Scratch 🤖](https://app.amilia.com/store/en/wize-academy-of-vancouver-south-richmond/shop/activities/5872423)| [Clay Positive!](https://docs.google.com/forms/d/e/1FAIpQLSe5G9bzbGmraWvU6kIwe3yIFck847aFVh5DKCiGrBHuN_aqfg/viewform)|
 |**Instructor**| Wize Computing | Lights Up | Wize Computing | Clay Jolie Arts Co. |
 |**Grades**| 3 to 7 |1 to 7     |1 to 2 |3 to 7 |
-|**Dates**| TBD | April 8 to June 3 | April 23 to June 18 | April 10 to June 12 | 
+|**Dates**| May 5 to June 23 | April 8 to June 3 | April 23 to June 18 | April 10 to June 12 | 
 |**Time**| 3:00-4:30 | 3:00-5:15 | 3:00-4:30 | 3:00-4:30 | 
-|**Cost**| TBD | $365 + tax | $300 + tax + $25 fee | $200  + tax | 
+|**Cost**| $260 + tax + annual fee | $365 + tax | $300 + tax + annual fee | $200  + tax | 
 |**Contact**| [Namrata](mailto:namrata.sood@wizeacademy.com) |[Billie](mailto:vancouver@lightsuptheatre.ca)|[Namrata](mailto:namrata.sood@wizeacademy.com) |[Syama](mailto:clayjolie.arts@gmail.com) |
 
 |Choir|  Tuesday    |  Thursday |
