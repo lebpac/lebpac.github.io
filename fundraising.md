@@ -38,7 +38,7 @@ Reduce your families single use plastics with laundry strips! Every 32-load eco-
 
 ![COBS Bread](/assets/img/fundraising_cobs.jpeg){: width="50%" }
 
-If anyone (family, friends, neighbours, grandparents, etc.) goes into the new COBS Bread at 8th and Cambie (across from Whole Foods) and mentions L’École Bilingue when they pay, 5% of their purchase or $2 from every hot cross bun pack will be donated to the school!
+If anyone (family, friends, neighbours, grandparents, etc.) goes to COBS Bread at 8th and Cambie (across from Whole Foods) and mentions L’École Bilingue when they pay, 5% of their purchase will be donated to the school!
 
 ## Where do the funds go?
 
