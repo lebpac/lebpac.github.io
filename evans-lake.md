@@ -8,11 +8,9 @@ badge: 🏕
 
 Come join other L'École Bilingue families for our annual Family Camp at [Evans Lake](https://evanslake.com/){:target="_blank"} over the Labour Day long weekend!
 
-This year's camp takes place **Labour Day weekend, August 31–September 2, 2024**. Plan to arrive by 10 am on Saturday (programming will start promptly!) and stay until Monday around 11 am.
+This year's camp takes place **Labour Day weekend, August 30–September 1, 2025**. Plan to arrive by 10 am on Saturday (programming will start promptly!) and stay until Monday around 11 am.
 
-This timing is about 5 hours earlier than previous years so folks can avoid traffic and get home earlier the night before school starts.
-
-{% include video.html file="https://drive.google.com/file/d/1vyiFY8fE4wtS_c0B-ZaP8eCV4GyFJDzL" name="Check out our video of the 2023 camp" %}
+{% include video.html file="https://drive.google.com/file/d/1vyiFY8fE4wtS_c0B-ZaP8eCV4GyFJDzL" name="Check out our video of the camp" %}
 
 ## About the camp
 
@@ -22,19 +20,19 @@ School-age children (those entering kindergarten through grade seven) stay in ca
 
 ## Cost
 
-$275 per person (entering K and older; younger kids free). This is a $25 increase from last year as Evans Lake increased their fees. It's an additional $5 per day for special diets (lactose intolerant, gluten-free, vegan, allergies); no cost for vegetarian or nut allergies.
+$295 per person (entering K and older; younger kids free). This is a $20 increase from last year as Evans Lake increased their fees. It's an additional $5 per day for special diets (lactose intolerant, gluten-free, vegan, allergies); no cost for vegetarian or nut allergies.
 
 If camp cost is a hardship, please [let us know](mailto:lebevanslake@gmail.com).
 
 ## How to register 
 
-{% comment %}
 <div class="message message-icon">
-  📋 Register here, April 18th at 7pm
+  📋 Register here, April 17th at 7pm
 </div>
-{% endcomment %}
 
-{% include link.html link="https://docs.google.com/forms/d/e/1FAIpQLSckmQfSYce9PVL-oiCL_a632_qbdyBz9SgCmK1dktTtGJqOMQ/viewform" text="📋 Register for Evans Lake Family Camp 2024" %}
+{% comment %}
+{% include link.html link="https://docs.google.com/forms/d/e/1FAIpQLSckmQfSYce9PVL-oiCL_a632_qbdyBz9SgCmK1dktTtGJqOMQ/viewform" text="📋 Register for Evans Lake Family Camp 2025" %}
+{% endcomment %}
 
 {% comment %}
 <div class="message-highlight">
@@ -53,7 +51,7 @@ Medical, liability, and activity waivers will be sent out later in the spring.
 
 ### Cancellation policy
 
-*	Evans Lake will reimburse camp/food costs for medical reasons up to two weeks before camp ($230 per person). There are no refunds within two weeks of camp as food orders are finalized.
+*	Evans Lake will reimburse camp/food costs for medical reasons up to two weeks before camp ($250 per person). There are no refunds within two weeks of camp as food orders are finalized.
 *	The organizing committee will keep the remaining $45 to cover pre-paid costs (insurance, counsellor fees, arts and crafts supplies).
 *	If a surplus remains after the camp is finished, we may be able to reimburse some of the $45 to those who cancelled.
 
@@ -85,12 +83,12 @@ Talk to anyone on the organizing committee or email [lebevanslake@gmail.com](mai
 
 We look forward to seeing you at Evans Lake this year!
 
-Your 2024 LEB Evans Lake Family Camp Organizing Committee,
+Your LEB Evans Lake Family Camp Organizing Committee,
 
 Siku Adam  
 Sarah Evanetz  
 Liz Kay  
-Ariella Menashe  
+Ariella Menashy  
 Michelle Rainer  
 Tessa Wilson  
 
