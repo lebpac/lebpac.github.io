@@ -27,7 +27,7 @@ If camp cost is a hardship, please [let us know](mailto:lebevanslake@gmail.com).
 ## How to register 
 
 <div class="message message-icon">
-  📋 Register here, April 17th at 7pm
+  📋 Register here, April 17 at 7pm
 </div>
 
 {% comment %}
