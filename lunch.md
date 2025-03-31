@@ -24,4 +24,4 @@ Please note cutlery is not provided; ensure your child brings their own if neede
 
 ---
 
-Have a lunch question? Send Krista an email at [lunch@lebpac.ca](mailto:lunch@lebpac.ca).
+Have a lunch question? Send us an email at [lunch@lebpac.ca](mailto:lunch@lebpac.ca).
