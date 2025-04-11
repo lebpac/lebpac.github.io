@@ -32,4 +32,4 @@ Volunteers are needed Tuesdays to help distribute sushi.
 
 Volunteers are needed Thursdays to help distribute pizza.
 
-{% include link.html link="https://signup.com/go/ZhcVgHN" text="🍕 Volunteer to help with pizza" %}
+{% include link.html link="https://signup.com/go/yjagarv" text="🍕 Volunteer to help with pizza" %}
