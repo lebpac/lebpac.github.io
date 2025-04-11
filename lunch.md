@@ -16,9 +16,11 @@ Lunch orders are placed through MunchaLunch.
 {% capture munchalunch_link %}{% link munchalunch.html %}{% endcapture %}
 {% include link.html link=munchalunch_link text="🥪 Place your lunch order through MunchaLunch" %}
 
+{% comment %}
 Orders are for an _entire session_ and must be placed before the session starts. Subscribe to the [newsletter]({% link newsletter.md %}) to stay informed about ordering dates.
+{% endcomment %}
 
-Since this is a fundraiser, there are no refunds for missed dates. Please check your calendar and confirm your order with your child before ordering.
+This is a fundraiser, so there are no refunds for missed dates. Please check your calendar and confirm your order with your child before ordering.
 
 Please note cutlery is not provided; ensure your child brings their own if needed.
 
