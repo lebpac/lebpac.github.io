@@ -24,7 +24,7 @@ $295 per person (entering K and older; younger kids free). This is a $20 increas
 
 If camp cost is a hardship, please [let us know](mailto:lebevanslake@gmail.com).
 
-## How to register 
+## Registration 
 
 {% comment %}
 <div class="message message-icon">
@@ -32,7 +32,7 @@ If camp cost is a hardship, please [let us know](mailto:lebevanslake@gmail.com).
 </div>
 {% endcomment %}
 
-{% include link.html link="https://forms.gle/u1FQYjWLcMMDtL9A7" text="📋 Register here for Evans Lake Family Camp" %}
+{% include link.html link="https://forms.gle/u1FQYjWLcMMDtL9A7" text="📋 Register for Evans Lake Family Camp" %}
 
 {% comment %}
 <div class="message-highlight">
@@ -81,7 +81,7 @@ Talk to anyone on the organizing committee or email [lebevanslake@gmail.com](mai
 
 ---
 
-We look forward to seeing you at Evans Lake this year!
+We look forward to seeing you at Evans Lake!
 
 Your LEB Evans Lake Family Camp Organizing Committee,
 
