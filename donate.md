@@ -4,7 +4,7 @@ title: Donate to the PAC
 redirect_from: /donations
 ---
 
-The easiest way to donate is through SchoolCash Online.
+The easiest way to donate is through SchoolCash Online. All donations are eligible for an income tax receipt.
 
 {% include link.html link="https://vsb.schoolcashonline.com/Fee/Details/1869/196/false/true?fundDestination=L%27Ecole%20Bilingue%20Elementary%20PAC" text="💳 Donate through SchoolCash Online" %}
 
