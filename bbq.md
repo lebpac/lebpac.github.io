@@ -4,7 +4,7 @@ title: Welcome Back BBQ
 badge: 🍔
 ---
 
-Welcome Back, L’École Bilingue Families!
+Welcome back, L’École Bilingue Families!
 
 Mark your calendars—the much-anticipated Welcome Back BBQ is happening on **Thursday, September 18th, from 5–8 pm** following _Meet the Teacher_.
 
