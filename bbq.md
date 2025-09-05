@@ -24,11 +24,23 @@ This annual event is both an important **fundraiser for our Grade 7 graduating c
 
 Most importantly, the BBQ is a chance to **welcome new families and staff** and to **reconnect with old friends** as we kick off the school year together.
 
-## 📌 Important details
+## 🎟️ Tickets and food
 
-Food truck orders will open soon through MunchaLunch.
+Ticket and food truck orders will open soon through MunchaLunch.
 
 All food truck orders must be made in advance by **Sunday, September 14**! There will be **no food truck orders at the event**.
 {: .message-highlight}
 
-We’ll also be looking for **DONATIONS** (baked goods for musical cakes, unopened bottles, and more) as well as additional volunteer support.
+Station tickets and Rain or Shine Ice Cream can be purchased at the event.
+
+## 🙋 We need your help
+
+The Welcome Back BBQ is only possible with parent volunteers.
+
+Help us make it happen! Join the group chat and see how you can help.
+
+{% include link.html link="https://chat.whatsapp.com/GfwyVUblxZN5gUSVGYmbCE" text="💬 Welcome Back BBQ group chat" %}
+
+{% include link.html link="https://docs.google.com/spreadsheets/d/1ouYYhDjoiWN1uhb0-Vfzgn0zJMPGw6VD/edit" text="📋 Volunteer sign up sheet" %}
+
+We'll see you there! 🎉
