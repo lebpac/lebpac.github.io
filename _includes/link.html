@@ -1,3 +1,9 @@
+{% if include.link %}
 <a class="message message-icon" href="{{ include.link }}" target="_blank">
   {{ include.text }}
 </a>
+{% else %}
+<p class="message message-icon">
+  {{ include.text }}
+</p>
+{% endif %}
