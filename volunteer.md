@@ -24,12 +24,12 @@ Volunteers are needed at drop-off and pick-up times for the month of May to help
 
 ## Lunch
 
-Hot lunch programs aren't possible without parent volunteers. If you're able to help, even occasionally, we'd really appreciate it! Grandparents welcome!
+Lunch programs aren't possible without parent volunteers. If you're able to help, even occasionally, we'd really appreciate it! Grandparents welcome!
 
 Volunteers are needed Tuesdays to help distribute sushi.
 
-{% include link.html link="https://signup.com/go/tQpmqCd" text="🍣 Volunteer to help with sushi" %}
+{% include link.html text="🍣 Volunteer to help with sushi (coming soon)" %}
 
 Volunteers are needed Thursdays to help distribute pizza.
 
-{% include link.html link="https://signup.com/go/yjagarv" text="🍕 Volunteer to help with pizza" %}
+{% include link.html text="🍕 Volunteer to help with pizza (coming soon)" %}
