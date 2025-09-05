@@ -273,6 +273,32 @@ img {
   color: #c0c0c0;
 }
 
+.dimmed {
+  color: #c0c0c0;
+}
+
+/* Programs table */
+.programs-table {
+  table-layout: fixed;
+  font-size: 0.9em;
+}
+
+.programs-table th {
+  background-color: #f9f9f9;
+}
+
+.programs-table td:first-child {
+  width: 100px;
+  font-weight: 700;
+  background-color: #f9f9f9 !important;
+}
+
+.programs-table tbody tr:nth-child(odd) td,
+.programs-table tbody tr:nth-child(odd) th {
+  background: none;
+}
+
+
 /* Theme */
 .theme-base-pac .sidebar {
   background-image: linear-gradient(315deg, #081e77, #4141a5);
