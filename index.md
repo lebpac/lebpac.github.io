@@ -2,8 +2,8 @@
 layout: default
 ---
 
-<!-- **Message**
-{: .message-highlight} -->
+**Mark your calendars for this year's [Welcome Back BBQ]({% link bbq.md %})! 🍔**
+{: .message-highlight}
 
 # Hello,
 {: .page-title}
