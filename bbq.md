@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Welcome Back BBQ
-description: The much-anticipated Welcome Back BBQ is happening on Thursday, September 18th, from 5–8 pm.
+description: This year's Welcome Back BBQ is happening on Thursday, September 18th, from 5–8 pm!
 image: assets/og-image-bbq.jpeg
 badge: 🍔
 ---
