@@ -20,7 +20,7 @@ We're still working on Monday programming. Check back soon!
 | Program | VEMS Junior Choir 🎶
 | Location | Music Room
 | Grades | 1 – 3
-| Dates | Sep 16 – Dec 9 (11 rehearsals and a concert)
+| Dates | Sep 16 – Dec 9 (11 rehearsals and a concert)<br />**No session Sep 30, Nov 11**
 | Time | Lunch
 | Cost | $156 + GST
 | Register | [Register here](https://vems.ca/signup.html)
@@ -36,9 +36,6 @@ We're still working on Monday programming. Check back soon!
 | Register | [Register here](https://lightsuptheatre.ca/lecolebilingue/)
 | Contact | [Billie](mailto:billie@lightsuptheatre.ca)
 {: .programs-table}
-
-No sessions on stat holidays (Sep 30, Nov 11)
-{: .dimmed}
 
 ### Wednesdays
 
