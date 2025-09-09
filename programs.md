@@ -86,7 +86,7 @@ We're still working on Monday programming. Check back soon!
 | Grades | 1 – 6
 | Dates | Sep 25 – Dec 11 (12 sessions)
 | Time | 3:00 - 4:10 pm (2:00 – 3:10 pm on Oct 9)
-| Cost | $282 + GST (10% off until Sep 8 with code _EARLYBIRD10_)
+| Cost | $282 + GST
 | Register | [Register here](https://campscui.active.com/orgs/YoungRembrandtsMetroVancouver?season=3687135&session=68075133)
 | Contact | [Virginie](mailto:metrovancouver@youngrembrandts.com)
 {: .programs-table}
