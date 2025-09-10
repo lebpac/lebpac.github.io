@@ -277,6 +277,27 @@ img {
   color: #c0c0c0;
 }
 
+/* Exec table */
+.exec-table {
+  table-layout: fixed;
+  border-collapse: collapse;
+  border: none;
+}
+
+/* Exec table */
+.exec-table th,
+.exec-table td {
+  border: none;
+  background: none;
+}
+
+.exec-table td:first-child {
+  width: 120px;
+  padding-left: 0;
+  font-weight: 700;
+}
+
+
 /* Programs table */
 .programs-table {
   table-layout: fixed;
@@ -290,12 +311,7 @@ img {
 .programs-table td:first-child {
   width: 120px;
   font-weight: 700;
-  background-color: #f9f9f9 !important;
-}
-
-.programs-table tbody tr:nth-child(odd) td,
-.programs-table tbody tr:nth-child(odd) th {
-  background: none;
+  background-color: #f9f9f9;
 }
 
 
