@@ -13,7 +13,25 @@ Please ensure your child knows exactly where and when to go.
 
 ### Mondays
 
-We're still working on Monday programming. Check back soon!
+| Program | Illuma Studio Dance Sampler: Jazz Funk, Hip Hop, KPOP 🪩
+| Location | Gym
+| Grades | K – 7
+| Dates | Sep 29 – Dec 8 (10 sessions)<br />**No session Oct 13**
+| Time | 3:00 - 5:15 pm
+| Cost | $383.25 incl. GST
+| Register | [Register here](https://form.jotform.com/helloilluma/ASP)
+| Contact | [Swan](mailto:helloilluma@gmail.com)
+{: .programs-table}
+
+| Program | Wize Academy Augmented & Virtual Reality - Learning & Creation 💻
+| Location | Library
+| Grades | 2 – 6
+| Dates | Sep 29 – Nov 24 (8 sessions)<br />**No session Oct 13**
+| Time | 3:00 - 4:30 pm
+| Cost | $300 + GST
+| Register | [Register here](https://app.amilia.com/store/en/wize-academy-of-vancouver-south-richmond/shop/programs)
+| Contact | [Namrata](mailto:info-nn@wizeacademy.com)
+{: .programs-table}
 
 ### Tuesdays
 
@@ -43,7 +61,7 @@ We're still working on Monday programming. Check back soon!
 | Location | Gym
 | Grades | 1 – 3 (ages 6 – 9)
 | Dates | Oct 15 – Dec 17 (10 sessions)
-| Time | 3:05 - 4:35 pm (coaches will be there at 3 pm)
+| Time | 3:05 - 4:35 pm (2:05 – 3:35 pm on Oct 8)
 | Cost | $346.50 incl. GST
 | Register | [Register here](http://www.jrtennis.ca/)
 | Contact | [Rilan](mailto:rilanjrtennis@gmail.com)
