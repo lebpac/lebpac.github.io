@@ -5,7 +5,7 @@ title: About the PAC
 
 {% include_relative _content/about.md %}
 
-## 2025 PAC Exec
+## 2025-26 PAC Exec
 
 | Chair      | Jess Lumer       |
 | Vice Chair | Jonathan Suter   |
