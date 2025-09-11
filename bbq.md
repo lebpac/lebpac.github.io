@@ -46,6 +46,6 @@ Help us make it happen! Join the group chat and see how you can help.
 
 {% include link.html link="https://chat.whatsapp.com/GfwyVUblxZN5gUSVGYmbCE" text="💬 Welcome Back BBQ group chat" %}
 
-{% include link.html link="https://docs.google.com/spreadsheets/d/1ouYYhDjoiWN1uhb0-Vfzgn0zJMPGw6VD/edit" text="📋 Volunteer sign up sheet" %}
+{% include link.html link="https://docs.google.com/spreadsheets/d/1ouYYhDjoiWN1uhb0-Vfzgn0zJMPGw6VD/edit?gid=1384396879" text="📋 Volunteer sign up sheet" %}
 
 We'll see you there! 🎉
