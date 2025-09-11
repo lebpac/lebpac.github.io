@@ -1,0 +1,108 @@
+<!-- basicLightbox CSS -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/basiclightbox@5.0.4/dist/basicLightbox.min.css">
+
+<style>
+.image-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    margin: 20px 0;
+}
+
+.gallery-item {
+    flex: 1 1 calc(16.666% - 15px);
+    min-width: 150px;
+    cursor: pointer;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.gallery-item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+}
+
+.gallery-item img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    display: block;
+    margin: 0;
+}
+
+/* Responsive design */
+@media (max-width: 1200px) {
+    .gallery-item {
+        flex: 1 1 calc(20% - 15px);
+    }
+}
+
+@media (max-width: 900px) {
+    .gallery-item {
+        flex: 1 1 calc(33.333% - 15px);
+    }
+}
+
+@media (max-width: 600px) {
+    .gallery-item {
+        flex: 1 1 calc(50% - 15px);
+    }
+}
+
+/* Custom lightbox styling */
+.basicLightbox .lightbox-content img {
+    max-width: 90vw;
+    max-height: 90vh;
+    border-radius: 8px;
+}
+</style>
+
+<!-- gallery -->
+<div class="image-gallery">
+    <div class="gallery-item">
+        <img src="/assets/img/programs/fall-2025/Illuma Studio.png" alt="Illuma Studio Dance Sampler">
+    </div>
+    <div class="gallery-item">
+        <img src="/assets/img/programs/fall-2025/Wize Academy Fall 2025.jpg" alt="Wize Academy Augmented & Virtual Reality">
+    </div>
+    <div class="gallery-item">
+        <img src="/assets/img/programs/fall-2025/VEMS Choral Program Fall 2025.png" alt="VEMS Junior Choir">
+    </div>
+    <div class="gallery-item">
+        <img src="/assets/img/programs/fall-2025/Lights Up Info Sheet Fall.png" alt="Lights Up Musical Theatre">
+    </div>
+    <div class="gallery-item">
+        <img src="/assets/img/programs/fall-2025/JR Tennis Fall 2025.png" alt="JR Tennis Academy">
+    </div>
+    <div class="gallery-item">
+        <img src="/assets/img/programs/fall-2025/Brainiacs.jpg" alt="Brainiacs: Board Games and Chess">
+    </div>
+    <div class="gallery-item">
+        <img src="/assets/img/programs/fall-2025/Young Rembrandts Fall 2025.png" alt="Young Rembrandts Art Classes">
+    </div>
+</div>
+
+<!-- basicLightbox JS -->
+<script src="https://cdn.jsdelivr.net/npm/basiclightbox@5.0.4/dist/basicLightbox.min.js"></script>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const galleryItems = document.querySelectorAll('.gallery-item');
+    
+    galleryItems.forEach(item => {
+        item.addEventListener('click', function() {
+            const imageSrc = this.querySelector('img').src;
+            const imageAlt = this.querySelector('img').alt;
+            
+            const instance = basicLightbox.create(`
+                <div class="lightbox-content">
+                    <img src="${imageSrc}" alt="${imageAlt}">
+                </div>
+            `);
+            
+            instance.show();
+        });
+    });
+});
+</script>

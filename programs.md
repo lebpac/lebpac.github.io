@@ -11,6 +11,8 @@ Please ensure your child knows exactly where and when to go.
 
 ## Fall 2025
 
+{% include gallery.html %}
+
 ### Mondays
 
 | Program | Illuma Studio Dance Sampler: Jazz Funk, Hip Hop, KPOP 🪩
