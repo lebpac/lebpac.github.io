@@ -17,12 +17,11 @@ This annual event is both an important **fundraiser for our Grade 7 graduating c
 - CultivATE Food Truck: burgers, veggie burgers, hot dogs, mac & cheese
 - DJ Kyprios spinning the tunes
 - Rain or Shine Ice Cream Truck
+- Popcorn
 - Face painting & photo booth
 - Musical cakes
-- Snack table
 - Movie room
-- Game stations led by our Grade 7 grads
-- The always-popular _Swifty Station_
+- And more!
 
 Most importantly, the BBQ is a chance to **welcome new families and staff** and to **reconnect with old friends** as we kick off the school year together.
 
