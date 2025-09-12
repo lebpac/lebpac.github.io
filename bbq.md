@@ -12,7 +12,7 @@ Mark your calendars—the much-anticipated Welcome Back BBQ is happening on **Th
 
 This annual event is both an important **fundraiser for our Grade 7 graduating class** and a wonderful opportunity to come together as a community, and ALL are welcome!
 
-## ✨ This year’s highlights
+## This year’s highlights
 
 - CultivATE Food Truck: burgers, veggie burgers, hot dogs, mac & cheese
 - DJ Kyprios spinning the tunes
@@ -25,7 +25,7 @@ This annual event is both an important **fundraiser for our Grade 7 graduating c
 
 Most importantly, the BBQ is a chance to **welcome new families and staff** and to **reconnect with old friends** as we kick off the school year together.
 
-## 🎟️ Tickets and food
+## Tickets and food
 
 The Welcome Back BBQ is free for everyone to attend, with food and activity station tickets available for purchase.
 
@@ -37,7 +37,7 @@ All food truck orders must be made in advance by **Sunday, September 14**! There
 
 Tickets and Rain or Shine Ice Cream can be purchased at the event.
 
-## 🙋 We need your help
+## We need your help
 
 The Welcome Back BBQ is only possible with parent volunteers.
 
@@ -47,4 +47,4 @@ Help us make it happen! Join the group chat and see how you can help.
 
 {% include link.html link="https://docs.google.com/spreadsheets/d/1ouYYhDjoiWN1uhb0-Vfzgn0zJMPGw6VD/edit?gid=1384396879" text="📋 Volunteer sign up sheet" %}
 
-We'll see you there! 🎉
+We'll see you there!
