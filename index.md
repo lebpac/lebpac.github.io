@@ -5,8 +5,8 @@ layout: default
 **Mark your calendars for this year's [Welcome Back BBQ]({% link bbq.md %})! 🍔**
 {: .message-highlight}
 
-# Your LEB PAC
-{: .page-title}
+# LEB PAC
+{: .page-title .logo}
 
 {% include_relative _content/about.md %}
 

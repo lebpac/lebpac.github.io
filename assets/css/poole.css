@@ -259,14 +259,7 @@ tbody tr:nth-child(odd) th {
  */
 
 .lead {
-  display: none;
-  font-size: 1.25rem;
-  font-weight: 300;
-}
-@media (min-width: 48em) {
-  .lead {
-    display: block;
-  }
+  font-size: 1rem;
 }
 
 
@@ -291,7 +284,9 @@ tbody tr:nth-child(odd) th {
   padding: 1rem;
   border-width: 0.2rem;
   border-style: solid;
-  border-image: linear-gradient(315deg, #081e77, #4141a5) 1;
+  /* border-image: linear-gradient(315deg, #081e77, #4141a5) 1; */
+  border-color: #4141a5;
+  border-radius: 12px;
 }
 
 

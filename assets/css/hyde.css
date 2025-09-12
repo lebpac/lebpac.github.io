@@ -89,7 +89,8 @@ html {
   color: #fff;
   margin-top: 0;
   font-family: "Permanent Marker", serif;
-  font-size: 3.20rem;
+  font-size: 3rem;
+  font-weight: 400;
   white-space: nowrap;
 }
 
@@ -266,8 +267,21 @@ img {
   margin: 1rem auto;
 }
 
-.page-title + .message-highlight {
-  margin-top: 1rem;
+.logo {
+  margin-top: 0;
+  font-family: "Permanent Marker", serif;
+  font-size: 3rem;
+  font-weight: 400;
+  text-align: center;
+  color: #081e77;
+  background: linear-gradient(315deg, #081e77, #4141a5);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.message-highlight + .page-title {
+  margin-top: 2rem;
 }
 
 .message-highlight p:last-child {
@@ -382,10 +396,6 @@ img.emoji {
   margin-top: 20px;
 }
 
-.sidebar .lead {
-  display: block;
-}
-
 .sidebar-toggle:checked ~ .sidebar {
   left: 0;
 }
@@ -424,6 +434,7 @@ img.emoji {
   margin: 0;
   font-family: "Permanent Marker", serif;
   font-size: 1.5rem;
+  font-weight: 400;
   text-align: center;
 }
 
