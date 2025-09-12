@@ -54,19 +54,29 @@ html {
  */
 
 .sidebar {
-  text-align: center;
+  position: fixed;
+  top: 0;
+  left: -100%;
+  width: 80%;
+  max-width: 320px;
+  height: 100vh;
+  z-index: 999;
+  transition: left 0.3s ease;
+  overflow-y: auto;
   padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
   background-color: #202020;
 }
+
 @media (min-width: 48em) {
   .sidebar {
-    position: fixed;
-    top: 0;
     left: 0;
     bottom: 0;
     width: 18rem;
-    text-align: left;
+    max-width: none;
+    height: auto;
+    z-index: auto;
+    transition: none;
   }
 }
 
@@ -107,7 +117,6 @@ html {
 @media (min-width: 48em) {
   .sidebar-sticky {
     position: absolute;
-    right:  1rem;
     bottom: 1rem;
     left:   1rem;
   }
@@ -121,12 +130,13 @@ html {
  */
 
 .content {
-  padding-top:    4rem;
+  padding-top: 5rem;
   padding-bottom: 4rem;
 }
 
 @media (min-width: 48em) {
   .content {
+    padding-top: 4rem;
     max-width: 38rem;
     margin-left: 20rem;
     margin-right: 2rem;
@@ -362,3 +372,102 @@ img.emoji {
   color: #515151;
   text-decoration: none;
 }
+
+/* Mobile Navigation */
+.sidebar-toggle {
+  display: none;
+}
+
+.sidebar-about {
+  margin-top: 20px;
+}
+
+.sidebar .lead {
+  display: block;
+}
+
+.sidebar-toggle:checked ~ .sidebar {
+  left: 0;
+}
+
+/* Hamburger X animation */
+.sidebar-toggle:checked ~ .hamburger-btn .hamburger-line:first-child {
+  transform: translateY(7px) rotate(45deg);
+}
+
+.sidebar-toggle:checked ~ .hamburger-btn .hamburger-line:nth-child(2) {
+  opacity: 0;
+  transform: scale(0.2);
+}
+
+.sidebar-toggle:checked ~ .hamburger-btn .hamburger-line:last-child {
+  transform: translateY(-7px) rotate(-45deg);
+}
+
+
+.mobile-header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 66px;
+  background: linear-gradient(315deg, #081e77, #4141a5);
+  z-index: 998;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 60px;
+}
+
+.mobile-header h1 {
+  color: #fff;
+  margin: 0;
+  font-family: "Permanent Marker", serif;
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+.mobile-header h1 a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.hamburger-btn {
+  position: fixed;
+  top: 1rem;
+  left: 1rem;
+  z-index: 1000;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 30px;
+  height: 30px;
+  cursor: pointer;
+  padding: 5px;
+  background: rgba(32, 32, 32, 0.9);
+  border-radius: 3px;
+}
+
+.hamburger-line {
+  display: block;
+  height: 3px;
+  width: 100%;
+  background: #fff;
+  border-radius: 3px;
+  transition: all 0.3s ease;
+  margin: 2px 0;
+}
+
+/* Desktop overrides */
+@media (min-width: 48em) {
+  .hamburger-btn,
+  .mobile-header {
+    display: none;
+  }
+  
+  .sidebar-about {
+    margin-top: 0;
+  }
+  
+}
+
