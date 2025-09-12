@@ -11,7 +11,7 @@ title: Meetings
 {% endcase %}
 {% endcapture %}
 
-You can find upcoming PAC meetings on the [calendar]({% link calendar.md %}). Meetings are held in person in the school library and online via Zoom.
+You can find upcoming PAC meetings on the [calendar]({% link calendar.md %}). Meetings are held in person in the school library and online via Google Meet.
 
 ## Minutes
 
