@@ -51,6 +51,6 @@ Reduce your families single use plastics with laundry strips! Every 32-load eco-
 
 ### COBS Bread
 
-<!-- ![COBS Bread](/assets/img/fundraising_cobs.jpeg){: width="50%" } -->
+<!-- ![COBS Bread](/assets/img/fundraising_cobs.jpg){: width="50%" } -->
 
 If anyone (family, friends, neighbours, grandparents, etc.) goes to COBS Bread at 8th and Cambie (across from Whole Foods) and mentions L’École Bilingue when they pay, 5% of their purchase will be donated to the school!

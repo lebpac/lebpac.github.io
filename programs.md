@@ -2,7 +2,7 @@
 layout: page
 title: Extracurricular Programs
 description: Learning doesn't stop when the bell rings.
-image: assets/og-image-programs.jpeg
+image: assets/og-image-programs.jpg
 badge: 🎭
 ---
 

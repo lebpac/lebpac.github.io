@@ -2,7 +2,7 @@
 layout: page
 title: Evans Lake
 description: Come join other LEB families for our annual Family Camp at Evans Lake!
-image: assets/og-image-evans-lake.jpeg
+image: assets/og-image-evans-lake.jpg
 badge: 🏕
 ---
 
