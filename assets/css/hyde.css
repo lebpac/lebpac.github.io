@@ -269,15 +269,25 @@ img {
 
 .logo {
   margin-top: 0;
+  margin-bottom: 1rem;
+  padding: 2rem;
+  border-radius: 6px;
   font-family: "Permanent Marker", serif;
   font-size: 3rem;
   font-weight: 400;
   text-align: center;
-  color: #081e77;
-  background: linear-gradient(315deg, #081e77, #4141a5);
-  -webkit-background-clip: text;
-  background-clip: text;
-  -webkit-text-fill-color: transparent;
+  color: #fff;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6);
+  background-image: url('/assets/img/school.webp');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+@media (min-width: 48em) {
+  .logo {
+    font-size: 4rem;
+  }
 }
 
 .message-highlight + .page-title {
