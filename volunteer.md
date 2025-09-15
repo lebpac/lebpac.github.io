@@ -10,7 +10,6 @@ Join other parents and get involved with your school community. Everything we do
 
 The following opportunities are currently available:
 
-- **Halloween Haunt lead(s) and volunteers**
 - Extracurricular programs lead(s) for January 2026
 - Yearbook lead-in-training
 - Babysitter training lead (for Grade 7s)
@@ -23,7 +22,7 @@ Interested? Send us an email at [hello@lebpac.ca](mailto:hello@lebpac.ca)!
 {% comment %}
 ## Halloween Haunt
 
-The Halloween Haunt Leads are looking for volunteers! If you're interested in volunteering, please join the [WhatsApp group chat](https://chat.whatsapp.com/BwynZctcTWX6mHmWlXPa03)!
+The Halloween Haunt leads are looking for volunteers! If you're interested in volunteering, please join the [WhatsApp group chat](https://chat.whatsapp.com/BwynZctcTWX6mHmWlXPa03)!
 
 {% include link.html link="https://docs.google.com/spreadsheets/d/1ZOsl05mREL125tX5NkQ4AUsx1bBDlVo9/edit" text="🎃 Volunteer for the Halloween Haunt" %}
 {% endcomment %}
