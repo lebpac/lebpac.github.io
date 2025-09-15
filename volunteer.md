@@ -4,7 +4,21 @@ title: Get Involved
 badge: 🙌
 ---
 
-Join other parents and get involved with your school community.
+Join other parents and get involved with your school community. Everything we do is made possible through our dedicated parent volunteers.
+
+## Volunteer needs
+
+The following opportunities are currently available:
+
+- **Halloween Haunt lead(s) and volunteers**
+- Extracurricular programs lead(s) for January 2026
+- Yearbook lead-in-training
+- Babysitter training lead (for Grade 7s)
+- Walkathon lead
+- School Streets lead
+- Spirit Wear parent lead
+
+Interested? Send us an email at [hello@lebpac.ca](mailto:hello@lebpac.ca)!
 
 {% comment %}
 ## Halloween Haunt
