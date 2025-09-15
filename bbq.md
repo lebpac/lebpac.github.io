@@ -30,7 +30,7 @@ Most importantly, the BBQ is a chance to **welcome new families and staff** and 
 The Welcome Back BBQ is free for everyone to attend, with food and activity station tickets available for purchase.
 
 {% capture munchalunch_link %}{% link munchalunch.html %}{% endcapture %}
-{% include link.html link=munchalunch_link text="🍔 Pre-order tickets and food through MunchaLunch" %}
+{% include link.html text="🍔 Pre-order tickets and food through MunchaLunch" %}
 
 All food truck orders must be made in advance by **Sunday, September 14**! There will be **no food truck orders at the event**.
 {: .message-highlight}
