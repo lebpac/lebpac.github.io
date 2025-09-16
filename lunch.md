@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Lunch Program
+description: Order lunch through MunchaLunch!
+image: assets/og-image-lunch.jpg
 badge: 🍣
 ---
 
