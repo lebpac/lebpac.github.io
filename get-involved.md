@@ -25,7 +25,7 @@ The PAC Exec is the primary organizing body and liaison with the school. The fiv
 
 * Yearbook
 * Welcome Back BBQ (September)
-* Hallowe'en Haunt (October)
+* Halloween Haunt (October)
 * Book Fair (November)
 * Bike to School Week (May)
 

@@ -13,9 +13,8 @@ The following opportunities are currently available:
 - Extracurricular programs lead(s) for January 2026
 - Yearbook lead-in-training
 - Babysitter training lead (for Grade 7s)
-- Walkathon lead
 - School Streets lead
-- Spirit Wear parent lead
+- Apparel (Spirit Wear) lead
 
 Interested? Send us an email at [hello@lebpac.ca](mailto:hello@lebpac.ca)!
 
@@ -28,7 +27,7 @@ The Halloween Haunt leads are looking for volunteers! If you're interested in vo
 {% endcomment %}
 
 {% comment %}
-## School Streets (May 2024)
+## School Streets
 
 Volunteers are needed at drop-off and pick-up times for the month of May to help out with our School Streets program. For detailed information and to sign-up, please see the link below.
 
