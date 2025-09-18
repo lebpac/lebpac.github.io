@@ -6,26 +6,34 @@ image: assets/og-image-lunch.jpg
 badge: 🍣
 ---
 
-Sushi and pizza lunches are run by Grade 7 and Grade 4 parents, respectively, to raise money for Grade 7 Grad and Camp Sasamat.
+Sushi Tuesdays and pizza Thursdays are back!
 
+🍕 Pizza lunches start **Thursday, Sept 25** (order by)  
+🍣 Sushi lunches start **Tuesday, Oct 7**
+{: .message-highlight}
+
+{% comment %}
 We need volunteers to distribute lunch! If you're able to help, even occasionally, we'd really appreciate it. You can [sign up to volunteer here]({% link volunteer.md %}).
 {: .message-highlight}
+{% endcomment %}
 
 ## How to order
 
-Lunch orders are placed through MunchaLunch.
+All lunch orders are placed through MunchaLunch.
 
 {% capture munchalunch_link %}{% link munchalunch.html %}{% endcapture %}
 {% include link.html link=munchalunch_link text="🥪 Place your lunch order through MunchaLunch" %}
 
-{% comment %}
-Orders are for an _entire session_ and must be placed before the session starts. Subscribe to the [newsletter]({% link newsletter.md %}) to stay informed about ordering dates.
-{% endcomment %}
-
-This is a fundraiser, so there are no refunds for missed dates. Please check your calendar and confirm your order with your child before ordering.
-
 Please note cutlery is not provided; ensure your child brings their own if needed.
 
+### New for this school year
+
+- MunchaLunch will be _open_ to place, change, or cancel orders throughout the entire term.
+- Each lunch day's orders will _close_ **five days prior**; for example, for the pizza lunch on Oct 9, ordering will close at midnight on Oct 4.
+- During your initial purchase, you will be asked to choose one repeating order for your child for the term. If your child changes their mind, adjustments can be made anytime before that order closes.
+
 ---
+
+Subscribe to the [newsletter]({% link newsletter.md %}) to stay in the loop on lunches and more.
 
 Have a lunch question? Send us an email at [lunch@lebpac.ca](mailto:lunch@lebpac.ca).
