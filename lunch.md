@@ -8,7 +8,7 @@ badge: 🍣
 
 Sushi Tuesdays and pizza Thursdays are back!
 
-🍕 Pizza lunches start **Thursday, Sept 25** (order by)  
+🍕 Pizza lunches start **Thursday, Sept 25**
 🍣 Sushi lunches start **Tuesday, Oct 7**
 {: .message-highlight}
 
