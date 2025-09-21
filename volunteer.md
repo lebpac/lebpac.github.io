@@ -10,11 +10,9 @@ Join other parents and get involved with your school community. Everything we do
 
 The following opportunities are currently available:
 
+- Fundraising lead
 - Extracurricular programs lead(s) for January 2026
-- Yearbook lead-in-training
-- Babysitter training lead (for Grade 7s)
-- School Streets lead
-- Apparel (Spirit Wear) lead
+- Yearbook volunteers
 
 Interested? Send us an email at [hello@lebpac.ca](mailto:hello@lebpac.ca)!
 
