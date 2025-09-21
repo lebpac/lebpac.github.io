@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Book Fair
+badge: 📚
 published: false
 ---
 
