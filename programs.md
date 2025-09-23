@@ -39,16 +39,6 @@ Please ensure your child knows exactly where and when to go.
 
 ### Tuesdays
 
-| Program | VEMS Junior Choir 🎶
-| Location | Music Room
-| Grades | 1 – 3
-| Dates | Sep 16 – Dec 9 (11 rehearsals and a concert)<br />**No session Sep 30, Nov 11**
-| Time | Lunch
-| Cost | $156 + GST
-| Register | [Register here](https://vems.ca/signup.html)
-| Contact | [Rob](mailto:president@vems.ca)
-{: .programs-table}
-
 | Program | Lights Up Musical Theatre - Beauty and the Beast 🎭
 | Location | Library
 | Grades | K – 7
@@ -82,16 +72,6 @@ Please ensure your child knows exactly where and when to go.
 {: .programs-table}
 
 ### Thursdays
-
-| Program | VEMS Junior Choir 🎶
-| Location | Music Room
-| Grades | 4 – 7
-| Dates | Sep 25 – Dec 4 (11 rehearsals and a concert)
-| Time | Lunch
-| Cost | $156 + GST
-| Register | [Register here](https://vems.ca/signup.html)
-| Contact | [Rob](mailto:president@vems.ca)
-{: .programs-table}
 
 | Program | RBL Basketball 🏀
 | Location | Gym
