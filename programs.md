@@ -40,7 +40,7 @@ Please ensure your child knows exactly where and when to go.
 ### Tuesdays
 
 | Program | Lights Up Musical Theatre - Beauty and the Beast 🎭
-| Location | Library
+| Location | Gym
 | Grades | K – 7
 | Dates | Oct 14 – Dec 16 (9 sessions)<br />**No session Nov 11**
 | Time | 3:00 - 5:15 pm
