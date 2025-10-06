@@ -38,7 +38,7 @@ Lunch programs aren't possible without parent volunteers. If you're able to help
 
 Volunteers are needed Tuesdays to help distribute sushi.
 
-{% include link.html text="🍣 Volunteer to help with sushi (coming soon)" %}
+{% include link.html link="https://chat.whatsapp.com/CmtwF6ttyav0eAKJM4BUcW" text="🍣 Volunteer to help with sushi" %}
 
 Volunteers are needed Thursdays to help distribute pizza.
 
