@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Welcome Back BBQ
-description: This year's Welcome Back BBQ is happening on Thursday, September 18th, from 5–8 pm!
+description: This year's Welcome Back BBQ is happening on Thursday, September 18, from 5–8 pm!
 image: assets/og-image-bbq.jpg
 badge: 🍔
 ---
 
 Welcome back, L’École Bilingue Families!
 
-Mark your calendars—the much-anticipated Welcome Back BBQ is happening on **Thursday, September 18th, from 5–8 pm** following _Meet the Teacher_.
+Mark your calendars—the much-anticipated Welcome Back BBQ is happening on **Thursday, September 18, from 5–8 pm** following _Meet the Teacher_.
 
 This annual event is both an important **fundraiser for our Grade 7 graduating class** and a wonderful opportunity to come together as a community, and ALL are welcome!
 
