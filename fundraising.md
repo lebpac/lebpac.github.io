@@ -35,22 +35,16 @@ Your generosity directly impacts our students, teachers, and community. No amoun
 
 ### Mabel's Labels
 
-<!-- ![Mabel's Labels](/assets/img/fundraising_mabelslabels.png){: width="30%" } -->
-
 Mabel’s Labels sells highly customizable labels that are laundry and dishwasher safe. For use on clothing, shoes, bags, lunchboxes and anything your child might use or lose at school.
 
 {% include link.html link="https://campaigns.mabelslabels.com" text="🔗 Support the PAC with Mabel's Labels" %}
 
 ### Tru Earth
 
-<!-- ![Tru Earth](/assets/img/fundraising_truearth.png){: width="20%" } -->
-
 Reduce your families single use plastics with laundry strips! Every 32-load eco-strips package eliminates 1 plastic jug from potentially ending up in landfills and oceans. Tru Earth sells laundry detergent as well as other environmentally friendly products.
 
 {% include link.html link="http://tru-earth.sjv.io/lebpac" text="🔗 Support the PAC with Tru Earth" %}
 
 ### COBS Bread
-
-<!-- ![COBS Bread](/assets/img/fundraising_cobs.jpg){: width="50%" } -->
 
 If anyone (family, friends, neighbours, grandparents, etc.) goes to COBS Bread at 8th and Cambie (across from Whole Foods) and mentions L’École Bilingue when they pay, 5% of their purchase will be donated to the school!
