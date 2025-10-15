@@ -6,7 +6,7 @@ badge: 💵
 
 As parents and guardians, we directly fund additional educational resources beyond those provided by the VSB and provincial government.
 
-## Direct donation
+## Support your school
 
 Most of our funds are raised through direct donation, an annual voluntary contribution. The suggested amount is **$100 per child**.
 
@@ -14,18 +14,18 @@ Most of our funds are raised through direct donation, an annual voluntary contri
   ❤️ Donate directly to the PAC
 </a>
 
-All donations are eligible for a tax receipt.
+<p class="fundraiser-details">All donations are eligible for a tax receipt.</p>
 
 ## Where do the funds go?
 
 Make a donation today to help enhance your child's school experience. Your direct donation funds much needed programs and resources, including:
 
-* Technology resources (tablets/laptops/smart boards)
+* Technology resources (tablets, smart boards)
 * Sports equipment, fitness programs
-* Arts and cultural programs (author visits/performances)
+* Arts and cultural programs
 * Science workshops
-* Supplementing classroom learning resources (like books and supplies)
-* Grade specific events and programs
+* Supplementing classroom learning resources (books, supplies)
+* Grade-specific events and programs
 
 Your generosity directly impacts our students, teachers, and community. No amount is too small—every dollar makes a difference!
 
@@ -46,3 +46,7 @@ Reduce your families single use plastics with laundry strips! Every 32-load eco-
 ### COBS Bread
 
 If anyone (family, friends, neighbours, grandparents, etc.) goes to COBS Bread at 8th and Cambie (across from Whole Foods) and mentions L’École Bilingue when they pay, 5% of their purchase will be donated to the school!
+
+---
+
+Have a fundraising idea or question? Send us an email at [fundraising@lebpac.ca](mailto:fundraising@lebpac.ca).
