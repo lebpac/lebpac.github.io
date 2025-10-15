@@ -311,21 +311,20 @@ img {
   color: #c0c0c0;
 }
 
-/* Exec table */
-.exec-table {
+/* Borderless table */
+.borderless-table {
   table-layout: fixed;
   border-collapse: collapse;
   border: none;
 }
 
-/* Exec table */
-.exec-table th,
-.exec-table td {
+.borderless-table th,
+.borderless-table td {
   border: none;
   background: none;
 }
 
-.exec-table td:first-child {
+.borderless-table td:first-child {
   width: 120px;
   padding-left: 0;
   font-weight: 700;

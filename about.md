@@ -12,7 +12,7 @@ title: About the PAC
 | Past Chair | Sarah Willson    |
 | Treasurer  | Heather Bradbury |  
 | Secretary  | Marko Pajalic    |
-{: .exec-table}
+{: .borderless-table}
 
 ## Get in touch
 {% include_relative _content/contact.md %}
