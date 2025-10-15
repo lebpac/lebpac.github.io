@@ -12,7 +12,7 @@ Our annual Halloween Haunt is happening on **Thursday, October 23, from 5 to 7 p
 
 To make this event a haunting success, we’re officially looking for volunteers!
 
-All available roles are listed on the sign-up sheet. We’re especially looking to fill the team lead positions  as soon as possible, as some may require prep ahead of time.
+All available roles are listed on the sign-up sheet. We’re especially looking to fill the zone lead positions  as soon as possible, as some may require prep ahead of time.
 
 {% include link.html link="https://docs.google.com/spreadsheets/d/1ojpqCsDDMo40Jh3OfSJ5LGsXQRVm3UJY/edit" text="🎃 Volunteer for the Halloween Haunt" %}
 
