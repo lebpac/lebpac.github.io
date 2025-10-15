@@ -20,16 +20,14 @@ All donations are eligible for a tax receipt.
 
 Make a donation today to help enhance your child's school experience. Your direct donation funds much needed programs and resources, including:
 
-* Arts and cultural programs (author visits/performances)
+* Technology resources (tablets/laptops/smart boards)
 * Sports equipment, fitness programs
+* Arts and cultural programs (author visits/performances)
 * Science workshops
-* Technology resources (tablets/laptops/smartboards)
 * Supplementing classroom learning resources (like books and supplies)
 * Grade specific events and programs
 
 Your generosity directly impacts our students, teachers, and community. No amount is too small—every dollar makes a difference!
-
----
 
 ## Other ways to support the PAC
 
