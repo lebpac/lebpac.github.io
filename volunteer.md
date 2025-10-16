@@ -10,7 +10,6 @@ Join other parents and get involved with your school community. Everything we do
 
 The following opportunities are currently available:
 
-- [Halloween Haunt volunteers]({% link halloween.md %})
 - Class parents
 - Extracurricular programs lead(s) for January 2026
 - Fundraising lead
