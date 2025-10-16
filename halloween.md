@@ -8,6 +8,15 @@ badge: 🎃
 
 Our annual Halloween Haunt is happening on **Thursday, October 23, from 5 to 7 pm**! Get ready for a _spooktacular_ evening of fun and frights for the whole family.
 
+Costumes are encouraged, but not required.
+
+## Tickets
+
+Pre-purchase entry and fun tickets at a discount before the event!
+
+{% capture munchalunch_link %}{% link munchalunch.html %}{% endcapture %}
+{% include link.html link=munchalunch_link text="🎟️ Purchase tickets through MunchaLunch" %}
+
 ## We need your help
 
 To make this event a haunting success, we’re officially looking for volunteers!
@@ -39,13 +48,6 @@ Please avoid nuts and items that require refrigeration (everything will be kept 
 {: .borderless-table}
 
 No time to bake? Store-bought treats are _fantastic_ and especially helpful for those with ingredient concerns!
-
-## Tickets
-
-Tickets will be available on MunchaLunch closer to the event date—stay tuned!
-
-{% capture munchalunch_link %}{% link munchalunch.html %}{% endcapture %}
-{% include link.html text="🎟️ Tickets coming soon" %}
 
 ---
 
