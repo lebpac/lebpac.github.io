@@ -2,6 +2,7 @@
 layout: page
 title: Yearbook
 badge: 📸
+description: Snapped a pic that would look great in the yearbook? Share it with us!
 noindex: true
 ---
 
