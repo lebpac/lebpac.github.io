@@ -10,8 +10,8 @@ Join other parents and get involved with your school community. Everything we do
 
 The following opportunities are currently available:
 
-- Extracurricular programs lead(s) for January 2026
-- Yearbook lead-in-training
+- Extracurricular programs lead(s)
+- Yearbook volunteers
 - Babysitter training lead
 - School Streets lead
 - Spirit Wear lead
