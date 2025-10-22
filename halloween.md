@@ -12,10 +12,14 @@ Costumes are encouraged, but not required.
 
 ## Tickets
 
+{% include link.html text="🎟️ Tickets available for purchase at the door" %}
+
+{% comment %}
 Pre-purchase entry and fun tickets at a discount before the event!
 
 {% capture munchalunch_link %}{% link munchalunch.html %}{% endcapture %}
 {% include link.html link=munchalunch_link text="🎟️ Purchase tickets through MunchaLunch" %}
+{% endcomment %}
 
 ## We need your help
 
