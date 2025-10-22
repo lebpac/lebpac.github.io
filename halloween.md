@@ -31,6 +31,7 @@ All available roles are listed on the sign-up sheet. We’re especially looking 
 
 Thank you in advance for helping us create a memorable night for our school community. We couldn’t do it without you!
 
+{% comment %}
 ## Prize table donations — let's recycle the joy!
 
 Do you have gently-used toys or stuffed animals at home that aren’t getting much playtime? This year, as a great way to give these treasures a second life, we’re inviting families to help stock the prize table by donating any less-frequently used items that are in good condition.
@@ -40,6 +41,7 @@ Do you have gently-used toys or stuffed animals at home that aren’t getting mu
 {: .borderless-table}
 
 Thank you for helping us create a fun and sustainable prize table experience!
+{% endcomment %}
 
 ## Musical cake donations
 
