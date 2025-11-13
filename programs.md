@@ -21,7 +21,7 @@ Please ensure your child knows exactly where and when to go.
 | Location | Library
 | Grades | K – 7
 | Dates | Jan 13 – Mar 10
-| Time | 3:00 - 5:15 pm
+| Time | 3:00 – 5:15 pm
 | Cost | $365 + GST
 | Register | [Register here](https://lightsuptheatre.ca/lecolebilingue/)
 | Contact | [Billie](mailto:billie@lightsuptheatre.ca)
@@ -36,7 +36,7 @@ Please ensure your child knows exactly where and when to go.
 | Location | Gym
 | Grades | K – 7
 | Dates | Sep 29 – Dec 8 (10 sessions)<br />**No session Oct 13**
-| Time | 3:00 - 5:15 pm
+| Time | 3:00 – 5:15 pm
 | Cost | $383.25 incl. GST
 | Register | [Register here](https://form.jotform.com/helloilluma/ASP)
 | Contact | [Swan](mailto:helloilluma@gmail.com)
@@ -46,7 +46,7 @@ Please ensure your child knows exactly where and when to go.
 | Location | Library
 | Grades | 2 – 6
 | Dates | Sep 29 – Nov 24 (8 sessions)<br />**No session Oct 13**
-| Time | 3:00 - 4:30 pm
+| Time | 3:00 – 4:30 pm
 | Cost | $300 + GST
 | Register | [Register here](https://app.amilia.com/store/en/wize-academy-of-vancouver-south-richmond/shop/programs)
 | Contact | [Namrata](mailto:info-nn@wizeacademy.com)
@@ -58,7 +58,7 @@ Please ensure your child knows exactly where and when to go.
 | Location | Gym
 | Grades | K – 7
 | Dates | Oct 14 – Dec 16 (9 sessions)<br />**No session Nov 11**
-| Time | 3:00 - 5:15 pm
+| Time | 3:00 – 5:15 pm
 | Cost | $365 + GST
 | Register | [Register here](https://lightsuptheatre.ca/lecolebilingue/)
 | Contact | [Billie](mailto:billie@lightsuptheatre.ca)
@@ -70,7 +70,7 @@ Please ensure your child knows exactly where and when to go.
 | Location | Gym
 | Grades | 1 – 3 (ages 6 – 9)
 | Dates | Oct 15 – Dec 17 (10 sessions)
-| Time | 3:05 - 4:35 pm (2:05 – 3:35 pm on Oct 8)
+| Time | 3:05 – 4:35 pm (2:05 – 3:35 pm on Oct 8)
 | Cost | $346.50 incl. GST
 | Register | [Register here](http://www.jrtennis.ca/)
 | Contact | [Rilan](mailto:rilanjrtennis@gmail.com)
@@ -80,7 +80,7 @@ Please ensure your child knows exactly where and when to go.
 | Location | Library
 | Grades | K – 7
 | Dates | Sep 17 – Dec 10 (13 sessions)
-| Time | 3:00 - 5:00 pm (2:00 – 4:00 pm on Oct 8)
+| Time | 3:00 – 5:00 pm (2:00 – 4:00 pm on Oct 8)
 | Cost | $395 + GST
 | Register | [Register here](https://www.brainiacsadventures.com/programs)
 | Contact | [Ashwin](mailto:brainiacs.adventures@gmail.com)
@@ -92,7 +92,7 @@ Please ensure your child knows exactly where and when to go.
 | Location | Gym
 | Grades | 4 – 6 (plus any keen gr 3s and 7s)
 | Dates | Sep 25 – Dec 18 (11 sessions)<br />**No session Oct 9, Oct 23**
-| Time | 3:15 - 4:45 pm
+| Time | 3:15 – 4:45 pm
 | Cost | $315 + GST
 | Register | [Register here](https://secure.esportsdesk.com/login.cfm?leagueID=22292&clientID=1477&regEventID=76185)
 | Contact | [Leland](mailto:leland@rblbasketball.com)
@@ -102,7 +102,7 @@ Please ensure your child knows exactly where and when to go.
 | Location | Library
 | Grades | 1 – 6
 | Dates | Sep 25 – Dec 11 (12 sessions)
-| Time | 3:00 - 4:10 pm (2:00 – 3:10 pm on Oct 9)
+| Time | 3:00 – 4:10 pm (2:00 – 3:10 pm on Oct 9)
 | Cost | $282 + GST
 | Register | [Register here](https://campscui.active.com/orgs/YoungRembrandtsMetroVancouver?season=3687135&session=68075133)
 | Contact | [Virginie](mailto:metrovancouver@youngrembrandts.com)
