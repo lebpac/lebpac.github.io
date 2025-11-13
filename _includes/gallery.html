@@ -4,6 +4,7 @@
 <style>
 .image-gallery {
     display: flex;
+    justify-content: center;
     flex-wrap: wrap;
     gap: 15px;
     margin: 20px 0;
@@ -12,6 +13,9 @@
 .gallery-item {
     flex: 1 1 calc(16.666% - 15px);
     min-width: 150px;
+    max-width: 240px;
+    border: 0.2rem solid #e5e5e5;
+    padding: 0.4rem;
     cursor: pointer;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
     border-radius: 8px;
@@ -61,14 +65,15 @@
 <!-- gallery -->
 <div class="image-gallery">
     <div class="gallery-item">
+        <img src="/assets/img/programs/winter-2026/Lights Up Info Sheet Winter.png" alt="Lights Up Musical Theatre">
+    </div>
+    <!-- <div class="gallery-item">
         <img src="/assets/img/programs/fall-2025/Illuma Studio.png" alt="Illuma Studio Dance Sampler">
     </div>
     <div class="gallery-item">
         <img src="/assets/img/programs/fall-2025/Wize Academy Fall 2025.jpg" alt="Wize Academy Augmented & Virtual Reality">
     </div>
-    <div class="gallery-item">
-        <img src="/assets/img/programs/fall-2025/Lights Up Info Sheet Fall.png" alt="Lights Up Musical Theatre">
-    </div>
+
     <div class="gallery-item">
         <img src="/assets/img/programs/fall-2025/JR Tennis Fall 2025.png" alt="JR Tennis Academy">
     </div>
@@ -77,7 +82,7 @@
     </div>
     <div class="gallery-item">
         <img src="/assets/img/programs/fall-2025/Young Rembrandts Fall 2025.png" alt="Young Rembrandts Art Classes">
-    </div>
+    </div> -->
 </div>
 
 <!-- basicLightbox JS -->

@@ -11,13 +11,28 @@ These programs are not school-sanctioned nor supervised by the PAC or L'École B
 Please ensure your child knows exactly where and when to go.
 {: .message-highlight}
 
-## Fall 2025
+## Winter 2026
 
 {% include gallery.html %}
 
+### Tuesdays
+
+| Program | 🎭 Lights Up Musical Theatre - How to Train Your Dragon
+| Location | Library
+| Grades | K – 7
+| Dates | Jan 13 – Mar 10
+| Time | 3:00 - 5:15 pm
+| Cost | $365 + GST
+| Register | [Register here](https://lightsuptheatre.ca/lecolebilingue/)
+| Contact | [Billie](mailto:billie@lightsuptheatre.ca)
+{: .programs-table}
+
+
+## Fall 2025
+
 ### Mondays
 
-| Program | Illuma Studio Dance Sampler: Jazz Funk, Hip Hop, KPOP 🪩
+| Program | 🪩 Illuma Studio Dance Sampler: Jazz Funk, Hip Hop, KPOP
 | Location | Gym
 | Grades | K – 7
 | Dates | Sep 29 – Dec 8 (10 sessions)<br />**No session Oct 13**
@@ -27,7 +42,7 @@ Please ensure your child knows exactly where and when to go.
 | Contact | [Swan](mailto:helloilluma@gmail.com)
 {: .programs-table}
 
-| Program | Wize Academy Augmented & Virtual Reality - Learning & Creation 💻
+| Program | 💻 Wize Academy Augmented & Virtual Reality - Learning & Creation
 | Location | Library
 | Grades | 2 – 6
 | Dates | Sep 29 – Nov 24 (8 sessions)<br />**No session Oct 13**
@@ -39,7 +54,7 @@ Please ensure your child knows exactly where and when to go.
 
 ### Tuesdays
 
-| Program | Lights Up Musical Theatre - Beauty and the Beast 🎭
+| Program | 🎭 Lights Up Musical Theatre - Beauty and the Beast
 | Location | Gym
 | Grades | K – 7
 | Dates | Oct 14 – Dec 16 (9 sessions)<br />**No session Nov 11**
@@ -51,7 +66,7 @@ Please ensure your child knows exactly where and when to go.
 
 ### Wednesdays
 
-| Program | JR Tennis Academy 🎾
+| Program | 🎾 JR Tennis Academy
 | Location | Gym
 | Grades | 1 – 3 (ages 6 – 9)
 | Dates | Oct 15 – Dec 17 (10 sessions)
@@ -61,7 +76,7 @@ Please ensure your child knows exactly where and when to go.
 | Contact | [Rilan](mailto:rilanjrtennis@gmail.com)
 {: .programs-table}
 
-| Program | Brainiacs: Board Games and Chess ♟️
+| Program | ♟️ Brainiacs: Board Games and Chess
 | Location | Library
 | Grades | K – 7
 | Dates | Sep 17 – Dec 10 (13 sessions)
@@ -73,7 +88,7 @@ Please ensure your child knows exactly where and when to go.
 
 ### Thursdays
 
-| Program | RBL Basketball 🏀
+| Program | 🏀 RBL Basketball
 | Location | Gym
 | Grades | 4 – 6 (plus any keen gr 3s and 7s)
 | Dates | Sep 25 – Dec 18 (11 sessions)<br />**No session Oct 9, Oct 23**
@@ -83,7 +98,7 @@ Please ensure your child knows exactly where and when to go.
 | Contact | [Leland](mailto:leland@rblbasketball.com)
 {: .programs-table}
 
-| Program | Young Rembrandts 🎨
+| Program | 🎨 Young Rembrandts
 | Location | Library
 | Grades | 1 – 6
 | Dates | Sep 25 – Dec 11 (12 sessions)
