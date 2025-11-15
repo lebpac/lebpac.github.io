@@ -14,7 +14,6 @@ The following opportunities are currently available:
 - Babysitter training lead
 - School Streets lead
 - Spirit Wear lead
-- Class parents
 
 Interested? Send us an email at [hello@lebpac.ca](mailto:hello@lebpac.ca)!
 
