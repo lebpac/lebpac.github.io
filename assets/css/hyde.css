@@ -311,6 +311,26 @@ img {
   color: #c0c0c0;
 }
 
+.attribution {
+  white-space: nowrap;
+  color: #c0c0c0;
+  font-style: italic;
+}
+
+.boxed-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.boxed-list-item {
+  flex: 1 1 240px;
+  border: 1px solid #e5e5e5;
+  padding: 16px;
+  border-radius: 8px;
+}
+
 /* Borderless table */
 .borderless-table {
   table-layout: fixed;
