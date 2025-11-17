@@ -18,30 +18,30 @@ All donations are eligible for a tax receipt.
 
 ## What your donation supports
 
-Your donation will fund much needed programs and resources, including:
+This year, your donation will fund much needed programs and resources, including:
 
 <div class="boxed-list">
   <div class="boxed-list-item">
-    <p><strong>Classroom and student resources</strong></p>
+    <div class="boxed-list-item-heading">📚 Classroom resources</div>
     <p>Bulletin boards, sensory tools, French-language games, molecular science kits, field trip funds, and supplemental classroom materials</p>
   </div>
   <div class="boxed-list-item">
-    <p><strong>Learning technology</strong></p>
+    <div class="boxed-list-item-heading">💻 Learning technology</div>
     <p>Document cameras, whiteboards for classrooms, an iPad storage tub, and replacement iPad cables and cases</p>
   </div>
    <div class="boxed-list-item">
-    <p><strong>Sports programs and equipment</strong></p>
+    <div class="boxed-list-item-heading">🤸 Sports programs and equipment</div>
     <p>Gymnastics and circus programs, replacement team jerseys, a school banner, new sports equipment, and scoreboard replacement parts</p>
   </div>
    <div class="boxed-list-item">
-    <p><strong>Enrichment programs</strong></p>
+    <div class="boxed-list-item-heading">🧘 Enrichment programs</div>
     <p>Saleema Noon, Maple Man, yoga, and subsidized cooking classes</p>
   </div>
 </div>
 
 ## Help us reach our goal
 
-This year, our goal is to raise $20,000 to continue supporting these and other school-wide initiatives. Every contribution, big or small, makes a difference.
+Our goal is to raise $20,000 to continue supporting these and other school-wide initiatives. Every contribution, big or small, makes a difference.
 
 {% capture donate_link %}{% link donate.html %}{% endcapture %}
 {% include link.html link=donate_link text="❤️ Help fund a better school experience" %}
