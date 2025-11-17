@@ -2,8 +2,8 @@
 layout: default
 ---
 
-<!-- **Mark your calendars for this year's [Welcome Back BBQ]({% link bbq.md %})! 🍔**
-{: .message-highlight} -->
+**Help our students thrive. [Donate today.]({% link fundraising.md %})**
+{: .message-highlight}
 
 # LEB PAC
 {: .page-title .logo}
