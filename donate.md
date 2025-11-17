@@ -1,7 +1,7 @@
 ---
+layout: page
 title: Donate to the LEB PAC
 description: Help our students thrive.
-redirect_from: /donations
 ---
 
 <script>
