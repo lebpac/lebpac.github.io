@@ -15,6 +15,18 @@ Please ensure your child knows exactly where and when to go.
 
 {% include gallery.html %}
 
+### Mondays
+
+| Program | WIZE - Minecraft Coding & Modding 💻
+| Location | Library
+| Grades | 3 – 6
+| Dates | Jan 19 – Mar 2
+| Time | 3:00 – 4:30 pm
+| Cost | $225 + GST
+| Register | [Register here](https://app.amilia.com/store/en/wize-academy-of-vancouver-south-richmond/shop/activities/6482505){:target="_blank"}
+| Contact | [Namrata](mailto:info-nn@wizeacademy.com)
+{: .programs-table}
+
 ### Tuesdays
 
 | Program | VEMS Junior Choir 🎶
@@ -86,7 +98,7 @@ Please ensure your child knows exactly where and when to go.
 | Contact | [Swan](mailto:helloilluma@gmail.com)
 {: .programs-table}
 
-| Program | Wize Academy Augmented & Virtual Reality - Learning & Creation 💻
+| Program | WIZE - Augmented & Virtual Reality 💻
 | Location | Library
 | Grades | 2 – 6
 | Dates | Sep 29 – Nov 24 (8 sessions)<br />**No session Oct 13**
