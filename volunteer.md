@@ -11,9 +11,7 @@ Join other parents and get involved with your school community. Everything we do
 The following opportunities are currently available:
 
 - Yearbook volunteers
-- Babysitter training lead
 - School Streets lead
-- Spirit Wear lead
 
 Interested? Send us an email at [hello@lebpac.ca](mailto:hello@lebpac.ca)!
 
