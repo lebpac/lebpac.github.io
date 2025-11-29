@@ -8,7 +8,7 @@ badge: 👕
 
 ![Spirit Wear](/assets/img/spirit_wear.webp)
 
-Back by popular demand, you can now order LEB Spirit Wear until December 1 for pick-up before the holiday break! Items include hoodies, zip-hoodies, t-shirts and umbrellas. Both child and adult sizes are available so the whole family can match!
+Back by popular demand, you can now order LEB Spirit Wear until December 1 for pick-up before the holiday break! Items include hoodies, zip-hoodies, t-shirts, and umbrellas. Both child and adult sizes are available so the whole family can match!
 
 Every purchase helps support our school community.
 
