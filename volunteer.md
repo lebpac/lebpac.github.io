@@ -8,10 +8,7 @@ Join other parents and get involved with your school community. Everything we do
 
 ## Volunteer needs
 
-The following opportunities are currently available:
-
-- Yearbook volunteers
-- School Streets lead
+We're always looking for volunteers!
 
 Interested? Send us an email at [hello@lebpac.ca](mailto:hello@lebpac.ca)!
 
