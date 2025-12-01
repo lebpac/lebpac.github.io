@@ -20,11 +20,11 @@ All lunch orders are placed through MunchaLunch.
 
 Please note cutlery is not provided; ensure your child brings their own if needed.
 
-### New for this school year
+### Ordering tips
 
-- MunchaLunch will be open to place, change, or cancel orders throughout the entire term.
-- Each lunch day's orders will close **five days before**; for example, for the pizza lunch on Oct 9, ordering will close at 11:59 pm on Oct 4.
-- During your initial purchase, you will be asked to choose one repeating order for your child for the term. If your child changes their mind, adjustments can be made anytime before that order closes.
+- You'll be asked to choose one repeating order for the term
+- You can then change or cancel orders anytime before they close
+- Each lunch day's orders will close **five days before**
 
 ---
 
