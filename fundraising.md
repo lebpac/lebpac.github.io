@@ -2,6 +2,7 @@
 layout: page
 title: Fundraising
 description: Help our students thrive. Your donation funds much needed programs and resources.
+image: assets/og-image-fundraising.jpg
 badge: 💵
 ---
 
