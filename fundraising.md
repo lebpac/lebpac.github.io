@@ -11,10 +11,14 @@ As parents and guardians, we directly fund additional educational resources beyo
 
 Most of our funds are raised through direct donation, an annual voluntary contribution. The suggested donation amount is **$100 per student**.
 
+{% include thermometer.html %}
+
+{% comment %}
 {% capture donate_link %}{% link donate.html %}{% endcapture %}
 {% include link.html link=donate_link text="❤️ Donate to the PAC" %}
 
 All donations are eligible for a tax receipt.
+{% endcomment %}
 
 ## What your donation supports
 
@@ -45,8 +49,6 @@ Our goal is to raise $20,000 to continue supporting these and other school-wide 
 
 {% capture donate_link %}{% link donate.html %}{% endcapture %}
 {% include link.html link=donate_link text="❤️ Help fund a better school experience" %}
-
-<!-- {% include thermometer.html %} -->
 
 > The video projector and the whiteboard has helped increase students’ engagement during phonology activities in my classroom — students are able to use dry erase markers directly on the board to highlight sounds in our words, texts, and song lyrics. It makes it all the more fun to learn how to read and write. <span class="attribution">— Grade 1 teacher</span>
 
