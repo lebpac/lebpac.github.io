@@ -83,7 +83,7 @@ Please ensure your child knows exactly where and when to go.
 | Contact | [Virginie](mailto:metrovancouver@youngrembrandts.com)
 {: .programs-table}
 
-
+{% comment %}
 ## Fall 2025
 
 ### Mondays
@@ -163,6 +163,7 @@ Please ensure your child knows exactly where and when to go.
 | Register | [Register here](https://campscui.active.com/orgs/YoungRembrandtsMetroVancouver?season=3687135&session=68075133){:target="_blank"}
 | Contact | [Virginie](mailto:metrovancouver@youngrembrandts.com)
 {: .programs-table}
+{% endcomment %}
 
 ---
 
