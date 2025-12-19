@@ -51,9 +51,11 @@ Our goal is to raise $20,000 to continue supporting these and other school-wide 
 {% capture donate_link %}{% link donate.html %}{% endcapture %}
 {% include link.html link=donate_link text="❤️ Help fund a better school experience" %}
 
-> The video projector and the whiteboard has helped increase students’ engagement during phonology activities in my classroom — students are able to use dry erase markers directly on the board to highlight sounds in our words, texts, and song lyrics. It makes it all the more fun to learn how to read and write. <span class="attribution">— Grade 1 teacher</span>
+> The video projector and the whiteboard has helped increase students’ engagement during phonology activities in my classroom — students are able to use dry erase markers directly on the board to highlight sounds in our words, texts, and song lyrics. It makes it all the more fun to learn how to read and write. <span class="attribution">— LEB teacher</span>
 
-> Being able to project items directly onto a whiteboard has dramatically enhanced my lessons and my students' learning. It has enabled me to facilitate explicit modelling of concepts during lessons by annotating diagrams or completing examples together. Thank you so much for providing us with such a useful tool! <span class="attribution">— Grade 7 teacher</span>
+{% comment %}
+> Being able to project items directly onto a whiteboard has dramatically enhanced my lessons and my students' learning. It has enabled me to facilitate explicit modelling of concepts during lessons by annotating diagrams or completing examples together. Thank you so much for providing us with such a useful tool! <span class="attribution">— LEB teacher</span>
+{% endcomment %}
 
 {% comment %}
 ## Other ways to support the PAC
