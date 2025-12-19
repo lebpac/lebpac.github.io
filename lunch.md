@@ -14,14 +14,14 @@ Ordering is now open for **Winter 2026** with returning favourites and an exciti
 
 [Foodie Kids](https://www.foodiekids.ca){:target="_blank"} is a favourite at other schools with a menu that includes pasta, burgers, salads, sides, and more. We will only be offering a selection from their full menu this term.
 
-## How to order
+## Order lunch
 
 All lunch orders are placed through MunchaLunch.
 
 {% capture munchalunch_link %}{% link munchalunch.html %}{% endcapture %}
 {% include link.html link=munchalunch_link text="🥪 Place your lunch order through MunchaLunch" %}
 
-### Ordering tips
+### Good to know
 
 - You'll be asked to choose one repeating order for each menu for the term and can make adjustments week-by-week
 - Orders for each week can be changed or cancelled before they close
