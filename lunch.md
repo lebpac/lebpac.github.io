@@ -8,9 +8,9 @@ badge: 🍣
 
 Ordering is now open for **Winter 2026** with returning favourites and an exciting new Wednesday lunch option!
 
-| Tuesdays    | Minato Sushi 🍣          | Starts January 6 |
-| Wednesdays  | Foodie Kids ⭐️ _NEW!_  |  Starts January 14 |
-| Thursdays   | Panago Pizza 🍕         | Starts January 8 |
+| Tuesdays   | Minato <span style="white-space: nowrap;">Sushi 🍣</span>        | Starts January&nbsp;6  |
+| Wednesdays | Foodie Kids <span style="white-space: nowrap;">⭐️ _NEW!_</span > | Starts January&nbsp;14 |
+| Thursdays  | Panago <span style="white-space: nowrap;">Pizza 🍕</span>        | Starts January&nbsp;8  |
 {: .borderless-table}
 
 [Foodie Kids](https://www.foodiekids.ca){:target="_blank"} is a favourite at other schools with a menu that includes pasta, burgers, salads, sides, and more. We're offering a curated selection from their menu this term.
