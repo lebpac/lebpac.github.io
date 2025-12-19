@@ -6,11 +6,15 @@ badge: 🙌
 
 Join other parents and get involved with your school community. Everything we do is made possible through our dedicated parent volunteers.
 
-## Volunteer needs
+## Lunch volunteers
 
-We're always looking for volunteers!
+Lunch programs aren't possible without parent volunteers. If you're able to help, even occasionally, we'd really appreciate it! Grandparents welcome!
 
-Interested? Send us an email at [hello@lebpac.ca](mailto:hello@lebpac.ca)!
+{% include link.html link="https://chat.whatsapp.com/CmtwF6ttyav0eAKJM4BUcW" text="🍣 Volunteer to help with sushi (Tuesdays)" %}
+
+{% include link.html link="https://signup.com/go/LTvzzcQ" text="🍔 Volunteer to help with hot lunch (Wednesdays)" %}
+
+{% include link.html link="https://signup.com/go/RnYsAsY" text="🍕 Volunteer to help with pizza (Thursdays)" %}
 
 {% comment %}
 ## School Streets
@@ -20,14 +24,8 @@ Volunteers are needed at drop-off and pick-up times for the month of May to help
 {% include link.html link="https://volunteersignup.org/RW7WT" text="![Walk Bike Roll](/assets/img/wbr_logo.png) Volunteer for School Streets" %}
 {% endcomment %}
 
-## Lunch
+## Other volunteer needs
 
-Lunch programs aren't possible without parent volunteers. If you're able to help, even occasionally, we'd really appreciate it! Grandparents welcome!
+We're always looking for volunteers!
 
-Volunteers are needed Tuesdays to help distribute sushi.
-
-{% include link.html link="https://chat.whatsapp.com/CmtwF6ttyav0eAKJM4BUcW" text="🍣 Volunteer to help with sushi" %}
-
-Volunteers are needed Thursdays to help distribute pizza.
-
-{% include link.html link="https://signup.com/go/RnYsAsY" text="🍕 Volunteer to help with pizza" %}
+Interested? Send us an email at [hello@lebpac.ca](mailto:hello@lebpac.ca)!
