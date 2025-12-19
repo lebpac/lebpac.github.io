@@ -2,8 +2,10 @@
 layout: default
 ---
 
+{% comment %}
 **Help our students thrive. [Donate today.]({% link fundraising.md %})**
 {: .message-highlight}
+{% endcomment %}
 
 # LEB PAC
 {: .page-title .logo}
