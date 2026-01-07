@@ -63,7 +63,7 @@ Please ensure your child knows exactly where and when to go.
 
 ### Thursdays
 
-| Program | VEMS Junior Choir 🎶
+| Program | VEMS Senior Choir 🎶
 | Location | Music Room
 | Grades | 4 – 7
 | Dates | Jan 15 – Mar 5 (8 rehearsals and a concert)
