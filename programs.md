@@ -63,16 +63,6 @@ Please ensure your child knows exactly where and when to go.
 
 ### Thursdays
 
-| Program | VEMS Senior Choir 🎶
-| Location | Music Room
-| Grades | 4 – 7
-| Dates | Jan 15 – Mar 5 (8 rehearsals and a concert)
-| Time | Lunch
-| Cost | $117 + GST
-| Register | [Register here](https://vems.ca/signup.html){:target="_blank"}
-| Contact | [Rob](mailto:president@vems.ca)
-{: .programs-table}
-
 | Program | Young Rembrandts 🎨
 | Location | Library
 | Grades | 1 – 6
