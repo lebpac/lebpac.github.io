@@ -30,7 +30,7 @@ All lunch orders are placed through MunchaLunch.
 - You'll be asked to choose one repeating order for each menu for the term and can make adjustments week-by-week
 - Orders for each week can be changed or cancelled before they close
 - Orders close **Thursdays at 7:00 am** for the following week
-- Cutlery is not provided, please bring your own
+- Cutlery is not provided, so please bring your own from home
 - If your child is absent, their order may be given to others to avoid waste; if you wish to pick it up instead, please come to the school at noon
 
 Let the lunchtime fun begin!
