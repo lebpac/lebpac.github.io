@@ -42,7 +42,7 @@ If your child is absent, their order may be given to others to avoid waste. If y
 **What if I want to change my child's order?**  
 The ordering deadline for the following week is every **Thursday at 7 am**. For example, if you would like to change your child's lunch for Wednesday, January 28, the new order would need to be in MunchaLunch by Thursday, January 22 at 6:59 am. The change can be made by clicking on the "Edit" button next to your order. After a change, you may need to make a payment or use your available MunchaLunch credit (which will be held until your next order).
 
-**Can we make specific requests to remove condiments/toppings etc?**  
+**Can we make specific requests to remove condiments/toppings etc.?**  
 Unfortunately, the vendors do not have the capacity to manage individual requests from our families.
 
 ---
