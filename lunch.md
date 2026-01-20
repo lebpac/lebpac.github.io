@@ -31,7 +31,7 @@ All lunch orders are placed through MunchaLunch.
 - If your child is absent, their order may be given to others to avoid waste; if you’d like to pick it up, you can do so at **12 pm in the multipurpose room**
 - You'll be asked to choose one repeating order for each menu for the term and can make adjustments week-by-week
 - Orders for each week can be changed or cancelled before they close
-- Orders close on **Thursday at 7 am** for the following week
+- Orders close each **Thursday at 7 am** for the following week
 
 Let the lunchtime fun begin!
 
