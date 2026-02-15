@@ -67,17 +67,19 @@ html {
   color: rgba(255,255,255,.5);
   background-color: #202020;
   border-bottom-right-radius: 12px;
+  box-shadow: 4px 0 10px rgba(0, 0, 0, 0.3);
 }
 
 @media (min-width: 48em) {
   .sidebar {
     left: 0;
-    bottom: 0;
     width: 18rem;
     max-width: none;
     height: auto;
     z-index: auto;
     transition: none;
+    border-bottom-right-radius: 0;
+    box-shadow: none;
   }
 }
 
