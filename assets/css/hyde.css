@@ -366,6 +366,10 @@ img {
   font-weight: 700;
 }
 
+.borderless-table.lunch td:nth-child(2) {
+  width: 60px;
+  text-align: center;
+}
 
 /* Programs table */
 .programs-table {
