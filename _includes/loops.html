@@ -1,0 +1,232 @@
+<style type="text/css">
+  .newsletter-form-container {
+    width: 100%;
+  }
+
+  .newsletter-form {
+    display: flex;
+    flex-direction: column;
+    gap: 0.9rem;
+  }
+
+  .newsletter-field-group label {
+    display: block;
+    margin-bottom: 0.5rem;
+    font-size: 1rem;
+    font-weight: 700;
+    color: #313131;
+  }
+
+  .newsletter-form-input {
+    font-family: "PT Sans", Helvetica, Arial, sans-serif;
+    font-size: 0.9rem;
+    width: 100%;
+    max-width: 20rem;
+    border: 1px solid #abb0b2;
+    border-radius: 4px;
+    padding: 0.6rem 0.8rem;
+  }
+
+  .clear {
+    margin-top: 0.5rem;
+  }
+
+  .newsletter-form-button,
+  .newsletter-loading-button {
+    height: auto;
+    padding: 0.6rem 0.8rem;
+    font-family: "PT Sans", Helvetica, Arial, sans-serif;
+    font-size: 1rem;
+    color: #fff;
+    background-color: #4141a5;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+
+  .newsletter-form-button:hover,
+  .newsletter-loading-button:hover {
+    background-color: #081e77;
+  }
+
+  .newsletter-loading-button {
+    display: none;
+  }
+
+  .newsletter-success,
+  .newsletter-error {
+    display: none;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+
+    border: 1px solid #e1e1e1;
+    border-radius: 4px;
+    padding: 1rem;
+  }
+
+  .newsletter-success-message,
+  .newsletter-error-message {
+    margin: 1rem 0;
+    font-size: 1rem;
+    font-weight: 700;
+  }
+
+  .newsletter-success-message {
+    color: rgb(81, 81, 81);
+  }
+
+  .newsletter-error-message {
+    color: rgb(185, 28, 28);
+  }
+</style>
+<div class="newsletter-form-container">
+  <form
+    class="newsletter-form"
+    action="https://app.loops.so/api/newsletter-form/cmlov4n45061s0j5oykubidq8"
+    method="POST"
+  >
+    <div class="newsletter-field-group">
+      <label for="loops-name-input">Your name</label>
+      <input class="newsletter-form-input" type="text" id="loops-name-input" name="firstName">
+    </div>
+    <div class="newsletter-field-group">
+      <label for="loops-email-input">Email address</label>
+      <input
+        class="newsletter-form-input"
+        required=""
+        type="email"
+        id="loops-email-input"
+        name="newsletter-form-input"
+      >
+    </div>
+    <div class="clear">
+      <button type="submit" class="newsletter-form-button">Subscribe</button>
+      <button type="button" class="newsletter-loading-button">Please wait...</button>
+    </div>
+  </form>
+  <div class="newsletter-success">
+    <p class="newsletter-success-message">Thanks! Check your email to confirm your subscription.</p>
+  </div>
+  <div class="newsletter-error">
+    <p class="newsletter-error-message">Oops! Something went wrong, please try again.</p>
+  </div>
+</div>
+<script>
+  function submitHandler(event) {
+    event.preventDefault();
+    var container = event.target.parentNode;
+    var form = container.querySelector(".newsletter-form");
+    var emailInput = container.querySelector("#loops-email-input");
+    var nameInput = container.querySelector("#loops-name-input");
+    var success = container.querySelector(".newsletter-success");
+    var errorContainer = container.querySelector(".newsletter-error");
+    var errorMessage = container.querySelector(".newsletter-error-message");
+    var submitButton = container.querySelector(".newsletter-form-button");
+    var loadingButton = container.querySelector(".newsletter-loading-button");
+
+    const rateLimit = () => {
+      errorContainer.style.display = "flex";
+      errorMessage.innerText =
+        "Too many signups, please try again in a little while.";
+      submitButton.style.display = "none";
+      form.style.display = "none";
+      backButton.style.display = "block";
+    };
+
+    // Compare current time with time of previous sign up
+    var time = new Date();
+    var timestamp = time.valueOf();
+    var previousTimestamp = localStorage.getItem("loops-form-timestamp");
+
+    // If last sign up was less than a minute ago
+    // display error
+    if (previousTimestamp && Number(previousTimestamp) + 60000 > timestamp) {
+      rateLimit();
+      return;
+    }
+    localStorage.setItem("loops-form-timestamp", timestamp);
+
+    submitButton.style.display = "none";
+    loadingButton.style.display = "flex";
+
+    var formBody =
+      "userGroup=&mailingLists=&email=" + encodeURIComponent(emailInput.value) +
+      "&firstName=" + encodeURIComponent(nameInput.value);
+    fetch(event.target.action, {
+      method: "POST",
+      body: formBody,
+      headers: {
+        "Content-Type": "application/x-www-form-urlencoded",
+      },
+    })
+      .then((res) => [res.ok, res.json(), res])
+      .then(([ok, dataPromise, res]) => {
+        if (ok) {
+          // If response successful
+          // display success
+          success.style.display = "flex";
+          form.reset();
+        } else {
+          // If response unsuccessful
+          // display error message or response status
+          dataPromise.then((data) => {
+            errorContainer.style.display = "flex";
+            errorMessage.innerText = data.message
+              ? data.message
+              : res.statusText;
+          });
+        }
+      })
+      .catch((error) => {
+        // check for cloudflare error
+        if (error.message === "Failed to fetch") {
+          rateLimit();
+          return;
+        }
+        // If error caught
+        // display error message if available
+        errorContainer.style.display = "flex";
+        if (error.message) errorMessage.innerText = error.message;
+        localStorage.setItem("loops-form-timestamp", "");
+      })
+      .finally(() => {
+        form.style.display = "none";
+        loadingButton.style.display = "none";
+        backButton.style.display = "block";
+      });
+  }
+  function resetFormHandler(event) {
+    var container = event.target.parentNode;
+    var form = container.querySelector(".newsletter-form");
+    var success = container.querySelector(".newsletter-success");
+    var errorContainer = container.querySelector(".newsletter-error");
+    var errorMessage = container.querySelector(".newsletter-error-message");
+    var submitButton = container.querySelector(".newsletter-form-button");
+    var loadingButton = container.querySelector(".newsletter-loading-button");
+
+    success.style.display = "none";
+    errorContainer.style.display = "none";
+    errorMessage.innerText = "Oops! Something went wrong, please try again";
+    backButton.style.display = "none";
+    form.style.display = "flex";
+    submitButton.style.display = "flex";
+    loadingButton.style.display = "none";
+  }
+
+  var formContainers = document.getElementsByClassName(
+    "newsletter-form-container",
+  );
+
+  for (var i = 0; i < formContainers.length; i++) {
+    var formContainer = formContainers[i];
+    var handlersAdded = formContainer.classList.contains(
+      "newsletter-handlers-added",
+    );
+    if (handlersAdded) continue;
+    formContainer
+      .querySelector(".newsletter-form")
+      .addEventListener("submit", submitHandler);
+    formContainer.classList.add("newsletter-handlers-added");
+  }
+</script>
