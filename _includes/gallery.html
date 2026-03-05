@@ -3,9 +3,9 @@
 
 <style>
 .image-gallery {
-    --gallery-offset: -38px;
-    --gallery-card-width: 175px;
-    --gallery-image-height: 240px;
+    --gallery-offset: -35px;
+    --gallery-card-width: 150px;
+    --gallery-image-height: 220px;
     --gallery-gap: 10px;
     --gallery-lift: 25px;
     --gallery-shadow: 4px 4px 12px rgba(0, 0, 0, 0.3);
@@ -37,11 +37,12 @@
     margin-left: 0;
 }
 
-.gallery-item:nth-child(1) { --tilt: -8deg; z-index: 1; }
-.gallery-item:nth-child(2) { --tilt: -4deg; z-index: 2; }
-.gallery-item:nth-child(3) { --tilt: 0deg;  z-index: 3; }
-.gallery-item:nth-child(4) { --tilt: 4deg;  z-index: 4; }
-.gallery-item:nth-child(5) { --tilt: 8deg;  z-index: 5; }
+.gallery-item:nth-child(1) { --tilt: -10deg; z-index: 1; }
+.gallery-item:nth-child(2) { --tilt: -6deg;  z-index: 2; }
+.gallery-item:nth-child(3) { --tilt: -2deg;  z-index: 3; }
+.gallery-item:nth-child(4) { --tilt: 2deg;   z-index: 4; }
+.gallery-item:nth-child(5) { --tilt: 6deg;   z-index: 5; }
+.gallery-item:nth-child(6) { --tilt: 10deg;  z-index: 6; }
 
 .gallery-item:hover {
     transform: translateY(calc(-1 * var(--gallery-lift))) rotate(0deg);
@@ -60,9 +61,9 @@
 /* Responsive design */
 @media (max-width: 1200px) {
     .image-gallery {
-        --gallery-card-width: 110px;
-        --gallery-offset: -24px;
-        --gallery-image-height: 155px;
+        --gallery-card-width: 95px;
+        --gallery-offset: -21px;
+        --gallery-image-height: 135px;
     }
 }
 
@@ -96,6 +97,9 @@
 <div class="image-gallery">
     <div class="gallery-item">
         <img src="/assets/img/programs/spring-2026/illumadance.webp" alt="Illuma Dance">
+    </div>
+    <div class="gallery-item">
+        <img src="/assets/img/programs/spring-2026/wize.webp" alt="WIZE">
     </div>
     <div class="gallery-item">
         <img src="/assets/img/programs/spring-2026/lightsup.webp" alt="Lights Up Musical Theatre">
