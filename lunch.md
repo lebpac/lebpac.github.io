@@ -13,11 +13,7 @@ Spring 2026 lunch ordering is now open through the end of June!
 | Thursdays  | 🍕 | Panago Pizza
 {: .borderless-table.lunch}
 
-**Cutlery is not provided!** Please bring your own from home.
-{: .message-highlight}
-
 We need volunteers to distribute lunch! If you're able to help, even occasionally, we'd really appreciate it. You can [sign up to volunteer here]({% link volunteer.md %}).
-{: .message-highlight}
 
 ## Order lunch
 
@@ -25,6 +21,9 @@ All lunch orders are placed through MunchaLunch.
 
 {% capture munchalunch_link %}{% link munchalunch.html %}{% endcapture %}
 {% include link.html link=munchalunch_link text="🥪 Place your lunch order through MunchaLunch" %}
+
+**Cutlery is not provided!** Please bring your own from home.
+{: .message-highlight}
 
 ### Ordering tips
 
