@@ -1,26 +1,23 @@
 ---
 layout: page
 title: Lunch Program
-description: Ordering is now open for Winter 2026 with returning favourites and an exciting new Wednesday lunch option!
+description: Spring 2026 lunch ordering is now open through the end of June!
 image: assets/og-image-lunch.jpg
 badge: 🍣
 ---
 
-Ordering is now open for **Winter 2026** with returning favourites and an exciting new Wednesday lunch option!
+Spring 2026 lunch ordering is now open through the end of June!
 
 | Tuesdays   | 🍣 | Minato Sushi
 | Wednesdays | 🍔 | Foodie Kids
 | Thursdays  | 🍕 | Panago Pizza
 {: .borderless-table.lunch}
 
-[Foodie Kids](https://www.foodiekids.ca){:target="_blank"} is a favourite at other schools with a menu that includes pasta, burgers, salads, sides, and more. We're offering a curated selection from their menu this term.
-
 **Cutlery is not provided!** Please bring your own from home.
 {: .message-highlight}
 
 We need volunteers to distribute lunch! If you're able to help, even occasionally, we'd really appreciate it. You can [sign up to volunteer here]({% link volunteer.md %}).
 {: .message-highlight}
-
 
 ## Order lunch
 
@@ -41,10 +38,14 @@ All lunch orders are placed through MunchaLunch.
 If your child is absent, their order may be given to others to avoid waste. If you’d like to pick it up, you can do so at **noon in the multipurpose room**. Due to Food Safe regulations, we will not be able to store it for pick up later in the day.
 
 **What if I want to change my child's order?**  
-The ordering deadline for the following week is every **Thursday at 7&nbsp;am**. For example, if you would like to change your child's lunch for Wednesday, January 28, the new order would need to be in MunchaLunch by Thursday, January 22 at 6:59&nbsp;am. The change can be made by clicking on the "Edit" button next to your order. After a change, you may need to make a payment or use your available MunchaLunch credit (which will be held until your next order).
+The ordering deadline for the following week is every **Thursday at 7&nbsp;am**. You can change existing orders in MunchaLunch by clicking on the "Edit" button next to your order. After a change, you may need to make a payment or use your available MunchaLunch credit.
 
-**Can we make specific requests to remove condiments/toppings etc.?**  
+**What happens to credits in my MunchaLunch account?**  
+If you change your order, you may end up with a credit in your MunchaLunch account. These credits can be applied to future orders. For families leaving the school, you can request a refund by reaching out to [lunch@lebpac.ca](mailto:lunch@lebpac.ca).
+
+**Can I make specific requests to remove condiments/toppings etc.?**  
 Unfortunately, the vendors do not have the capacity to manage individual requests from our families.
+
 
 ---
 
