@@ -26,4 +26,4 @@ Lunch programs aren't possible without parent volunteers. If you're able to help
 
 {% include link.html link="https://signup.com/go/LTvzzcQ" text="🍔 Help with hot lunch (Wednesdays)" %}
 
-{% include link.html link="https://signup.com/go/RnYsAsY" text="🍕 Help with pizza (Thursdays)" %}
+{% include link.html link="https://volunteersignup.org/EFD98" text="🍕 Help with pizza (Thursdays)" %}
