@@ -33,8 +33,8 @@ All lunch orders are placed through MunchaLunch.
 
 ## FAQ
 
-**What if my child is away on lunch day?**  
-If your child is absent, their order may be given to others to avoid waste. If you’d like to pick it up, you can do so at **noon in the multipurpose room**. Due to Food Safe regulations, we will not be able to store it for pick up later in the day.
+**What if my child is away on lunch day?**
+You don't need to let the lunch team know if your child is away! By default, their order will be given to others to avoid waste. If you’d like to pick up their order instead, you can do so at **noon in the multipurpose room**. Due to Food Safe regulations, we're not be able to store it for pick up later in the day.
 
 **What if my child is going on a field trip?**  
 Ask your child's teacher if they will be at school during lunch. If your child won't be at school, you'll need to cancel your lunch order for that day before the ordering deadline. Lunches are not automatically cancelled.
