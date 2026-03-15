@@ -22,7 +22,7 @@ Interested? Send us an email at [hello@lebpac.ca](mailto:hello@lebpac.ca)!
 
 Lunch programs aren't possible without parent volunteers. If you're able to help, even occasionally, we'd really appreciate it! Grandparents welcome!
 
-{% include link.html link="https://chat.whatsapp.com/CmtwF6ttyav0eAKJM4BUcW" text="🍣 Help with sushi (Tuesdays)" %}
+{% include link.html text="🍣 Help with sushi (Tuesdays)" %}
 
 {% include link.html link="https://signup.com/go/LTvzzcQ" text="🍔 Help with hot lunch (Wednesdays)" %}
 
