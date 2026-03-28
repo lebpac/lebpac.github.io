@@ -67,7 +67,7 @@ Please ensure your child knows exactly where and when to go.
 | Dates | April 8 – June 17
 | Time | 3:05 – 4:50 pm
 | Cost | $505.31
-| Register | [Info and registration](http://www.jrtennis.ca/){:target="_blank"} (opens Feb 27)
+| Register | [Info and registration](http://www.jrtennis.ca/){:target="_blank"}
 | Contact | [Rilan](mailto:rilanjrtennis@gmail.com)
 {: .programs-table}
 
