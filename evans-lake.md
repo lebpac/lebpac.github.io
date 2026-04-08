@@ -6,33 +6,45 @@ image: assets/og-image-evans-lake.jpg
 badge: 🏕
 ---
 
-Come join other L'École Bilingue families for our annual Family Camp at [Evans Lake](https://evanslake.com/){:target="_blank"} over the Labour Day long weekend!
+Join our annual Family Camp at Evans Lake over the Labour Day long weekend with other L’École Bilingue families!
 
-This year's camp takes place **Labour Day weekend, August 30–September 1, 2025**. Plan to arrive by 10 am on Saturday (programming will start promptly!) and stay until Monday around 11 am.
+| Date      | September 5–7, 2026 |
+| Location  | [Evans Lake Forest Education Centre](https://evanslake.com/){:target="_blank"} |
+| Time      | Plan to arrive by 10 am on Saturday (programming will start promptly!) and stay until Monday around 11 am |
+{: .borderless-table}
 
-{% include video.html file="https://drive.google.com/file/d/1vyiFY8fE4wtS_c0B-ZaP8eCV4GyFJDzL" name="Check out our video of the camp" %}
+
 
 ## About the camp
 
-Families of students who attend L'École Bilingue have been privately organizing a camping trip over the Labour Day long weekend for almost 40 years. It's a great opportunity to get to know other families while enjoying the outdoors.
+{% include evans-lake-gallery.html %}
 
-School-age children (those entering kindergarten through grade seven) stay in cabins with counsellors. Parents and small children (children entering kindergarten—if they prefer, or younger) camp in tents or stay in a limited number of bunk rooms in the lodge. All meals are prepared by Evans Lake staff. The camp is participatory with parents assisting with some duties.
+{% include video.html file="https://drive.google.com/file/d/1vyiFY8fE4wtS_c0B-ZaP8eCV4GyFJDzL" name="Check out our video of the camp" %}
+
+Families of students who attend L’École Bilingue have been privately organizing a camping trip over the Labour Day long weekend for over 40 years. Connect with other families and enjoy an array of outdoor activities in a picturesque mountain lake site just 15 kilometers north of Squamish.
+
+School-age children (those entering kindergarten through grade seven) stay in cabins with camp counsellors. Parents and small children (children entering kindergarten — if they prefer, or younger) camp in tents or stay in a limited number of bunk rooms in the lodge. All meals are prepared by Evans Lake staff. The camp is participatory with parents assisting with some duties.
+
+> Evans Lake is a highlight of our year. From canoeing and camp activities led by amazing counsellors to campfire songs in the forest, Evans Lake gives our kids an unforgettable outdoor experience, and gives us parents a chance to truly unwind and connect. <span class="attribution">— Ron Boaz</span>
+
+> Our children look forward to Evans Lake all summer. They get to see friends and meet new ones before school starts. For parents, there is a lot of downtime while the children adventure with the counselors. It’s a vacation for us too! <span class="attribution">— Heather Bell</span>
+
 
 ## Cost
 
-$295 per person (entering K and older; younger kids free). This is a $20 increase from last year as Evans Lake increased their fees. It's an additional $5 per day for special diets (lactose intolerant, gluten-free, vegan, allergies); no cost for vegetarian or nut allergies.
+$315 per person (entering K and older; younger kids free). It's an additional $20 for special diets (lactose intolerant, gluten free, vegan, allergies); no cost for vegetarian or nut allergies.
 
 If camp cost is a hardship, please [let us know](mailto:lebevanslake@gmail.com).
 
 ## Registration 
 
-{% comment %}
 <div class="message message-icon">
-  📋 Register here, April 17 at 7pm
+  📋 Register here, April 15
 </div>
-{% endcomment %}
 
+{% comment %}
 {% include link.html link="https://forms.gle/u1FQYjWLcMMDtL9A7" text="📋 Register for Evans Lake Family Camp" %}
+{% endcomment %}
 
 {% comment %}
 <div class="message-highlight">
@@ -40,20 +52,20 @@ If camp cost is a hardship, please [let us know](mailto:lebevanslake@gmail.com).
 </div>
 {% endcomment %}
 
-Evans Lake can only accommodate _120 people_, so register early to get a spot.
+Evans Lake can only accommodate 120 people, so register early to get a spot.
 
-Once you register, you'll receive a confirmation email from the organizing committee within 48 hours. Payment is then due within one week via _Interac_ e-Transfer to:
+Once you register, you'll receive a confirmation email from the organizing committee within 48 hours. Payment is then due within one week via Interac e-Transfer to:
 
-*	Name: LEB PAC
-*	Email address: treasurer@lebpac.ca
+- Name: LEB PAC
+- Email address: treasurer@lebpac.ca
 
 Medical, liability, and activity waivers will be sent out later in the spring.
 
 ### Cancellation policy
 
-*	Evans Lake will reimburse camp/food costs for medical reasons up to two weeks before camp ($250 per person). There are no refunds within two weeks of camp as food orders are finalized.
-*	The organizing committee will keep the remaining $45 to cover pre-paid costs (insurance, counsellor fees, arts and crafts supplies).
-*	If a surplus remains after the camp is finished, we may be able to reimburse some of the $45 to those who cancelled.
+*	Evans Lake will reimburse camp/food costs for medical reasons up to two weeks before camp ($275 per person). There are no refunds within two weeks of camp as food orders are finalized.
+*	The organizing committee will keep the remaining funds to cover pre-paid costs (insurance, counsellor fees, arts and crafts supplies).
+*	If a surplus remains after the camp is finished, we may be able to reimburse some of the funds to those who cancelled.
 
 ## FAQ
 
@@ -81,15 +93,18 @@ Talk to anyone on the organizing committee or email [lebevanslake@gmail.com](mai
 
 ---
 
-We look forward to seeing you at Evans Lake!
+We look forward to seeing you at Evans Lake this year!
 
-Your LEB Evans Lake Family Camp Organizing Committee,
+Your 2026 LEB Evans Lake Family Camp Organizing Committee,
 
+Andrew Stegemann  
+Celeste Martin  
+Catriona Menzies-Pike  
+Heather Bell  
+Jessica Lee  
+Ron Boaz  
 Siku Adam  
 Sarah Evanetz  
-Liz Kay  
-Ariella Menashy  
-Michelle Rainer  
 Tessa Wilson  
 
 This is not a school or PAC sponsored event.

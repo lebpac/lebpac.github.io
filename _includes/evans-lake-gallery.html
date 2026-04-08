@@ -1,0 +1,137 @@
+<!-- basicLightbox CSS -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/basiclightbox@5.0.4/dist/basicLightbox.min.css">
+
+<style>
+.image-gallery {
+    --gallery-offset: -35px;
+    --gallery-card-width: 150px;
+    --gallery-image-height: 220px;
+    --gallery-gap: 10px;
+    --gallery-lift: 25px;
+    --gallery-shadow: 4px 4px 12px rgba(0, 0, 0, 0.3);
+    --gallery-shadow-hover: 6px 18px 30px rgba(0, 0, 0, 0.4);
+
+    display: flex;
+    justify-content: center;
+    margin: 40px;
+    padding: 10px 0 30px;
+}
+
+.gallery-item {
+    --tilt: 0deg;
+
+    flex: 0 0 auto;
+    width: var(--gallery-card-width);
+    margin-left: var(--gallery-offset);
+    border: 4px solid #fff;
+    cursor: pointer;
+    border-radius: 4px;
+    overflow: hidden;
+    box-shadow: var(--gallery-shadow);
+    position: relative;
+    transform: rotate(var(--tilt));
+    transition: transform 0.3s ease, box-shadow 0.3s ease, z-index 0s;
+}
+
+.gallery-item:first-child {
+    margin-left: 0;
+}
+
+.gallery-item:nth-child(1) { --tilt: -10deg; z-index: 1; }
+.gallery-item:nth-child(2) { --tilt: -6deg;  z-index: 2; }
+.gallery-item:nth-child(3) { --tilt: -2deg;  z-index: 3; }
+.gallery-item:nth-child(4) { --tilt: 2deg;   z-index: 4; }
+.gallery-item:nth-child(5) { --tilt: 6deg;   z-index: 5; }
+.gallery-item:nth-child(6) { --tilt: 10deg;  z-index: 6; }
+
+.gallery-item:hover {
+    transform: translateY(calc(-1 * var(--gallery-lift))) rotate(0deg);
+    box-shadow: var(--gallery-shadow-hover);
+    z-index: 10;
+}
+
+.gallery-item img {
+    width: 100%;
+    height: var(--gallery-image-height);
+    object-fit: cover;
+    display: block;
+    margin: 0;
+}
+
+/* Responsive design */
+@media (max-width: 1200px) {
+    .image-gallery {
+        --gallery-card-width: 95px;
+        --gallery-offset: -21px;
+        --gallery-image-height: 135px;
+    }
+}
+
+@media (max-width: 900px) {
+    .image-gallery {
+        --gallery-image-height: 200px;
+        flex-wrap: wrap;
+        gap: var(--gallery-gap);
+        margin: 20px 0;
+    }
+
+    .gallery-item {
+        width: calc(50% - var(--gallery-gap));
+        margin-left: 0;
+    }
+
+    .gallery-item:nth-child(n) {
+        --tilt: 0deg;
+    }
+}
+
+/* Custom lightbox styling */
+.basicLightbox .lightbox-content img {
+    max-width: 90vw;
+    max-height: 90vh;
+    border-radius: 8px;
+}
+</style>
+
+<!-- gallery -->
+<div class="image-gallery">
+    <div class="gallery-item">
+        <img src="/assets/img/evans-lake/image1.webp">
+    </div>
+    <div class="gallery-item">
+        <img src="/assets/img/evans-lake/image2.webp">
+    </div>
+    <div class="gallery-item">
+        <img src="/assets/img/evans-lake/image3.webp">
+    </div>
+    <div class="gallery-item">
+        <img src="/assets/img/evans-lake/image4.webp">
+    </div>
+    <div class="gallery-item">
+        <img src="/assets/img/evans-lake/image5.webp">
+    </div>
+</div>
+
+<!-- basicLightbox JS -->
+<script src="https://cdn.jsdelivr.net/npm/basiclightbox@5.0.4/dist/basicLightbox.min.js"></script>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const galleryItems = document.querySelectorAll('.gallery-item');
+    
+    galleryItems.forEach(item => {
+        item.addEventListener('click', function() {
+            const imageSrc = this.querySelector('img').src;
+            const imageAlt = this.querySelector('img').alt;
+            
+            const instance = basicLightbox.create(`
+                <div class="lightbox-content">
+                    <img src="${imageSrc}" alt="${imageAlt}">
+                </div>
+            `);
+            
+            instance.show();
+        });
+    });
+});
+</script>
