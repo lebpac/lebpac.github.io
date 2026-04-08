@@ -13,8 +13,6 @@ Join our annual Family Camp at Evans Lake over the Labour Day long weekend with 
 | Time      | Plan to arrive by 10 am on Saturday (programming will start promptly!) and stay until Monday around 11 am |
 {: .borderless-table}
 
-
-
 ## About the camp
 
 {% include evans-lake-gallery.html %}
@@ -28,7 +26,6 @@ School-age children (those entering kindergarten through grade seven) stay in ca
 > Evans Lake is a highlight of our year. From canoeing and camp activities led by amazing counsellors to campfire songs in the forest, Evans Lake gives our kids an unforgettable outdoor experience, and gives us parents a chance to truly unwind and connect. <span class="attribution">— Ron Boaz</span>
 
 > Our children look forward to Evans Lake all summer. They get to see friends and meet new ones before school starts. For parents, there is a lot of downtime while the children adventure with the counselors. It’s a vacation for us too! <span class="attribution">— Heather Bell</span>
-
 
 ## Cost
 
