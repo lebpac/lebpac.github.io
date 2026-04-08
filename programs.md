@@ -13,7 +13,7 @@ Please ensure your child knows exactly where and when to go.
 
 ## Spring 2026
 
-{% include gallery.html %}
+{% include programs-gallery.html %}
 
 ### Mondays
 
