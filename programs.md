@@ -8,99 +8,102 @@ badge: 🎭
 
 These programs are not school-sanctioned nor supervised by the PAC or L'École Bilingue staff. The instructors rent school space from the VSB Rentals Department and are fully responsible for the supervision of the students.
 
-Please ensure your child knows exactly where and when to go.
+Please pick up your child _outside_ of the front doors of the school.
 {: .message-highlight}
 
-## Spring 2026
+## Fall 2026
 
 {% include programs-gallery.html %}
 
 ### Mondays
 
-| Program | Illuma Dance 🪩
+| Program | Pedalheads Soccer ⚽️
 | Location | Gymnasium
 | Grades | K – 7
-| Dates | March 30 – June 22
-| Time | 3:00 – 5:15 pm
-| Cost | $383.25
-| Register | [Info and registration](https://tinyurl.com/RegLEBASP){:target="_blank"}
-| Contact | [Swan](mailto:helloilluma@gmail.com)
+| Dates | Sep 21 – Dec 14 (no session Oct 12)
+| Time | 3:00 – 5:00 pm
+| Cost | $408
+| Register | [Info and registration](https://pedalheads.com/en/camp?region=1&cities=3&locationName=%5B%7B%22name%22%3A%22L%27École+Bilingue%22%2C%22locationIds%22%3A%5B%222005%22%5D%7D%5D&programs=1012&ph_search=true#camp-list){:target="_blank"}
 {: .programs-table}
 
-| Program | WIZE Computing Academy 💻
+| Program | Creative Writing Adventures ✍️
 | Location | Library
-| Grades | 3 – 6
-| Dates | April 27 – June 22
-| Time | 3:00 – 4:30 pm
-| Cost | $300 + tax
-| Register | [Info and registration](https://app.amilia.com/store/en/wize-academy-of-vancouver-south-richmond/shop/activities/6772316){:target="_blank"}
-| Contact | [Nikhil & Namrata](mailto:info-nn@wizeacademy.com)
+| Grades | 4 – 6
+| Dates | Sep 21 – Dec 7 (no session Oct 12)
+| Time | 3:10 – 4:10 pm
+| Cost | $286 + GST
+| Register | [Info and registration](https://forms.gle/9p3ABQojnaJXUEKu8){:target="_blank"}
 {: .programs-table}
 
 ### Tuesdays
 
 | Program | Lights Up Musical Theatre 🎭
-| Location | Library
+| Location | Gymnasium
 | Grades | K – 7
-| Dates | April 14 – June 9
+| Dates | Oct 13 – Dec 6
 | Time | 3:00 – 5:15 pm
-| Cost | $365 + tax
+| Cost | $380 + GST
 | Register | [Info and registration](https://lightsuptheatre.ca/lecolebilingue){:target="_blank"}
-| Contact | [Billie](mailto:billie@lightsuptheatre.ca)
 {: .programs-table}
 
-| Program | STEAM 4 Kids 🤖
+| Program | LEGO Spike Essentials: Engineering & Robotics 🤖
 | Location | Library
-| Grades | 4 – 7
-| Dates | April 7 – June 9
-| Time | 3:10 – 4:10 pm
-| Cost | $187.50
-| Register | [Info and registration](https://forms.gle/BQ91C9vegCq8526f8){:target="_blank"}
-| Contact | [Joon](mailto:steam4kids604@gmail.com)
+| Grades | K – 3
+| Dates | Sep 29 – Nov 17
+| Time | 3:00 – 4:30 pm
+| Cost | $300 + GST
+| Register | [Info and registration](https://app.amilia.com/store/en/wize-academy-of-vancouver-south-richmond/shop/programs){:target="_blank"} (opens July 2)
 {: .programs-table}
 
 ### Wednesdays
 
-| Program | JR Tennis Academy 🎾
+| Program | JR Tennis 🎾
 | Location | Gymnasium
-| Grades | Ages 6 – 10
-| Dates | April 8 – June 17
+| Ages | 6 – 10
+| Dates | Sep 16 – Dec 16 (no sessions Sep 30, Oct 7, Nov 11)
 | Time | 3:05 – 4:50 pm
 | Cost | $505.31
-| Register | [Info and registration](http://www.jrtennis.ca/){:target="_blank"}
-| Contact | [Rilan](mailto:rilanjrtennis@gmail.com)
+| Register | [Info and registration](https://www.jrtennis.ca){:target="_blank"}
 {: .programs-table}
 
 | Program | Brainiacs Board Games ♟️
 | Location | Library
-| Grades | K – 7<br />(for those in Grade 5+, the program is best if registered with a friend)
-| Dates | April 8 – June 17
+| Grades | K – 7<br />(Grades 4+, the program is best if registered with a friend)
+| Dates | Sep 23 – Dec 9
 | Time | 3:00 – 5:00 pm
 | Cost | $385 + tax
-| Register | [Info and registration](https://www.brainiacsadventures.com/event-details-registration/lecole-bilingue-after-school-spring-2026-wednesday){:target="_blank"}
-| Contact | [Ashwin](mailto:brainiacs.adventures@gmail.com)
+| Register | [Info and registration](https://brainiacsadventures.com/register){:target="_blank"}
 {: .programs-table}
 
 ### Thursdays
 
 | Program | Youth Athletic – Youth Speed Fundamentals 🏃
 | Location | Gymnasium
-| Grades | Ages 7 – 12
-| Dates | April 2 – May 7
-| Time | 3:15 – 5:00 pm
+| Grades | 2 – 7
+| Dates | Sep 24 – Nov 5 (no session Oct 8)
+| Time | 3:00 – 5:00 pm
 | Cost | $240 + tax
 | Register | [Info and registration](https://drduizer.com/youth-speed-fundamentals-vancouver/){:target="_blank"}
-| Contact | David
 {: .programs-table}
 
 | Program | Young Rembrandts 🎨
 | Location | Library
 | Grades | 1 – 6
-| Dates | April 23 – June 18
+| Dates | Oct 1 – Dec 10
 | Time | 3:00 – 4:10 pm
 | Cost | $211.50
-| Register | [Info and registration](http://www.youngrembrandts.com/metrovancouver){:target="_blank"}
-| Contact | [Virgine](mailto:metrovancouver@youngrembrandts.com)
+| Register | [Info and registration](https://campscui.active.com/orgs/YoungRembrandtsMetroVancouver?e4q=dfdfb2d9-97ae-453a-9eb6-a0c779e40e2b&e4p=a989fa49-9a93-4381-8940-19993b97ef2c&e4ts=1782241369&e4c=active&e4e=snlvcmpscui00001load&e4rt=Safetynet&e4h=aee70a97655b2d18f1682d02094bebe2&newcui=true#/selectSessions/3835637/filter/session=71391437){:target="_blank"}
+{: .programs-table}
+
+### Fridays
+
+| Program | VEMS Extracurricular Group Guitar 🎸
+| Location | Library
+| Grades | 4 – 7
+| Dates | Sep 25 – Jun 11
+| Time | 3:15 – 4:15 pm
+| Cost | $420 (before June 30) / $483 (after June 30)
+| Register | [Info and registration](https://vems.ca/signup){:target="_blank"}
 {: .programs-table}
 
 ---

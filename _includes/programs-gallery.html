@@ -3,7 +3,7 @@
 
 <style>
 .image-gallery {
-    --gallery-offset: -35px;
+    --gallery-offset: -55px;
     --gallery-card-width: 150px;
     --gallery-image-height: 220px;
     --gallery-gap: 10px;
@@ -37,12 +37,13 @@
     margin-left: 0;
 }
 
-.gallery-item:nth-child(1) { --tilt: -10deg; z-index: 1; }
-.gallery-item:nth-child(2) { --tilt: -6deg;  z-index: 2; }
-.gallery-item:nth-child(3) { --tilt: -2deg;  z-index: 3; }
-.gallery-item:nth-child(4) { --tilt: 2deg;   z-index: 4; }
-.gallery-item:nth-child(5) { --tilt: 6deg;   z-index: 5; }
-.gallery-item:nth-child(6) { --tilt: 10deg;  z-index: 6; }
+.gallery-item:nth-child(1) { --tilt: -12deg; z-index: 1; }
+.gallery-item:nth-child(2) { --tilt: -8deg;  z-index: 2; }
+.gallery-item:nth-child(3) { --tilt: -4deg;  z-index: 3; }
+.gallery-item:nth-child(4) { --tilt: 0deg;   z-index: 4; }
+.gallery-item:nth-child(5) { --tilt: 4deg;   z-index: 5; }
+.gallery-item:nth-child(6) { --tilt: 8deg;   z-index: 6; }
+.gallery-item:nth-child(7) { --tilt: 12deg;  z-index: 7; }
 
 .gallery-item:hover {
     transform: translateY(calc(-1 * var(--gallery-lift))) rotate(0deg);
@@ -62,7 +63,7 @@
 @media (max-width: 1200px) {
     .image-gallery {
         --gallery-card-width: 95px;
-        --gallery-offset: -21px;
+        --gallery-offset: -35px;
         --gallery-image-height: 135px;
     }
 }
@@ -96,22 +97,25 @@
 <!-- gallery -->
 <div class="image-gallery">
     <div class="gallery-item">
-        <img src="/assets/img/programs/spring-2026/illumadance.webp" alt="Illuma Dance">
+        <img src="/assets/img/programs/fall-2026/pedalheads.webp" alt="Pedalheads">
     </div>
     <div class="gallery-item">
-        <img src="/assets/img/programs/spring-2026/wize.webp" alt="WIZE">
+        <img src="/assets/img/programs/fall-2026/creativewriting.webp" alt="Creative Writing">
     </div>
     <div class="gallery-item">
-        <img src="/assets/img/programs/spring-2026/lightsup.webp" alt="Lights Up Musical Theatre">
+        <img src="/assets/img/programs/fall-2026/lightsup.webp" alt="Lights Up">
     </div>
     <div class="gallery-item">
-        <img src="/assets/img/programs/spring-2026/steam4kids.webp" alt="STEAM 4 Kids">
+        <img src="/assets/img/programs/fall-2026/wize.webp" alt="WIZE">
     </div>
     <div class="gallery-item">
-        <img src="/assets/img/programs/spring-2026/jrtennis.webp" alt="JR Tennis Academy">
+        <img src="/assets/img/programs/fall-2026/jrtennis.webp" alt="JR Tennis Academy">
     </div>
     <div class="gallery-item">
-        <img src="/assets/img/programs/spring-2026/yrdrawing.webp" alt="Young Rembrandts">
+        <img src="/assets/img/programs/fall-2026/yrdrawing.webp" alt="Young Rembrandts">
+    </div>
+    <div class="gallery-item">
+        <img src="/assets/img/programs/fall-2026/vemsguitar.webp" alt="VEMS">
     </div>
 </div>
 
