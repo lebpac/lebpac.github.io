@@ -59,7 +59,7 @@ Please pick up your child _outside_ of the front doors of the school.
 
 | Program | JR Tennis 🎾
 | Location | Gymnasium
-| Ages | 6 – 10
+| Ages | 6 – 12
 | Dates | Sep 16 – Dec 16 (no sessions Sep 30, Oct 7, Nov 11)
 | Time | 3:05 – 4:50 pm
 | Cost | $505.31
