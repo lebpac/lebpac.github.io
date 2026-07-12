@@ -69,10 +69,10 @@ Please pick up your child _outside_ of the front doors of the school.
 | Program | Brainiacs Board Games ♟️
 | Location | Library
 | Grades | K – 7<br />(Grades 4+, the program is best if registered with a friend)
-| Dates | Sep 23 – Dec 9
+| Dates | Sep 23 – Dec 9 (no sessions Sep 30, Nov 11)
 | Time | 3:00 – 5:00 pm
-| Cost | $385 + tax
-| Register | [Info and registration](https://brainiacsadventures.com/register){:target="_blank"}
+| Cost | $340 + GST
+| Register | [Info and registration](https://www.brainiacsadventures.com/event-details-registration/lecole-bilingue-after-school-fall-2026-wednesdays){:target="_blank"}
 {: .programs-table}
 
 ### Thursdays
