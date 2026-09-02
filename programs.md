@@ -15,7 +15,27 @@ Please pick up your child _outside_ of the front doors of the school.
 
 {% include programs-gallery.html %}
 
-### Mondays
+### Lunch
+
+| Program | VEMS Junior Choir 🎶
+| Location | Music Room
+| Grades | 1 – 3
+| Dates | Sep 22 – Dec 1
+| Cost | $179
+| Register | [Info and registration](https://vems.ca/signup){:target="_blank"}
+{: .programs-table}
+
+| Program | VEMS Senior Choir 🎶
+| Location | Music Room
+| Grades | 4 – 7
+| Dates | Sep 22 – Dec 1
+| Cost | $179
+| Register | [Info and registration](https://vems.ca/signup){:target="_blank"}
+{: .programs-table}
+
+### After school
+
+#### Mondays
 
 | Program | Pedalheads Soccer ⚽️
 | Location | Gymnasium
@@ -35,7 +55,7 @@ Please pick up your child _outside_ of the front doors of the school.
 | Register | [Info and registration](https://forms.gle/9p3ABQojnaJXUEKu8){:target="_blank"}
 {: .programs-table}
 
-### Tuesdays
+#### Tuesdays
 
 | Program | Lights Up Musical Theatre 🎭
 | Location | Gymnasium
@@ -55,7 +75,7 @@ Please pick up your child _outside_ of the front doors of the school.
 | Register | [Info and registration](https://app.amilia.com/store/en/wize-academy-of-vancouver-south-richmond/shop/programs){:target="_blank"} (opens July 2)
 {: .programs-table}
 
-### Wednesdays
+#### Wednesdays
 
 | Program | JR Tennis 🎾
 | Location | Gymnasium
@@ -75,7 +95,7 @@ Please pick up your child _outside_ of the front doors of the school.
 | Register | [Info and registration](https://www.brainiacsadventures.com/event-details-registration/lecole-bilingue-after-school-fall-2026-wednesdays){:target="_blank"}
 {: .programs-table}
 
-### Thursdays
+#### Thursdays
 
 | Program | Youth Athletic – Youth Speed Fundamentals 🏃
 | Location | Gymnasium
@@ -95,9 +115,9 @@ Please pick up your child _outside_ of the front doors of the school.
 | Register | [Info and registration](https://campscui.active.com/orgs/YoungRembrandtsMetroVancouver?e4q=dfdfb2d9-97ae-453a-9eb6-a0c779e40e2b&e4p=a989fa49-9a93-4381-8940-19993b97ef2c&e4ts=1782241369&e4c=active&e4e=snlvcmpscui00001load&e4rt=Safetynet&e4h=aee70a97655b2d18f1682d02094bebe2&newcui=true#/selectSessions/3835637/filter/session=71391437){:target="_blank"}
 {: .programs-table}
 
-### Fridays
+#### Fridays
 
-| Program | VEMS Extracurricular Group Guitar 🎸
+| Program | VEMS Group Guitar 🎸
 | Location | Library
 | Grades | 4 – 7
 | Dates | Sep 25 – Jun 11

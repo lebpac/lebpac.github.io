@@ -4,6 +4,7 @@
 <style>
 .image-gallery {
     --gallery-offset: -55px;
+    --gallery-row-overlap: -40px;
     --gallery-card-width: 150px;
     --gallery-image-height: 220px;
     --gallery-gap: 10px;
@@ -11,7 +12,8 @@
     --gallery-shadow: 4px 4px 12px rgba(0, 0, 0, 0.3);
     --gallery-shadow-hover: 6px 18px 30px rgba(0, 0, 0, 0.4);
 
-    display: flex;
+    display: grid;
+    grid-template-columns: repeat(4, var(--gallery-card-width));
     justify-content: center;
     margin: 40px;
     padding: 10px 0 30px;
@@ -20,7 +22,6 @@
 .gallery-item {
     --tilt: 0deg;
 
-    flex: 0 0 auto;
     width: var(--gallery-card-width);
     margin-left: var(--gallery-offset);
     border: 4px solid #fff;
@@ -33,17 +34,22 @@
     transition: transform 0.3s ease, box-shadow 0.3s ease, z-index 0s;
 }
 
-.gallery-item:first-child {
+.gallery-item:nth-child(4n+1) {
     margin-left: 0;
 }
 
+.gallery-item:nth-child(n+5) {
+    margin-top: var(--gallery-row-overlap);
+}
+
 .gallery-item:nth-child(1) { --tilt: -12deg; z-index: 1; }
-.gallery-item:nth-child(2) { --tilt: -8deg;  z-index: 2; }
-.gallery-item:nth-child(3) { --tilt: -4deg;  z-index: 3; }
-.gallery-item:nth-child(4) { --tilt: 0deg;   z-index: 4; }
-.gallery-item:nth-child(5) { --tilt: 4deg;   z-index: 5; }
-.gallery-item:nth-child(6) { --tilt: 8deg;   z-index: 6; }
-.gallery-item:nth-child(7) { --tilt: 12deg;  z-index: 7; }
+.gallery-item:nth-child(2) { --tilt: -4deg;  z-index: 2; }
+.gallery-item:nth-child(3) { --tilt: 4deg;   z-index: 3; }
+.gallery-item:nth-child(4) { --tilt: 12deg;  z-index: 4; }
+.gallery-item:nth-child(5) { --tilt: -12deg; z-index: 5; }
+.gallery-item:nth-child(6) { --tilt: -4deg;  z-index: 6; }
+.gallery-item:nth-child(7) { --tilt: 4deg;   z-index: 7; }
+.gallery-item:nth-child(8) { --tilt: 12deg;  z-index: 8; }
 
 .gallery-item:hover {
     transform: translateY(calc(-1 * var(--gallery-lift))) rotate(0deg);
@@ -62,22 +68,25 @@
 /* Responsive design */
 @media (max-width: 1200px) {
     .image-gallery {
-        --gallery-card-width: 95px;
-        --gallery-offset: -35px;
-        --gallery-image-height: 135px;
+        --gallery-card-width: 112px;
+        --gallery-offset: -25px;
+        --gallery-image-height: 162px;
+        --gallery-row-overlap: -40px;
     }
 }
 
 @media (max-width: 900px) {
     .image-gallery {
-        --gallery-image-height: 200px;
-        flex-wrap: wrap;
-        gap: var(--gallery-gap);
+        --gallery-image-height: 300px;
+        --gallery-row-overlap: 0px;
+        grid-template-columns: repeat(2, 1fr);
+        row-gap: var(--gallery-gap);
+        column-gap: var(--gallery-gap);
         margin: 20px 0;
     }
 
     .gallery-item {
-        width: calc(50% - var(--gallery-gap));
+        width: auto;
         margin-left: 0;
     }
 
@@ -97,6 +106,9 @@
 <!-- gallery -->
 <div class="image-gallery">
     <div class="gallery-item">
+        <img src="/assets/img/programs/fall-2026/vemschoir.webp" alt="VEMS Choir">
+    </div>
+    <div class="gallery-item">
         <img src="/assets/img/programs/fall-2026/pedalheads.webp" alt="Pedalheads">
     </div>
     <div class="gallery-item">
@@ -115,7 +127,7 @@
         <img src="/assets/img/programs/fall-2026/yrdrawing.webp" alt="Young Rembrandts">
     </div>
     <div class="gallery-item">
-        <img src="/assets/img/programs/fall-2026/vemsguitar.webp" alt="VEMS">
+        <img src="/assets/img/programs/fall-2026/vemsguitar.webp" alt="VEMS Guitar">
     </div>
 </div>
 
