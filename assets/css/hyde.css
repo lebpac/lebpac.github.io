@@ -437,6 +437,14 @@ img.emoji {
   overflow: hidden;
 }
 
+@media (max-width: 68em) {
+  #calendar .fc-listMonth-button,
+  #calendar .fc-dayGridMonth-button,
+  #calendar .fc-today-button {
+    display: none;
+  }
+}
+
 .content .fc a,
 .content .fc a:hover {
   color: #515151;
