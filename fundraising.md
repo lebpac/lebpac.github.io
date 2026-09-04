@@ -4,6 +4,8 @@ title: Fundraising
 description: Help our students thrive. Your donation funds much needed programs and resources.
 image: assets/og-image-fundraising.jpg
 badge: 💵
+raised: $0
+goal: $15,000
 ---
 
 As parents and guardians, we directly fund additional educational resources beyond those provided by the VSB and provincial government.
@@ -12,12 +14,12 @@ As parents and guardians, we directly fund additional educational resources beyo
 
 Most of our funds are raised through direct donation, an annual voluntary contribution. The suggested donation amount is **$100 per student**.
 
-{% comment %}
-{% include thermometer.html %}
-{% endcomment %}
+{% include thermometer.html raised=page.raised goal=page.goal %}
 
+{% comment %}
 {% capture donate_link %}{% link donate.html %}{% endcapture %}
 {% include link.html link=donate_link text="❤️ Donate to the PAC" %}
+{% endcomment %}
 
 All donations are eligible for a tax receipt.
 
@@ -46,7 +48,7 @@ This year, your donation will fund much needed programs and resources, including
 
 ## Help us reach our goal
 
-Our goal is to raise funds to continue supporting these and other school-wide initiatives. Every contribution, big or small, makes a difference.
+Our goal is to raise {{ page.goal }} to continue supporting these and other school-wide initiatives. Every contribution, big or small, makes a difference.
 
 {% capture donate_link %}{% link donate.html %}{% endcapture %}
 {% include link.html link=donate_link text="❤️ Help fund a better school experience" %}
@@ -73,6 +75,6 @@ If anyone (family, friends, neighbours, grandparents) goes to COBS Bread at 8th 
 
 ---
 
-{% include link.html link="https://docs.google.com/document/d/1ar4JlW580nSAWsLxSFZEZqMoL3hEXwLU5sU0tdv1PCA/edit" text="📄 LEB PAC Fundraising Policy" %}
+{% include link.html link="https://docs.google.com/document/d/1ar4JlW580nSAWsLxSFZEZqMoL3hEXwLU5sU0tdv1PCA/edit" text="📄 PAC Fundraising Policy" %}
 
 Have a fundraising idea or question? Send us an email at [hello@lebpac.ca](mailto:hello@lebpac.ca).
