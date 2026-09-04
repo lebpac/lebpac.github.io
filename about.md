@@ -5,10 +5,10 @@ title: About the PAC
 
 {% include_relative _content/about.md %}
 
-## 2025-26 PAC Exec
+## 2026-27 PAC Exec
 
-| Chair      | Jess Lumer       |
-| Vice Chair | Jonathan Suter   |
+| Chair      | Jonathan Suter   |
+| Vice Chair | _Vacant_         |
 | Past Chair | Sarah Willson    |
 | Treasurer  | Heather Bradbury |  
 | Secretary  | Marko Pajalic    |
