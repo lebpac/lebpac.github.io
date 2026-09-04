@@ -433,7 +433,7 @@ img.emoji {
 
 .fc-scrollgrid,
 .fc-list {
-  border-radius: 12px;
+  border-radius: 8px;
   overflow: hidden;
 }
 
