@@ -66,12 +66,6 @@ Mabel’s Labels sells highly customizable labels that are laundry and dishwashe
 
 {% include link.html link="https://campaigns.mabelslabels.com" text="🔗 Support the PAC with Mabel's Labels" %}
 
-### Tru Earth
-
-Reduce your families single use plastics with laundry strips! Every 32-load eco-strips package eliminates 1 plastic jug from potentially ending up in landfills and oceans. Tru Earth sells laundry detergent as well as other environmentally friendly products.
-
-{% include link.html link="https://tru-earth.sjv.io/lebpac" text="🔗 Support the PAC with Tru Earth" %}
-
 ### COBS Bread
 
 If anyone (family, friends, neighbours, grandparents) goes to COBS Bread at 8th and Cambie (across from Whole Foods) and mentions L’École Bilingue when they pay, 5% of their purchase will be donated to the school!
