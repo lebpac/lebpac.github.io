@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Lunch Program
-description: Spring 2026 lunch ordering is now open through the end of June!
+description: Our Fall 2026 lunch program is coming soon!
 image: assets/og-image-lunch.jpg
 badge: 🍣
 ---
 
-Spring 2026 lunch ordering is now open through the end of June!
+Our Fall 2026 lunch program is coming soon!
 
 | Tuesdays   | 🍣 | Minato Sushi
 | Wednesdays | 🍔 | Foodie Kids
@@ -16,8 +16,6 @@ Spring 2026 lunch ordering is now open through the end of June!
 We need volunteers to distribute lunch! If you're able to help, even occasionally, we'd really appreciate it. You can [sign up to volunteer here]({% link volunteer.md %}).
 
 ## Order lunch
-
-All lunch orders are placed through MunchaLunch.
 
 {% capture munchalunch_link %}{% link munchalunch.html %}{% endcapture %}
 {% include link.html link=munchalunch_link text="🥪 Place your lunch order through MunchaLunch" %}
