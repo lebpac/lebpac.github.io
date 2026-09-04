@@ -41,7 +41,7 @@ If camp cost is a hardship, please [let us know](mailto:lebevanslake@gmail.com).
 </div>
 {% endcomment %}
 
-{% include link.html link="https://forms.gle/dTHLDDwM8WT5fDXN8" text="📋 Register for Evans Lake Family Camp" %}
+{% include link.html text="📋 Register for Evans Lake Family Camp" %}
 
 {% comment %}
 <div class="message-highlight">
