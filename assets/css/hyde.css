@@ -431,6 +431,12 @@ img.emoji {
   margin-bottom: 0;
 }
 
+.fc-scrollgrid,
+.fc-list {
+  border-radius: 12px;
+  overflow: hidden;
+}
+
 .content .fc a,
 .content .fc a:hover {
   color: #515151;
