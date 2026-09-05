@@ -72,7 +72,7 @@ Please pick up your child _outside_ of the front doors of the school.
 | Dates | Sep 29 – Nov 17
 | Time | 3:00 – 4:30 pm
 | Cost | $300 + GST
-| Register | [Info and registration](https://app.amilia.com/store/en/wize-academy-of-vancouver-south-richmond/shop/programs){:target="_blank"} (opens July 2)
+| Register | [Info and registration](https://app.amilia.com/store/en/wize-academy-of-vancouver-south-richmond/shop/programs){:target="_blank"}
 {: .programs-table}
 
 #### Wednesdays
