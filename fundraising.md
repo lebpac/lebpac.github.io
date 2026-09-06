@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Fundraising
-description: Help our students thrive. Your donation funds much needed programs and resources.
+description: Help our students thrive. Your donation funds much-needed programs and resources.
 image: assets/og-image-fundraising.jpg
 badge: 💵
 raised: $0
@@ -25,7 +25,7 @@ All donations are eligible for a tax receipt.
 
 ## What your donation supports
 
-This year, your donation will fund much needed programs and resources, including:
+This year, your donation will fund much-needed programs and resources, including:
 
 <div class="boxed-list">
   <div class="boxed-list-item">
