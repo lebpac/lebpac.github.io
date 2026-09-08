@@ -4,6 +4,7 @@ title: Welcome Back BBQ
 description: This year's Welcome Back BBQ is happening on Thursday, September 24, from 5–8 pm!
 image: assets/og-image-bbq.jpg
 badge: 🍔
+noindex: true
 ---
 
 Welcome back, L’École Bilingue Families!
