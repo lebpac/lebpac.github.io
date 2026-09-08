@@ -14,7 +14,7 @@ This annual event is both an important fundraiser and a wonderful opportunity to
 
 ## This year’s highlights
 
-- CultivATE Food Truck: burgers, veggie burgers, hot dogs, mac & cheese
+- CultivATE Food Truck
 - Rock'N'Beau rocking the party
 - Rain or Shine Ice Cream Truck
 - Popcorn
@@ -43,8 +43,9 @@ The Welcome Back BBQ is only possible with parent volunteers.
 
 Help us make it happen! Join the group chat and see how you can help.
 
+{% include link.html link="https://docs.google.com/spreadsheets/d/1iRnuJih6g49vpHae9ZZV0SHboKX78c5cAVOJf7Fw5RY/edit" text="📋 Volunteer sign up sheet" %}
+
 {% include link.html link="https://chat.whatsapp.com/Ki4i7sjOubtJuN79Eigi0N" text="💬 Welcome Back BBQ group chat" %}
 
-{% include link.html link="https://docs.google.com/spreadsheets/d/1iRnuJih6g49vpHae9ZZV0SHboKX78c5cAVOJf7Fw5RY/edit" text="📋 Volunteer sign up sheet" %}
 
 We'll see you there!

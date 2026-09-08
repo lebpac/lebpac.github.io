@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Lunch Program
-description: Our Fall 2026 lunch program is coming soon!
+description: Our Fall 2026 lunch program starts September 22!
 image: assets/og-image-lunch.jpg
 badge: 🍣
 ---
 
-Our Fall 2026 lunch program is coming soon!
+Our Fall 2026 lunch program starts September 22! We'll open for orders once students have been assigned to their 2026–27 homerooms.
 
 | Tuesdays   | 🍣 | Minato Sushi
 | Wednesdays | 🍔 | Foodie Kids

@@ -18,6 +18,10 @@ The Exec operates with a rotating Chair position, so there's a fresh opportunity
 Help keep our online lunch ordering system running smoothly. You'll also coordinate with the various lunch committees to make sure everything comes together like a well-made sandwich.
 {: .boxed-list-item}
 
+**Welcome Back BBQ Volunteers**  
+We need volunteers to make one of our best events of the year a success. Whether you enjoy running a station, moving objects, or lovingly ensuring every single waste item is perfectly sorted, there's a job for you. [Learn more.]({% link bbq.md %})
+{: .boxed-list-item}
+
 Interested? Send us an email at [hello@lebpac.ca](mailto:hello@lebpac.ca)!
 
 ### Lunch volunteering
@@ -26,6 +30,6 @@ Lunch programs aren't possible without parent volunteers. If you're able to help
 
 {% include link.html text="🍣 Help with sushi (coming soon)" %}
 
-{% include link.html text="🍔 Help with hot lunch (coming soon)" %}
+{% include link.html link="https://signup.com/go/LTvzzcQ" text="🍔 Help with hot lunch" %}
 
 {% include link.html text="🍕 Help with pizza (coming soon)" %}
