@@ -2,9 +2,11 @@
 layout: default
 ---
 
+{% comment %}
 <!-- **Help our students thrive. [Donate today.]({% link fundraising.md %})** -->
 **School starts September 8th! Bring a mug and join us by the picnic tables for coffee from 9–10 am! ☕️**
 {: .message-highlight}
+{% endcomment %}
 
 # LEB PAC
 {: .page-title .logo}
