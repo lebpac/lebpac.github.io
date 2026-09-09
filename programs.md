@@ -120,9 +120,9 @@ Please pick up your child _outside_ of the front doors of the school.
 | Program | VEMS Group Guitar 🎸
 | Location | Library
 | Grades | 4 – 7
-| Dates | Sep 25 – Jun 11
-| Time | 3:15 – 4:15 pm
-| Cost | $420 (before June 30) / $483 (after June 30)
+| Dates | Oct 2 – Jun 11
+| Time | 3:00 – 4:00 pm
+| Cost | $483 (full year)
 | Register | [Info and registration](https://vems.ca/signup){:target="_blank"}
 {: .programs-table}
 
