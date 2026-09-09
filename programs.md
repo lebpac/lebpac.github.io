@@ -28,7 +28,7 @@ Please pick up your child _outside_ of the front doors of the school.
 | Program | VEMS Senior Choir 🎶
 | Location | Music Room
 | Grades | 4 – 7
-| Dates | Sep 22 – Dec 1
+| Dates | Sep 24 – Dec 3
 | Cost | $179
 | Register | [Info and registration](https://vems.ca/signup){:target="_blank"}
 {: .programs-table}
