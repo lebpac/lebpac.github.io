@@ -32,4 +32,4 @@ Lunch programs aren't possible without parent volunteers. If you're able to help
 
 {% include link.html link="https://signup.com/go/LTvzzcQ" text="🍔 Help with hot lunch" %}
 
-{% include link.html text="🍕 Help with pizza (coming soon)" %}
+{% include link.html link="https://signup.com/go/QGFpyuN" text="🍕 Help with pizza" %}
