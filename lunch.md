@@ -9,7 +9,7 @@ badge: 🍣
 Our Fall 2026 lunch program starts September 22! We'll open for orders once students have been assigned to their 2026–27 homerooms.
 
 | Tuesdays   | 🍣 | Minato Sushi
-| Wednesdays | 🍔 | Foodie Kids
+| Wednesdays | 🥗 | FoodieKids
 | Thursdays  | 🍕 | Panago Pizza
 {: .borderless-table.lunch}
 
