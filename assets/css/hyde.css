@@ -347,6 +347,84 @@ img {
   width: 1rem;
 }
 
+.bbq-highlights {
+  justify-content: center;
+  padding: 0.5rem 0;
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+
+.bbq-highlights .boxed-list-item {
+  flex: 0 0 100%;
+  min-width: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  text-align: center;
+  min-height: 6rem;
+  padding: 1rem;
+  border: 1px solid rgba(65, 65, 165, 0.16);
+  border-radius: 12px;
+  /* Light tints of the site's navy (#081e77) and indigo (#4141a5). */
+  background: #e1e4ef;
+  color: #081e77;
+  box-shadow: 0 4px 10px rgba(8, 30, 119, 0.12);
+  transform: rotate(var(--bbq-tilt, -1deg));
+  transition: transform 180ms ease, box-shadow 180ms ease;
+}
+
+.bbq-highlights .boxed-list-item:nth-child(4n+2) {
+  background: #e8e8f4;
+  --bbq-tilt: 1.5deg;
+}
+
+.bbq-highlights .boxed-list-item:nth-child(4n+3) {
+  background: #edf0f8;
+  --bbq-tilt: -1.5deg;
+}
+
+.bbq-highlights .boxed-list-item:nth-child(4n+4) {
+  background: #ddddef;
+  --bbq-tilt: 1deg;
+}
+
+.bbq-highlight-emoji {
+  flex: 0 0 auto;
+  font-size: 1.75rem;
+  line-height: 1;
+}
+
+.bbq-highlight-emoji img.emoji {
+  display: block;
+  margin: 0;
+}
+
+@media (hover: hover) and (prefers-reduced-motion: no-preference) {
+  .bbq-highlights .boxed-list-item:hover {
+    transform: translateY(-4px) rotate(0deg);
+    box-shadow: 0 8px 16px rgba(8, 30, 119, 0.16);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .bbq-highlights .boxed-list-item {
+    transition: none;
+  }
+}
+
+@media (min-width: 48em) {
+  .bbq-highlights .boxed-list-item {
+    flex-basis: calc((100% - 1rem) / 2);
+  }
+}
+
+@media (min-width: 64em) {
+  .bbq-highlights .boxed-list-item {
+    flex-basis: calc((100% - 2rem) / 3);
+  }
+}
+
 /* Borderless table */
 .borderless-table {
   table-layout: fixed;

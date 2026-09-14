@@ -15,14 +15,40 @@ This annual event is both an important fundraiser and a wonderful opportunity to
 
 ## This year’s highlights
 
-- CultivATE Food Truck
-- Rock'N'Beau rocking the party
-- Rain or Shine Ice Cream Truck
-- Popcorn
-- Face painting & photo booth
-- Musical cakes
-- Movie room
-- And more!
+<div class="boxed-list bbq-highlights">
+  <div class="boxed-list-item">
+    <span class="bbq-highlight-emoji" aria-hidden="true">🍔</span>
+    <span>CultivATE Food Truck</span>
+  </div>
+  <div class="boxed-list-item">
+    <span class="bbq-highlight-emoji" aria-hidden="true">👩‍🎤</span>
+    <span>Rock'N'Beau Dance Party</span>
+  </div>
+  <div class="boxed-list-item">
+    <span class="bbq-highlight-emoji" aria-hidden="true">🍦</span>
+    <span>Rain or Shine Ice Cream Truck</span>
+  </div>
+  <div class="boxed-list-item">
+    <span class="bbq-highlight-emoji" aria-hidden="true">🍿</span>
+    <span>Heather's Popcorn Stand</span>
+  </div>
+  <div class="boxed-list-item">
+    <span class="bbq-highlight-emoji" aria-hidden="true">🎸</span>
+    <span>Swiftie Station</span>
+  </div>
+  <div class="boxed-list-item">
+    <span class="bbq-highlight-emoji" aria-hidden="true">🎂</span>
+    <span>Musical Cakes</span>
+  </div>
+  <div class="boxed-list-item">
+    <span class="bbq-highlight-emoji" aria-hidden="true">🤫</span>
+    <span>Silent Auction</span>
+  </div>
+  <div class="boxed-list-item">
+    <span class="bbq-highlight-emoji" aria-hidden="true">🎬</span>
+    <span>Movie Room</span>
+  </div>
+</div>
 
 Most importantly, the BBQ is a chance to **welcome new families and staff** and to **reconnect with old friends** as we kick off the school year together.
 
@@ -33,7 +59,7 @@ The Welcome Back BBQ is free for everyone to attend, with food and activity stat
 {% capture munchalunch_link %}{% link munchalunch.html %}{% endcapture %}
 {% include link.html text="🍔 Pre-order tickets and food through MunchaLunch (coming soon)" %}
 
-All food truck orders must be made in advance by **Sunday, September 20**! There will be **no food truck orders at the event**.
+All food truck orders must be made in advance by **Sunday, September 20**! There will be no food truck orders at the event.
 {: .message-highlight}
 
 Tickets and Rain or Shine Ice Cream can be purchased at the event.
