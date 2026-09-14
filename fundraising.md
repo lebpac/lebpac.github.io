@@ -83,6 +83,6 @@ Visit COBS Bread at 8th and Cambie and mention _L’École Bilingue_ before you 
 
 ---
 
-{% include link.html link="https://docs.google.com/document/d/1ar4JlW580nSAWsLxSFZEZqMoL3hEXwLU5sU0tdv1PCA/edit" text="📄 PAC Fundraising Policy" %}
+{% include link.html link="https://docs.google.com/document/d/1ar4JlW580nSAWsLxSFZEZqMoL3hEXwLU5sU0tdv1PCA" text="📄 PAC Fundraising Policy" %}
 
 Have a fundraising idea or question? Send us an email at [hello@lebpac.ca](mailto:hello@lebpac.ca).
