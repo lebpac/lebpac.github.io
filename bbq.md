@@ -21,31 +21,35 @@ This annual event is both an important fundraiser and a wonderful opportunity to
     <span>CultivATE Food Truck</span>
   </div>
   <div class="boxed-list-item">
-    <span class="bbq-highlight-emoji" aria-hidden="true">👩‍🎤</span>
+    <span class="bbq-highlight-emoji">👩‍🎤</span>
     <span>Rock'N'Beau Dance Party</span>
   </div>
   <div class="boxed-list-item">
-    <span class="bbq-highlight-emoji" aria-hidden="true">🍦</span>
+    <span class="bbq-highlight-emoji">🍦</span>
     <span>Rain or Shine Ice Cream Truck</span>
   </div>
   <div class="boxed-list-item">
-    <span class="bbq-highlight-emoji" aria-hidden="true">🍿</span>
+    <span class="bbq-highlight-emoji">🍿</span>
     <span>Heather's Popcorn Stand</span>
   </div>
   <div class="boxed-list-item">
-    <span class="bbq-highlight-emoji" aria-hidden="true">🎸</span>
+    <span class="bbq-highlight-emoji">🎸</span>
     <span>Swiftie Station</span>
   </div>
   <div class="boxed-list-item">
-    <span class="bbq-highlight-emoji" aria-hidden="true">🎂</span>
+    <span class="bbq-highlight-emoji">📖</span>
+    <span>Book Bazaar</span>
+  </div>
+  <div class="boxed-list-item">
+    <span class="bbq-highlight-emoji">🎂</span>
     <span>Musical Cakes</span>
   </div>
   <div class="boxed-list-item">
-    <span class="bbq-highlight-emoji" aria-hidden="true">🤫</span>
+    <span class="bbq-highlight-emoji">🤫</span>
     <span>Silent Auction</span>
   </div>
   <div class="boxed-list-item">
-    <span class="bbq-highlight-emoji" aria-hidden="true">🎬</span>
+    <span class="bbq-highlight-emoji">🎬</span>
     <span>Movie Room</span>
   </div>
 </div>
