@@ -26,9 +26,11 @@ We need volunteers to make one of our best events of the year a success. Whether
 We need a co-lead who's ready to _rise to the occasion_ (from the dead, if necessary) to help plan and coordinate volunteers for our spookiest event of the year.  No experience necessary, zombies welcome.
 {: .boxed-list-item}
 
+{% comment %}
 **PAC Exec Vice Chair**  
 The Exec operates with a rotating Chair position, so there's a fresh opportunity to join each year. This group serves as the link between parents and the admin and supports the volunteers who make our events and programs possible.
 {: .boxed-list-item}
+{% endcomment %}
 
 Interested? Send us an email at [hello@lebpac.ca](mailto:hello@lebpac.ca)!
 
