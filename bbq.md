@@ -58,15 +58,15 @@ Most importantly, the BBQ is a chance to **welcome new families and staff** and 
 
 ## Tickets and food
 
-The Welcome Back BBQ is free for everyone to attend, with food and activity station tickets available for purchase.
+The Welcome Back BBQ is free for everyone to attend, with food, snacks, and activity station tickets available for purchase.
+
+Please note the food truck isn't able to accommodate severe food allergies. Families with dietary restrictions are welcome to bring their own food.
 
 {% capture munchalunch_link %}{% link munchalunch.html %}{% endcapture %}
 {% include link.html text="🍔 Pre-order tickets and food through MunchaLunch (coming soon)" %}
 
 All food truck orders must be made in advance by **Sunday, September 20**! There will be no food truck orders at the event.
 {: .message-highlight}
-
-Tickets and Rain or Shine Ice Cream can be purchased at the event.
 
 ## We need your help
 
