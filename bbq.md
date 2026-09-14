@@ -38,7 +38,7 @@ This annual event is both an important fundraiser and a wonderful opportunity to
   </div>
   <div class="boxed-list-item">
     <span class="bbq-highlight-emoji">📖</span>
-    <span>Amelia's Book Bazaar</span>
+    <span>Book Bazaar</span>
   </div>
   <div class="boxed-list-item">
     <span class="bbq-highlight-emoji">🎂</span>
