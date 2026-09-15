@@ -8,7 +8,7 @@ title: About the PAC
 ## 2026-27 PAC Exec
 
 | Chair      | Jonathan Suter   |
-| Vice Chair | _Vacant_         |
+| Vice Chair | Kelly Little     |
 | Past Chair | Sarah Willson    |
 | Treasurer  | Heather Bradbury |  
 | Secretary  | Marko Pajalic    |
