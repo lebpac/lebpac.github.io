@@ -6,7 +6,7 @@ image: assets/og-image-lunch.jpg
 badge: 🍣
 ---
 
-Our Fall 2026 lunch program starts September 22! We'll open for orders once students have been assigned to their 2026–27 homerooms.
+Our Fall 2026 lunch program starts September 22!
 
 | Tuesdays   | 🍣 | Minato Sushi
 | Wednesdays | 🥗 | FoodieKids
