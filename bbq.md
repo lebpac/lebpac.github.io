@@ -62,15 +62,15 @@ The Welcome Back BBQ is free for everyone to attend, with food, snacks, and acti
 
 Please note the food truck isn't able to accommodate severe food allergies. Families with dietary restrictions are welcome to bring their own food.
 
+All food truck orders must be made in advance by **Sunday, September 20**! There will be no food truck orders at the event.
+{: .message-highlight}
+
 {% capture munchalunch_link %}{% link munchalunch.html %}{% endcapture %}
 {% include link.html link=munchalunch_link text="🍔 Pre-order through MunchaLunch" %}
 
 To pre-order tickets and food in MunchaLunch, go to **Order** and click on **Fundraiser**.
 
 ![MunchaLunch Fundraiser](/assets/img/munch_fundraiser.webp){: .img-half}
-
-All food truck orders must be made in advance by **Sunday, September 20**! There will be no food truck orders at the event.
-{: .message-highlight}
 
 ## We need your help
 
