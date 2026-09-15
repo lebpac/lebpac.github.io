@@ -14,12 +14,12 @@ As parents and guardians, we directly fund additional educational resources beyo
 
 Most of our funds are raised through direct donation, an annual voluntary contribution. The suggested donation amount is **$100 per student**.
 
-{% include thermometer.html raised=page.raised goal=page.goal %}
-
 {% comment %}
+{% include thermometer.html raised=page.raised goal=page.goal %}
+{% endcomment %}
+
 {% capture donate_link %}{% link donate.html %}{% endcapture %}
 {% include link.html link=donate_link text="❤️ Donate to the PAC" %}
-{% endcomment %}
 
 All donations are eligible for a tax receipt.
 
