@@ -268,12 +268,6 @@ img {
   margin: 1rem auto;
 }
 
-/* Half-width images inherit centering from the global image styles. */
-.img-half {
-  width: 50%;
-  height: auto;
-}
-
 .logo {
   margin-top: 0;
   margin-bottom: 1rem;

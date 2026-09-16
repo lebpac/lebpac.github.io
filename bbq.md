@@ -70,7 +70,7 @@ All food truck orders must be made in advance by **Sunday, September 20**! There
 
 To pre-order tickets and food in MunchaLunch, go to **Order** and click on **Fundraiser**.
 
-![MunchaLunch Fundraiser](/assets/img/munch_fundraiser.webp){: .img-half}
+![MunchaLunch Fundraiser](/assets/img/munch_fundraiser.webp){: width="410"}
 
 ## We need your help
 
