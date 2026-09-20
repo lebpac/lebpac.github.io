@@ -61,7 +61,7 @@ The movie room (in the gym) opens at 4:45 pm, so you can drop off your kids duri
 
 The Welcome Back BBQ is free for everyone to attend, with food, snacks, and activity station tickets available for purchase.
 
-**All food truck orders must be made in advance by Sunday, September 20, by 9 pm.** If you want food from the food truck, you need to order ahead.
+**All food truck orders must be placed by 9 pm on Sunday, September 20.** If you want food from the food truck, you need to order ahead.
 
 {% capture munchalunch_link %}{% link munchalunch.html %}{% endcapture %}
 {% include link.html link=munchalunch_link text="🍔 Pre-order through MunchaLunch" %}
