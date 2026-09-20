@@ -78,5 +78,4 @@ Help us make it happen! Join the group chat and see how you can help.
 
 {% include link.html link="https://chat.whatsapp.com/Ki4i7sjOubtJuN79Eigi0N" text="💬 Welcome Back BBQ group chat" %}
 
-
 We'll see you there!
