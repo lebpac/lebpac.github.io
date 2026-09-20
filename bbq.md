@@ -54,23 +54,19 @@ This annual event is both an important fundraiser and a wonderful opportunity to
   </div>
 </div>
 
-Most importantly, the BBQ is a chance to **welcome new families and staff** and to **reconnect with old friends** as we kick off the school year together.
+The movie room (in the gym) opens at 4:45 pm, so you can drop off your kids during _Meet the Teacher_. Be sure to pick them up by 6:15 pm.
+{: .message-highlight}
 
 ## Tickets and food
 
 The Welcome Back BBQ is free for everyone to attend, with food, snacks, and activity station tickets available for purchase.
 
-Please note the food truck isn't able to accommodate severe food allergies. Families with dietary restrictions are welcome to bring their own food.
-
-All food truck orders must be made in advance by **Sunday, September 20**! There will be no food truck orders at the event.
-{: .message-highlight}
+**All food truck orders must be made in advance by Sunday, September 20, by 9 pm.** If you want food from the food truck, you need to order ahead.
 
 {% capture munchalunch_link %}{% link munchalunch.html %}{% endcapture %}
 {% include link.html link=munchalunch_link text="🍔 Pre-order through MunchaLunch" %}
 
-To pre-order tickets and food in MunchaLunch, go to **Order** and click on **Fundraiser**.
-
-![MunchaLunch Fundraiser](/assets/img/munch_fundraiser.webp){: width="410"}
+Please note the food truck isn't able to accommodate severe food allergies. Families with dietary restrictions are welcome to bring their own food.
 
 ## We need your help
 
