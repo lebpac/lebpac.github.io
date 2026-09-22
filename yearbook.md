@@ -7,7 +7,7 @@ badge: 📸
 noindex: true
 ---
 
-Order your 2026–27 yearbook!
+Order your 2026–27 yearbook today!
 
 {% include link.html link="https://products.edgeimaging.ca/yearbooks/order/YVX" text="📙 Order a yearbook" %}
 
