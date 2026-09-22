@@ -20,7 +20,7 @@ We need volunteers to distribute lunch! If you're able to help, even occasionall
 {% capture munchalunch_link %}{% link munchalunch.html %}{% endcapture %}
 {% include link.html link=munchalunch_link text="🥪 Place your lunch order through MunchaLunch" %}
 
-**Cutlery is not provided!** Please bring your own from home.
+**🚫🍴 Cutlery is not provided.** Please bring your own from home.
 {: .message-highlight}
 
 ### Ordering tips
