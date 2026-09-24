@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Book Fair
+title: Scholastic Book Fair
 badge: 📚
 published: false
 ---
