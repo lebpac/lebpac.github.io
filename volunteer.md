@@ -18,9 +18,11 @@ Help keep our online lunch ordering system running smoothly. You'll also coordin
 Interested in getting more involved at the school? Being a Class Parent is a great way to help build community with other families in your child's class. It’s a low time commitment, but it makes a real difference. [Learn more.](https://docs.google.com/document/d/13k_8RlG0WkVcldW-tfXJj4guQ_oHy-s_DVvDdxNNTPQ){:target="_blank"}
 {: .boxed-list-item}
 
+{% comment %}
 **Welcome Back BBQ Volunteers**  
 We need volunteers to make one of our best events of the year a success. Whether you enjoy running a station, moving objects, or lovingly ensuring every single waste item is perfectly sorted, there's a job for you. [Learn more.]({% link bbq.md %})
 {: .boxed-list-item}
+{% endcomment %}
 
 **Halloween Haunt Co-Lead**  
 We need a co-lead who's ready to _rise to the occasion_ (from the dead, if necessary) to help plan and coordinate stations and volunteers for our spookiest event of the year. Zombies welcome. 🧟
