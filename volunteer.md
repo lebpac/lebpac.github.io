@@ -24,9 +24,11 @@ We need volunteers to make one of our best events of the year a success. Whether
 {: .boxed-list-item}
 {% endcomment %}
 
+{% comment %}
 **Halloween Haunt Co-Lead**  
 We need a co-lead who's ready to _rise to the occasion_ (from the dead, if necessary) to help plan and coordinate stations and volunteers for our spookiest event of the year. Zombies welcome. 🧟
 {: .boxed-list-item}
+{% endcomment %}
 
 **Yearbook Volunteers**  
 Love a good photo op? Join the team that takes and organizes photos, lays out the pages, and turns a year's worth of memories into a book the kids will treasure. No experience needed, just a willingness to jump in.
