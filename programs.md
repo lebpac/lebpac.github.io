@@ -49,7 +49,7 @@ Please pick up your child _outside_ of the front doors of the school.
 | Program | Creative Writing Adventures ✍️
 | Location | Library
 | Grades | 4 – 6
-| Dates | Sep 21 – Dec 7 (no session Oct 12)
+| Dates | Sep 28 – Dec 7 (no session Oct 12)
 | Time | 3:10 – 4:10 pm
 | Cost | $286 + GST
 | Register | [Info and registration](https://forms.gle/9p3ABQojnaJXUEKu8){:target="_blank"}
