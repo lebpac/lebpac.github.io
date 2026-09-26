@@ -74,8 +74,8 @@ The Welcome Back BBQ is only possible with parent volunteers.
 
 Help us make it happen! Join the group chat and see how you can help.
 
-{% include link.html link="https://docs.google.com/spreadsheets/d/1iRnuJih6g49vpHae9ZZV0SHboKX78c5cAVOJf7Fw5RY/edit" text="📋 Volunteer sign up sheet" %}
+{% include link.html link="" text="📋 Volunteer sign up sheet" %}
 
-{% include link.html link="https://chat.whatsapp.com/Ki4i7sjOubtJuN79Eigi0N" text="💬 Welcome Back BBQ group chat" %}
+{% include link.html link="" text="💬 Welcome Back BBQ group chat" %}
 
 We'll see you there!
