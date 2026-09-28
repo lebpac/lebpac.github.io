@@ -31,20 +31,22 @@ We need volunteers to distribute lunch! If you're able to help, even occasionall
 
 ## FAQ
 
+**What if I want to change my child's order?**  
+You can [change or cancel upcoming orders](https://munchalunch.com/help/changing-an-order){:target="_blank"} that haven't been closed. If you need to remove a date from an existing order, you may need to toggle off future dates first.
+
+![Edit MunchaLunch Order](/assets/img/edit_lunch.webp)
+
 **What if my child is away on lunch day?**  
 You don't need to let the lunch team know if your child is away! By default, their order will be given to others to avoid waste. If you’d like to pick up their order instead, you can do so at **noon in the multipurpose room**. Due to Food Safe regulations, we're not be able to store it for pick up later in the day. We're also not able to honour advance requests to give a student's order to a sibling—but siblings are welcome to ask at lunch time.
 
 **What if my child is going on a field trip?**  
 Ask your child's teacher if they will be at school during lunch. If your child won't be at school, you'll need to cancel your lunch order for that day before the ordering deadline. Lunches are not automatically cancelled.
 
-**What if I want to change my child's order?**  
-The ordering deadline for the following week is every **Thursday at 7&nbsp;am**. You can change existing orders in MunchaLunch by clicking on the "Edit" button next to your order. After a change, you may need to make a payment or use your available MunchaLunch credit.
-
 **What happens to credits in my MunchaLunch account?**  
 If you change your order, you may end up with a credit in your MunchaLunch account. These credits can be applied to future orders. For families leaving the school, you can request a refund by reaching out to [lunch@lebpac.ca](mailto:lunch@lebpac.ca).
 
 **Can I make specific requests to remove condiments/toppings etc.?**  
-Unfortunately, the vendors do not have the capacity to manage individual requests from our families.
+Unfortunately, our vendors do not have the capacity to manage individual requests from our families.
 
 
 ---
