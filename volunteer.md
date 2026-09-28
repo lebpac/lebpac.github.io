@@ -10,9 +10,11 @@ Join other parents and get involved with your school community. Everything we do
 
 We're always looking for volunteers!
 
+{% comment %}
 **MunchaLunch Admin**  
 Help keep our online lunch ordering system running smoothly. You'll also coordinate with the various lunch committees to make sure everything comes together like a well-made sandwich.
 {: .boxed-list-item}
+{% endcomment %}
 
 **Class Parents**  
 Interested in getting more involved at the school? Being a Class Parent is a great way to help build community with other families in your child's class. It’s a low time commitment, but it makes a real difference. [Learn more.](https://docs.google.com/document/d/13k_8RlG0WkVcldW-tfXJj4guQ_oHy-s_DVvDdxNNTPQ){:target="_blank"}
