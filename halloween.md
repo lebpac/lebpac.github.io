@@ -1,25 +1,25 @@
 ---
 layout: page
 title: Halloween Haunt
-description: This year's Halloween Haunt is happening on Thursday, October 23, from 5–7 pm!
+description: This year's Halloween Haunt is happening on Thursday, October 30, from 5–7 pm!
 image: assets/og-image-halloween.jpg
 badge: 🎃
 ---
 
-Our annual Halloween Haunt is happening on **Thursday, October 23, from 5 to 7 pm**! Get ready for a _spooktacular_ evening of fun and frights for the whole family.
+Our annual Halloween Haunt is happening on **Friday, October 30, from 5 to 7 pm**! Get ready for a _spooktacular_ evening of fun and frights for the whole family.
 
 Costumes are encouraged, but not required.
 
 ## Tickets
 
-{% include link.html text="🎟️ Tickets available for purchase at the door" %}
-
 {% comment %}
+{% include link.html text="🎟️ Tickets available for purchase at the door" %}
+{% endcomment %}
+
 Pre-purchase entry and fun tickets at a discount before the event!
 
 {% capture munchalunch_link %}{% link munchalunch.html %}{% endcapture %}
-{% include link.html link=munchalunch_link text="🎟️ Purchase tickets through MunchaLunch" %}
-{% endcomment %}
+{% include link.html text="🎟️ Purchase tickets through MunchaLunch (soon)" %}
 
 ## We need your help
 
@@ -27,7 +27,7 @@ To make this event a haunting success, we’re officially looking for volunteers
 
 All available roles are listed on the sign-up sheet. We’re especially looking to fill the zone lead positions  as soon as possible, as some may require prep ahead of time.
 
-{% include link.html link="https://docs.google.com/spreadsheets/d/1ojpqCsDDMo40Jh3OfSJ5LGsXQRVm3UJY/edit" text="🎃 Volunteer for the Halloween Haunt" %}
+{% include link.html text="🎃 Volunteer for the Halloween Haunt" %}
 
 Thank you in advance for helping us create a memorable night for our school community. We couldn’t do it without you!
 
@@ -49,7 +49,7 @@ We’ll also be collecting baked goodies for our beloved Musical Cakes game. Cak
 
 Please avoid nuts and items that require refrigeration (everything will be kept at room temperature until the evening). If your item is allergy-friendly (e.g., gluten, lactose, or egg-free), please label it clearly.
 
-| Drop-off | Thursday, October 23, anytime before 4 pm |
+| Drop-off | Friday, October 30, anytime before 4 pm |
 | Location | Table outside the office|
 {: .borderless-table}
 
