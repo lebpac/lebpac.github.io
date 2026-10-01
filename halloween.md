@@ -54,7 +54,3 @@ Please avoid nuts and items that require refrigeration (everything will be kept 
 {: .borderless-table}
 
 No time to bake? Store-bought treats are _fantastic_ and especially helpful for those with ingredient concerns!
-
----
-
-Reach out to [Heather](mailto:heather@lebpac.ca) with any questions, comments, or suggestions!
