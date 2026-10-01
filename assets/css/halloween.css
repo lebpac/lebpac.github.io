@@ -1,0 +1,276 @@
+/*
+ * Halloween Haunt theme
+ * Loaded only on halloween.md; everything is scoped to body.page-halloween.
+ * Purely decorative: no content changes, all extras are pseudo-elements.
+ */
+
+.page-halloween {
+  --hw-bg: #222;
+  --hw-bg-raised: #2d2d2d;
+  --hw-text: #e8e8e8;
+  --hw-heading: #f2f2f2;
+  --hw-orange: #e87d2b;
+  --hw-orange-deep: #c4601f;
+  --hw-purple: #6b3fa0;
+  --hw-purple-deep: #2a1745;
+
+  color: var(--hw-text);
+  background-color: var(--hw-bg);
+  background-image:
+    radial-gradient(ellipse at 85% 0%, rgba(107, 63, 160, 0.28), transparent 55%),
+    radial-gradient(ellipse at 10% 100%, rgba(232, 125, 43, 0.12), transparent 50%);
+  background-attachment: fixed;
+}
+
+/* Text */
+.page-halloween h1,
+.page-halloween h2,
+.page-halloween h3,
+.page-halloween strong {
+  color: var(--hw-heading);
+}
+
+.page-halloween .content a {
+  color: var(--hw-orange);
+}
+
+.page-halloween .content a:hover,
+.page-halloween .content a:focus {
+  color: #ffa24f;
+}
+
+.page-halloween hr {
+  border-top: 2px dashed rgba(232, 125, 43, 0.5);
+  border-bottom: 0;
+  overflow: visible;
+  height: 0;
+  margin: 2.5rem 0;
+}
+
+.page-halloween hr::after {
+  content: "🎃";
+  position: absolute;
+  top: -0.8rem;
+  left: 50%;
+  padding: 0 0.6rem;
+  font-size: 1.4rem;
+  line-height: 1;
+  background: var(--hw-bg);
+  transform: translateX(-50%);
+  animation: hw-bob 3s ease-in-out infinite;
+}
+
+/* Sidebar + mobile header */
+.page-halloween.theme-base-pac .sidebar,
+.page-halloween .mobile-header {
+  background-image:
+    radial-gradient(circle at 100% 0%, rgba(232, 125, 43, 0.25), transparent 45%),
+    linear-gradient(315deg, #0e0818, var(--hw-purple-deep));
+  border-right: 2px solid rgba(232, 125, 43, 0.4);
+}
+
+.page-halloween .mobile-header {
+  border-right: 0;
+  border-bottom: 2px solid rgba(232, 125, 43, 0.4);
+}
+
+.page-halloween .sidebar-about h1,
+.page-halloween .mobile-header h1 {
+  animation: hw-flicker 6s linear infinite;
+}
+
+.page-halloween .sidebar .lead {
+  color: #d9c9ee;
+}
+
+.page-halloween .sidebar-nav-item.active a {
+  color: var(--hw-orange);
+  text-shadow: 0 0 10px rgba(232, 125, 43, 0.6);
+}
+
+.page-halloween .sidebar a:hover {
+  color: #ffa24f;
+}
+
+/* Page title: glowing marker font with a drippy underline */
+.page-halloween .page-title {
+  position: relative;
+  display: inline-block;
+  margin-top: 0;
+  padding-bottom: 0.4rem;
+  font-family: "Permanent Marker", serif;
+  font-size: 2.6rem;
+  font-weight: 400;
+  color: var(--hw-orange);
+  text-shadow: 0 0 12px rgba(232, 125, 43, 0.55), 2px 2px 0 rgba(0, 0, 0, 0.5);
+  animation: hw-flicker 5s linear infinite;
+}
+
+.page-halloween .page-title::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 10px;
+  background:
+    radial-gradient(circle at 10px 0, var(--hw-orange) 6px, transparent 7px) 0 0 / 28px 10px repeat-x;
+  opacity: 0.85;
+  transform-origin: top;
+  animation: hw-drip 4s ease-in-out infinite;
+}
+
+/* Section headings get a little wiggle on hover */
+.page-halloween .content h2 {
+  display: inline-block;
+  transition: transform 0.2s ease, color 0.2s ease;
+}
+
+.page-halloween .content h2:hover {
+  color: var(--hw-orange);
+  animation: hw-wobble 0.6s ease-in-out;
+}
+
+/* Link "buttons" (the .message boxes) */
+.page-halloween .message {
+  margin-bottom: 1rem;
+  padding: 1rem 1.25rem;
+  color: var(--hw-orange);
+  font-weight: bold;
+  background-color: #333;
+  border: 2px solid var(--hw-orange);
+  border-radius: 6px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease, background-color 0.2s ease;
+}
+
+.page-halloween a.message {
+  box-shadow: 0 0 0 rgba(232, 125, 43, 0);
+  animation: hw-glow 3s ease-in-out infinite;
+}
+
+.page-halloween a.message:hover,
+.page-halloween a.message:focus {
+  color: #fff;
+  text-decoration: none;
+  background-color: var(--hw-orange-deep);
+  transform: translateY(-2px) rotate(-0.6deg) scale(1.02);
+  animation: none;
+  box-shadow: 0 6px 18px rgba(232, 125, 43, 0.45);
+}
+
+/* Drop-off tables */
+.page-halloween table,
+.page-halloween td,
+.page-halloween th {
+  border-color: rgba(232, 125, 43, 0.35);
+}
+
+.page-halloween .borderless-table td:first-child {
+  color: var(--hw-orange);
+}
+
+/* Decorative critters: fixed to the viewport, never intercept clicks */
+.page-halloween::before,
+.page-halloween::after {
+  position: fixed;
+  z-index: 1;
+  pointer-events: none;
+  line-height: 1;
+}
+
+/* Friendly ghost floating in the corner */
+.page-halloween::before {
+  content: "👻";
+  right: 1.5rem;
+  bottom: 1.5rem;
+  font-size: 3rem;
+  opacity: 0.55;
+  animation: hw-float 6s ease-in-out infinite;
+}
+
+/* A bat flapping across the top of the screen */
+.page-halloween::after {
+  content: "🦇";
+  top: 5rem;
+  left: -4rem;
+  font-size: 2rem;
+  opacity: 0.6;
+  animation: hw-fly 18s linear infinite;
+}
+
+/* Cobweb in the top corner of the content area */
+.page-halloween .content {
+  position: relative;
+}
+
+.page-halloween .content::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 110px;
+  height: 110px;
+  pointer-events: none;
+  opacity: 0.35;
+  background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' fill='none' stroke='%23ffffff' stroke-width='1'%3E%3Cpath d='M100 0L0 0M100 0L0 30M100 0L0 60M100 0L30 100M100 0L60 100M100 0L100 100'/%3E%3Cpath d='M70 0Q68 22 100 30M45 0Q42 42 100 55M20 0Q18 60 100 80M100 18Q80 22 78 0'/%3E%3C/svg%3E") no-repeat top right / contain;
+}
+
+/* Keyframes */
+@keyframes hw-flicker {
+  0%, 18%, 22%, 62%, 66%, 100% { opacity: 1; }
+  20%, 64% { opacity: 0.65; }
+  21%, 65% { opacity: 0.95; }
+}
+
+@keyframes hw-glow {
+  0%, 100% { box-shadow: 0 0 0 rgba(232, 125, 43, 0); }
+  50% { box-shadow: 0 0 16px rgba(232, 125, 43, 0.5); }
+}
+
+@keyframes hw-float {
+  0%, 100% { transform: translate(0, 0) rotate(-4deg); }
+  50% { transform: translate(-10px, -18px) rotate(4deg); }
+}
+
+@keyframes hw-fly {
+  0% { transform: translate(0, 0) scale(1, 1); }
+  25% { transform: translate(30vw, 3rem) scale(1, 0.8); }
+  50% { transform: translate(60vw, -1rem) scale(1, 1); }
+  75% { transform: translate(85vw, 4rem) scale(1, 0.8); }
+  100% { transform: translate(110vw, 0) scale(1, 1); }
+}
+
+@keyframes hw-bob {
+  0%, 100% { transform: translateX(-50%) translateY(0); }
+  50% { transform: translateX(-50%) translateY(-4px); }
+}
+
+@keyframes hw-wobble {
+  0%, 100% { transform: rotate(0); }
+  25% { transform: rotate(-2deg); }
+  75% { transform: rotate(2deg); }
+}
+
+@keyframes hw-drip {
+  0%, 100% { transform: scaleY(1); }
+  50% { transform: scaleY(1.7); }
+}
+
+@media (max-width: 47.99em) {
+  .page-halloween .page-title {
+    font-size: 2.1rem;
+  }
+  .page-halloween::before {
+    font-size: 2.2rem;
+  }
+}
+
+/* Respect users who prefer less motion */
+@media (prefers-reduced-motion: reduce) {
+  .page-halloween *,
+  .page-halloween::before,
+  .page-halloween::after {
+    animation: none !important;
+    transition: none !important;
+  }
+}
