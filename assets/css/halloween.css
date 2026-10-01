@@ -156,7 +156,7 @@
   animation: hw-float 6s ease-in-out infinite;
 }
 
-/* Occasional distant lightning: a soft flash plus a bolt, behind the content */
+/* Occasional distant lightning: a soft flash plus a forked bolt, behind the content */
 .page-halloween::after {
   content: "";
   position: fixed;
@@ -164,8 +164,9 @@
   z-index: -1;
   pointer-events: none;
   background:
-    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 300'%3E%3Cpath d='M62 0L22 130h28L14 300l76-190H58L88 0z' fill='%23fff6d6'/%3E%3C/svg%3E") no-repeat 97% 6% / 90px 270px,
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 200 800' fill='none' stroke='%23fff6d6' stroke-linejoin='round' stroke-linecap='round'%3E%3Cpath stroke-width='3.5' d='M110 0L96 70L120 120L90 200L112 250L78 360L98 410L64 540L82 590L50 720L60 800'/%3E%3Cpath stroke-width='2' d='M90 200L60 250L66 300L48 350'/%3E%3Cpath stroke-width='2' d='M112 250L150 300L140 350L168 420L160 470'/%3E%3Cpath stroke-width='1.8' d='M98 410L130 470L122 520L140 570'/%3E%3Cpath stroke-width='1.6' d='M64 540L30 600L36 650'/%3E%3Cpath stroke-width='1.4' d='M120 120L146 150L140 190'/%3E%3C/svg%3E") no-repeat 94% 0 / auto 75vh,
     radial-gradient(ellipse at 95% 0%, rgba(220, 200, 255, 0.35), transparent 60%);
+  filter: drop-shadow(0 0 5px rgba(190, 170, 255, 0.9));
   opacity: 0;
   animation: hw-lightning 17s linear infinite;
 }
