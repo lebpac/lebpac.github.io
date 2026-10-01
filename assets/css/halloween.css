@@ -1,0 +1,208 @@
+/*
+ * Halloween Haunt theme
+ * Loaded only on halloween.md; everything is scoped to body.page-halloween.
+ * Purely decorative: no content changes, all extras are pseudo-elements.
+ */
+
+.page-halloween {
+  --hw-bg: #222;
+  --hw-bg-raised: #2d2d2d;
+  --hw-text: #e8e8e8;
+  --hw-heading: #f2f2f2;
+  --hw-orange: #e87d2b;
+  --hw-orange-deep: #c4601f;
+  --hw-purple: #6b3fa0;
+  --hw-purple-deep: #2a1745;
+
+  color: var(--hw-text);
+  background-color: var(--hw-bg);
+  background-image:
+    radial-gradient(ellipse at 85% 0%, rgba(107, 63, 160, 0.28), transparent 55%),
+    radial-gradient(ellipse at 10% 100%, rgba(232, 125, 43, 0.12), transparent 50%);
+  background-attachment: fixed;
+}
+
+/* Text */
+.page-halloween h1,
+.page-halloween h2,
+.page-halloween h3,
+.page-halloween strong {
+  color: var(--hw-heading);
+}
+
+.page-halloween .content a {
+  color: var(--hw-orange);
+}
+
+.page-halloween .content a:hover,
+.page-halloween .content a:focus {
+  color: #ffa24f;
+}
+
+.page-halloween hr {
+  border-top: 2px dashed rgba(232, 125, 43, 0.5);
+  border-bottom: 0;
+  overflow: visible;
+  height: 0;
+  margin: 2.5rem 0;
+}
+
+/* Sidebar + mobile header */
+.page-halloween.theme-base-pac .sidebar,
+.page-halloween .mobile-header {
+  background-image:
+    radial-gradient(circle at 100% 0%, rgba(232, 125, 43, 0.25), transparent 45%),
+    linear-gradient(315deg, #0e0818, var(--hw-purple-deep));
+  border-right: 2px solid rgba(232, 125, 43, 0.4);
+}
+
+.page-halloween .mobile-header {
+  border-right: 0;
+  border-bottom: 2px solid rgba(232, 125, 43, 0.4);
+}
+
+.page-halloween .sidebar-about h1,
+.page-halloween .mobile-header h1 {
+  animation: hw-flicker 6s linear infinite;
+}
+
+.page-halloween .sidebar .lead {
+  color: #d9c9ee;
+}
+
+.page-halloween .sidebar-nav-item.active a {
+  color: var(--hw-orange);
+  text-shadow: 0 0 10px rgba(232, 125, 43, 0.6);
+}
+
+.page-halloween .sidebar a:hover {
+  color: #ffa24f;
+}
+
+/* Page title: glowing marker font */
+.page-halloween .page-title {
+  position: relative;
+  display: inline-block;
+  margin-top: 0;
+  font-family: "Permanent Marker", serif;
+  font-size: 2.6rem;
+  font-weight: 400;
+  color: var(--hw-orange);
+  text-shadow: 0 0 12px rgba(232, 125, 43, 0.55), 2px 2px 0 rgba(0, 0, 0, 0.5);
+  animation: hw-flicker 5s linear infinite;
+}
+
+/* Link "buttons" (the .message boxes) */
+.page-halloween .message {
+  margin-bottom: 1rem;
+  padding: 1rem 1.25rem;
+  color: var(--hw-orange);
+  font-weight: bold;
+  background-color: #333;
+  border: 2px solid var(--hw-orange);
+  border-radius: 6px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease, background-color 0.2s ease;
+}
+
+.page-halloween a.message {
+  box-shadow: 0 0 0 rgba(232, 125, 43, 0);
+  animation: hw-glow 3s ease-in-out infinite;
+}
+
+.page-halloween a.message:hover,
+.page-halloween a.message:focus {
+  color: #fff;
+  text-decoration: none;
+  background-color: var(--hw-orange-deep);
+  transform: translateY(-2px) rotate(-0.6deg) scale(1.02);
+  animation: none;
+  box-shadow: 0 6px 18px rgba(232, 125, 43, 0.45);
+}
+
+/* Drop-off tables */
+.page-halloween table,
+.page-halloween td,
+.page-halloween th {
+  border-color: rgba(232, 125, 43, 0.35);
+}
+
+.page-halloween .borderless-table td:first-child {
+  color: var(--hw-orange);
+}
+
+/* Decorative critters: fixed to the viewport, never intercept clicks */
+.page-halloween::before {
+  position: fixed;
+  z-index: 1;
+  pointer-events: none;
+  line-height: 1;
+}
+
+/* Friendly ghost floating in the corner */
+.page-halloween::before {
+  content: "👻";
+  right: 1.5rem;
+  bottom: 1.5rem;
+  font-size: 3rem;
+  opacity: 0.55;
+  animation: hw-float 6s ease-in-out infinite;
+}
+
+/* Occasional distant lightning: a soft flash plus a forked bolt, behind the content */
+.page-halloween::after {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  pointer-events: none;
+  background:
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 200 800' fill='none' stroke='%23fff6d6' stroke-linejoin='round' stroke-linecap='round'%3E%3Cpath stroke-width='3.5' d='M110 0L96 70L120 120L90 200L112 250L78 360L98 410L64 540L82 590L50 720L60 800'/%3E%3Cpath stroke-width='2' d='M90 200L60 250L66 300L48 350'/%3E%3Cpath stroke-width='2' d='M112 250L150 300L140 350L168 420L160 470'/%3E%3Cpath stroke-width='1.8' d='M98 410L130 470L122 520L140 570'/%3E%3Cpath stroke-width='1.6' d='M64 540L30 600L36 650'/%3E%3Cpath stroke-width='1.4' d='M120 120L146 150L140 190'/%3E%3C/svg%3E") no-repeat 94% 0 / auto 75vh,
+    radial-gradient(ellipse at 95% 0%, rgba(220, 200, 255, 0.35), transparent 60%);
+  filter: drop-shadow(0 0 5px rgba(190, 170, 255, 0.9));
+  opacity: 0;
+  animation: hw-lightning 17s linear infinite;
+}
+
+/* Keyframes */
+@keyframes hw-flicker {
+  0%, 18%, 22%, 62%, 66%, 100% { opacity: 1; }
+  20%, 64% { opacity: 0.65; }
+  21%, 65% { opacity: 0.95; }
+}
+
+@keyframes hw-glow {
+  0%, 100% { box-shadow: 0 0 0 rgba(232, 125, 43, 0); }
+  50% { box-shadow: 0 0 16px rgba(232, 125, 43, 0.5); }
+}
+
+@keyframes hw-float {
+  0%, 100% { transform: translate(0, 0) rotate(-4deg); }
+  50% { transform: translate(-10px, -18px) rotate(4deg); }
+}
+
+@keyframes hw-lightning {
+  0%, 90%, 100% { opacity: 0; }
+  90.5% { opacity: 0.9; }
+  91.5% { opacity: 0.15; }
+  92.5% { opacity: 0.7; }
+  95% { opacity: 0; }
+}
+
+@media (max-width: 47.99em) {
+  .page-halloween .page-title {
+    font-size: 2.1rem;
+  }
+  .page-halloween::before {
+    font-size: 2.2rem;
+  }
+}
+
+/* Respect users who prefer less motion */
+@media (prefers-reduced-motion: reduce) {
+  .page-halloween *,
+  .page-halloween::before,
+  .page-halloween::after {
+    animation: none !important;
+    transition: none !important;
+  }
+}

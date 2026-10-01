@@ -3,7 +3,7 @@
 
   {% include head.html %}
 
-  <body class="theme-base-pac">
+  <body class="theme-base-pac{% if page.path == 'halloween.md' %} page-halloween{% endif %}">
 
     {% include sidebar.html %}
 
