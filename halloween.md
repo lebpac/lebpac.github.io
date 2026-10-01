@@ -19,7 +19,7 @@ Costumes are encouraged, but not required.
 Pre-purchase entry and fun tickets at a discount before the event!
 
 {% capture munchalunch_link %}{% link munchalunch.html %}{% endcapture %}
-{% include link.html text="🎟️ Purchase tickets through MunchaLunch (soon)" %}
+{% include link.html link=munchalunch_link text="🎟️ Purchase tickets through MunchaLunch" %}
 
 ## We need your help
 
