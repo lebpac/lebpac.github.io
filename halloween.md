@@ -8,6 +8,13 @@ badge: 🎃
 
 Our annual Halloween Haunt is happening on **Friday, October 30, from 5 to 7 pm**! Get ready for a _spooktacular_ evening of fun and frights for the whole family.
 
+_Featuring_  
+the legendary Grade 7-led Haunted House,  
+spooktacular games,  
+kids crafts and game room,  
+and Musical Cakes!
+{: style="text-align: center;"}
+
 Costumes are encouraged, but not required.
 
 ## Tickets
