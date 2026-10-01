@@ -79,25 +79,17 @@
   color: #ffa24f;
 }
 
-/* Page title: keeps the default font, just glows */
+/* Page title: glowing marker font */
 .page-halloween .page-title {
   position: relative;
   display: inline-block;
   margin-top: 0;
+  font-family: "Permanent Marker", serif;
+  font-size: 2.6rem;
+  font-weight: 400;
   color: var(--hw-orange);
   text-shadow: 0 0 12px rgba(232, 125, 43, 0.55), 2px 2px 0 rgba(0, 0, 0, 0.5);
   animation: hw-flicker 5s linear infinite;
-}
-
-/* Section headings get a little wiggle on hover */
-.page-halloween .content h2 {
-  display: inline-block;
-  transition: transform 0.2s ease, color 0.2s ease;
-}
-
-.page-halloween .content h2:hover {
-  color: var(--hw-orange);
-  animation: hw-wobble 0.6s ease-in-out;
 }
 
 /* Link "buttons" (the .message boxes) */
@@ -196,13 +188,10 @@
   95% { opacity: 0; }
 }
 
-@keyframes hw-wobble {
-  0%, 100% { transform: rotate(0); }
-  25% { transform: rotate(-2deg); }
-  75% { transform: rotate(2deg); }
-}
-
 @media (max-width: 47.99em) {
+  .page-halloween .page-title {
+    font-size: 2.1rem;
+  }
   .page-halloween::before {
     font-size: 2.2rem;
   }
