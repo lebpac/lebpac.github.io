@@ -13,7 +13,7 @@ Our fall lunch program starts September 22!
 | Thursdays  | 🍕 | Panago Pizza
 {: .borderless-table.lunch}
 
-We need volunteers to distribute lunch! If you're able to help, even occasionally, we'd really appreciate it. You can [sign up to volunteer here]({% link volunteer.md %}).
+We need volunteers to distribute lunch! If you're able to help, even occasionally, we'd really appreciate it. You can [sign up to volunteer here](https://volunteer.lebpac.ca).
 
 ## Order lunch
 
