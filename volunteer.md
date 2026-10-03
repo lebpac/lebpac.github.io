@@ -16,9 +16,11 @@ Help keep our online lunch ordering system running smoothly. You'll also coordin
 {: .boxed-list-item}
 {% endcomment %}
 
+{% comment %}
 **Class Parents**  
 Interested in getting more involved at the school? Being a Class Parent is a great way to help build community with other families in your child's class. It’s a low time commitment, but it makes a real difference. [Learn more.](https://docs.google.com/document/d/13k_8RlG0WkVcldW-tfXJj4guQ_oHy-s_DVvDdxNNTPQ){:target="_blank"}
 {: .boxed-list-item}
+{% endcomment %}
 
 {% comment %}
 **Welcome Back BBQ Volunteers**  
@@ -48,8 +50,8 @@ Interested? Curious? Send us an email at [hello@lebpac.ca](mailto:hello@lebpac.c
 
 Lunch programs aren't possible without parent volunteers. If you're able to help, even occasionally, we'd really appreciate it! Grandparents welcome!
 
-{% include link.html link="https://volunteersignup.org/CY3Y9" text="🍣 Help with sushi lunch (Tuesdays)" %}
+{% include link.html link="https://volunteer.lebpac.ca/?event=sushi" text="🍣 Help with sushi lunch (Tuesdays)" %}
 
-{% include link.html link="https://signup.com/go/LTvzzcQ" text="🥗 Help with hot lunch (Wednesdays)" %}
+{% include link.html link="https://volunteer.lebpac.ca/?event=foodiekids" text="🥗 Help with hot lunch (Wednesdays)" %}
 
-{% include link.html link="https://signup.com/go/QGFpyuN" text="🍕 Help with pizza lunch (Thursdays)" %}
+{% include link.html link="https://volunteer.lebpac.ca/?event=pizza" text="🍕 Help with pizza lunch (Thursdays)" %}
