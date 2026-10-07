@@ -34,7 +34,7 @@ To make this event a haunting success, we’re officially looking for volunteers
 
 All available roles are listed on the sign-up sheet. We’re especially looking to fill the zone lead positions  as soon as possible, as some may require prep ahead of time.
 
-{% include link.html text="🎃 Volunteer for the Halloween Haunt" %}
+{% include link.html link="https://volunteer.lebpac.ca/?event=halloween" text="🎃 Volunteer for the Halloween Haunt" %}
 
 Thank you in advance for helping us create a memorable night for our school community. We couldn’t do it without you!
 
