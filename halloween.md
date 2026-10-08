@@ -34,7 +34,7 @@ To make this event a haunting success, we’re officially looking for volunteers
 
 Station lead signups are open now! The rest of the volunteer opportunities will rise from the grave the week of October 12.
 
-{% include link.html link="https://volunteer.lebpac.ca/?event=halloween" text="🎃 Volunteer for the Halloween Haunt" %}
+{% include link.html link="https://volunteer.lebpac.ca/?event=halloween" text="🎃 Volunteer your brains for the Halloween Haunt" %}
 
 Thank you in advance for helping us create a memorable night for our school community. We couldn’t do it without you!
 
