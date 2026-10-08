@@ -55,10 +55,6 @@
     linear-gradient(315deg, #0e0818, var(--hw-purple-deep));
 }
 
-.page-halloween .mobile-header {
-  border-bottom: 2px solid rgba(232, 125, 43, 0.4);
-}
-
 .page-halloween .sidebar-about h1,
 .page-halloween .mobile-header h1 {
   animation: hw-flicker 6s linear infinite;
