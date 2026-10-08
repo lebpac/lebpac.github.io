@@ -23,16 +23,16 @@ Costumes are encouraged, but not required.
 {% include link.html text="🎟️ Tickets available for purchase at the door" %}
 {% endcomment %}
 
-Pre-purchase entry and fun tickets at a discount before the event!
+It’s best to pre-purchase entry, fun tickets, and hot dogs!
 
 {% capture munchalunch_link %}{% link munchalunch.html %}{% endcapture %}
-{% include link.html text="🎟️ Purchase tickets through MunchaLunch (soon)" %}
+{% include link.html text="🎟️ Purchase tickets (starting the week of October 12)" %}
 
 ## We need your help
 
 To make this event a haunting success, we’re officially looking for volunteers!
 
-All available roles are listed on the sign-up sheet. We’re especially looking to fill the zone lead positions  as soon as possible, as some may require prep ahead of time.
+Station lead signups are open now! The rest of the volunteer opportunities will rise from the grave the week of October 12.
 
 {% include link.html link="https://volunteer.lebpac.ca/?event=halloween" text="🎃 Volunteer for the Halloween Haunt" %}
 
