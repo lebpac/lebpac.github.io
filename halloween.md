@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Halloween Haunt
-description: This year's Halloween Haunt is happening on Thursday, October 30, from 5–7 pm!
+description: This year's Halloween Haunt is happening on Friday, October 30, from 5–7 pm!
 image: assets/og-image-halloween.jpg
 badge: 🎃
 ---
