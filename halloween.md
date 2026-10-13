@@ -25,8 +25,7 @@ Costumes are encouraged, but not required.
 
 It’s best to pre-purchase entry, fun tickets, and hot dogs!
 
-{% capture munchalunch_link %}{% link munchalunch.html %}{% endcapture %}
-{% include link.html text="🎟️ Purchase tickets (starting the week of October 12)" %}
+{% include link.html link="https://munchalunch.com/fundraisers/20753" text="🎟️ Purchase tickets" %}
 
 ## We need your help
 
