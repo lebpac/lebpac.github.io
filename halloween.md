@@ -23,7 +23,7 @@ Costumes are encouraged, but not required.
 {% include link.html text="🎟️ Tickets available for purchase at the door" %}
 {% endcomment %}
 
-It’s best to pre-purchase entry, fun tickets, and hot dogs!
+It’s best to pre-purchase entry, activity tickets, and hot dogs!
 
 {% include link.html link="https://munchalunch.com/fundraisers/20753" text="🎟️ Purchase tickets" %}
 
