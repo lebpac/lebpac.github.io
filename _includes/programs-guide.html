@@ -1,0 +1,133 @@
+{%- assign data = site.data.programs -%}
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/basiclightbox@5.0.4/dist/basicLightbox.min.css">
+
+<!-- Week at a glance -->
+<div class="week" aria-label="Week at a glance">
+  {%- for day in data.days -%}
+    {%- if day.group == "Lunch" -%}
+    <div class="week-lunch">
+      <span class="week-label">At lunch</span>
+      {%- for program in day.programs -%}
+        <a class="week-chip cat-{{ program.category }}" href="#{{ program.id }}"><span class="week-emoji">{{ program.emoji }}</span><span class="week-name">{{ program.short }}</span></a>
+      {%- endfor -%}
+    </div>
+    {%- endif -%}
+  {%- endfor -%}
+  <div class="week-days">
+    {%- for day in data.days -%}
+      {%- if day.group == "After school" -%}
+      <div class="week-day">
+        <span class="week-label">{{ day.name | slice: 0, 3 }}</span>
+        {%- for program in day.programs -%}
+          <a class="week-chip cat-{{ program.category }}" href="#{{ program.id }}"><span class="week-emoji">{{ program.emoji }}</span><span class="week-name">{{ program.short }}</span></a>
+        {%- endfor -%}
+      </div>
+      {%- endif -%}
+    {%- endfor -%}
+  </div>
+</div>
+
+<!-- Filters -->
+<div class="program-filters" role="group" aria-label="Filter programs">
+  <button type="button" class="program-filter is-active" data-filter="all">✨ All</button>
+  {%- for cat in data.categories -%}
+  <button type="button" class="program-filter cat-{{ cat.key }}" data-filter="{{ cat.key }}">{{ cat.emoji }} {{ cat.label }}</button>
+  {%- endfor -%}
+</div>
+
+<!-- Programs -->
+{%- assign last_group = "" -%}
+{%- for day in data.days -%}
+  {%- if day.group != last_group -%}
+    {%- if last_group != "" -%}</section>{%- endif -%}
+<section class="program-group">
+<h3>{{ day.group }}</h3>
+    {%- assign last_group = day.group -%}
+  {%- endif -%}
+  <div class="program-day">
+  {%- if day.group == "After school" -%}
+  <h4>{{ day.name }}</h4>
+  {%- endif -%}
+  <div class="program-cards">
+  {%- for program in day.programs -%}
+    <article class="program-card cat-{{ program.category }}" id="{{ program.id }}" data-category="{{ program.category }}">
+      {%- if program.flyer %}
+      <button type="button" class="program-flyer" data-flyer="{{ program.flyer }}" aria-label="View the {{ program.title | escape }} flyer">
+        <img src="{{ program.flyer }}" alt="{{ program.title | escape }} flyer" loading="lazy">
+      </button>
+      {%- endif %}
+      <header class="program-card-head">
+        <span class="program-card-emoji" aria-hidden="true">{{ program.emoji }}</span>
+        <div class="program-card-titles">
+          <h5>{{ program.title | escape }}{% if program.badge %} <span class="program-tag program-tag-badge">{{ program.badge }}</span>{% endif %}</h5>
+        </div>
+      </header>
+      <p class="program-card-blurb">{{ program.blurb }}</p>
+      <dl class="program-facts">
+        <div><dt>🎒</dt><dd>{{ program.audience }}</dd></div>
+        <div><dt>🗓️</dt><dd>{{ program.dates }}</dd></div>
+        <div{% unless program.time %} class="is-empty"{% endunless %}>{% if program.time %}<dt>🕒</dt><dd>{{ program.time }}</dd>{% endif %}</div>
+        <div><dt>📍</dt><dd>{{ program.location }}</dd></div>
+        <div><dt>💲</dt><dd>{{ program.cost }}</dd></div>
+        <div{% unless program.no_sessions %} class="is-empty"{% endunless %}>{% if program.no_sessions %}<dt>🚫</dt><dd>{{ program.no_sessions }}</dd>{% endif %}</div>
+      </dl>
+      {%- if program.note %}
+      <p class="program-card-note">💡 {{ program.note }}</p>
+      {%- endif %}
+      <a class="program-card-cta" href="{{ program.url }}" target="_blank" rel="noopener">Info and registration →</a>
+    </article>
+  {%- endfor -%}
+  </div>
+  </div>
+{%- endfor -%}
+</section>
+
+<script src="https://cdn.jsdelivr.net/npm/basiclightbox@5.0.4/dist/basicLightbox.min.js"></script>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const buttons = document.querySelectorAll('.program-filter');
+  const cards = document.querySelectorAll('.program-card');
+  const days = document.querySelectorAll('.program-day');
+  const groups = document.querySelectorAll('.program-group');
+  const chips = document.querySelectorAll('.week-chip');
+
+  function apply(filter) {
+    buttons.forEach(b => {
+      const on = b.dataset.filter === filter;
+      b.classList.toggle('is-active', on);
+      b.setAttribute('aria-pressed', on);
+    });
+    cards.forEach(c => {
+      c.hidden = filter !== 'all' && c.dataset.category !== filter;
+    });
+    days.forEach(d => {
+      d.hidden = !d.querySelector('.program-card:not([hidden])');
+    });
+    groups.forEach(g => {
+      g.hidden = !g.querySelector('.program-card:not([hidden])');
+    });
+    chips.forEach(c => {
+      c.classList.toggle('is-dim', filter !== 'all' && !c.classList.contains('cat-' + filter));
+    });
+  }
+
+  buttons.forEach(b => b.addEventListener('click', () => apply(b.dataset.filter)));
+
+  // Flyer lightbox
+  document.querySelectorAll('.program-flyer').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const img = btn.querySelector('img');
+      basicLightbox.create(`
+        <div class="lightbox-content">
+          <img src="${btn.dataset.flyer}" alt="${img.alt}">
+        </div>
+      `).show();
+    });
+  });
+
+  // Jumping to a program from the week view should never land on a hidden card.
+  chips.forEach(c => c.addEventListener('click', () => apply('all')));
+});
+</script>

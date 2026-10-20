@@ -1,0 +1,193 @@
+# Extracurricular programs, in the order they appear on the page.
+# Each day has a `group` ("Lunch" or "After school") that drives the page headings.
+# Categories: active, arts, music, stem
+
+categories:
+  - key: active
+    label: Active
+    emoji: 🏃
+  - key: arts
+    label: Arts
+    emoji: 🎨
+  - key: music
+    label: Music
+    emoji: 🎶
+  - key: stem
+    label: Brains
+    emoji: 🧠
+
+days:
+  - name: Lunch
+    group: Lunch
+    programs:
+      - id: vems-junior-choir
+        title: VEMS Junior Choir
+        short: Junior Choir
+        emoji: 🎶
+        category: music
+        blurb: Young singers build confidence, rhythm, and harmony in a fun choir that meets right at school during the lunch hour.
+        location: Music Room
+        audience: Grades 1 – 3
+        dates: Sep 22 – Dec 1
+        time: 12:10 – 12:55 pm
+        cost: "179"
+        url: https://vems.ca/signup
+
+      - id: vems-senior-choir
+        title: VEMS Senior Choir
+        short: Senior Choir
+        emoji: 🎶
+        category: music
+        blurb: Older singers tackle richer repertoire and part-singing while building musicianship and stage confidence.
+        location: Music Room
+        audience: Grades 4 – 7
+        dates: Sep 24 – Dec 3
+        time: 12:10 – 12:55 pm
+        cost: "179"
+        url: https://vems.ca/signup
+
+  - name: Mondays
+    group: After school
+    programs:
+      - id: pedalheads-soccer
+        flyer: /assets/img/programs/fall-2026/pedalheads.webp
+        title: Pedalheads Soccer
+        short: Soccer
+        emoji: ⚽️
+        category: active
+        blurb: Pedalheads coaches build dribbling, passing, and teamwork through games and drills in the school gym.
+        location: Gymnasium
+        audience: Grades K – 7
+        dates: Sep 21 – Dec 14
+        no_sessions: No session Oct 12
+        time: 3:00 – 5:00 pm
+        cost: "408"
+        url: https://pedalheads.com/en/camp?region=1&cities=3&locationName=%5B%7B%22name%22%3A%22L%27École+Bilingue%22%2C%22locationIds%22%3A%5B%222005%22%5D%7D%5D&programs=1012&ph_search=true#camp-list
+
+      - id: creative-writing-adventures
+        flyer: /assets/img/programs/fall-2026/creativewriting.webp
+        title: Creative Writing Adventures
+        short: Creative Writing
+        emoji: ✍️
+        category: arts
+        blurb: Story-building games and writing challenges spark imaginations as kids create characters, worlds, and plots of their own.
+        location: Library
+        audience: Grades 4 – 6
+        dates: Sep 28 – Dec 7
+        no_sessions: No session Oct 12
+        time: 3:10 – 4:10 pm
+        cost: 286 + tax
+        url: https://forms.gle/9p3ABQojnaJXUEKu8
+
+  - name: Tuesdays
+    group: After school
+    programs:
+      - id: lights-up-musical-theatre
+        flyer: /assets/img/programs/fall-2026/lightsup.webp
+        title: Lights Up Musical Theatre
+        short: Musical Theatre
+        emoji: 🎭
+        category: arts
+        blurb: Students sing, dance, and act their way through musical theatre while building stage skills, creativity, and confidence.
+        location: Gymnasium
+        audience: Grades K – 7
+        dates: Oct 13 – Dec 6
+        time: 3:00 – 5:15 pm
+        cost: 380 + tax
+        url: https://lightsuptheatre.ca/lecolebilingue
+
+      - id: lego-spike-essentials
+        flyer: /assets/img/programs/fall-2026/wize.webp
+        title: "LEGO Spike Essentials: Engineering & Robotics"
+        short: LEGO Robotics
+        emoji: 🤖
+        category: stem
+        blurb: Hands-on engineering and coding with LEGO SPIKE, where kids design, build, and program their own robots.
+        location: Library
+        audience: Grades K – 3
+        dates: Sep 29 – Nov 17
+        time: 3:00 – 4:30 pm
+        cost: 300 + tax
+        url: https://app.amilia.com/store/en/wize-academy-of-vancouver-south-richmond/shop/programs
+
+  - name: Wednesdays
+    group: After school
+    programs:
+      - id: jr-tennis
+        flyer: /assets/img/programs/fall-2026/jrtennis.webp
+        title: JR Tennis
+        short: Tennis
+        emoji: 🎾
+        category: active
+        blurb: Learn the fundamentals of tennis, including grip, swing, footwork, and rallies, in a welcoming group.
+        location: Gymnasium
+        audience: Ages 6 – 12
+        dates: Sep 16 – Dec 16
+        no_sessions: No sessions Sep 30, Oct 7, Nov 11
+        time: 3:05 – 4:50 pm
+        cost: "505.31"
+        url: https://www.jrtennis.ca
+
+      - id: brainiacs-board-games
+        title: Brainiacs Board Games
+        short: Board Games
+        emoji: ♟️
+        category: stem
+        blurb: Strategy, logic, and good sportsmanship through classic and modern board games. Perfect for curious minds who love a challenge.
+        location: Library
+        audience: Grades K – 7
+        note: For Grades 4+, the program is best if registered with a friend.
+        dates: Sep 23 – Dec 9
+        no_sessions: No sessions Sep 30, Nov 11
+        time: 3:00 – 5:00 pm
+        cost: 340 + tax
+        url: https://www.brainiacsadventures.com/event-details-registration/lecole-bilingue-after-school-fall-2026-wednesdays
+
+  - name: Thursdays
+    group: After school
+    programs:
+      - id: youth-speed-winter
+        flyer: /assets/img/programs/fall-2026/youthspeed.webp
+        title: Youth Speed Fundamentals Winter Series
+        short: Youth Speed
+        emoji: 🏃
+        category: active
+        badge: New
+        blurb: Coach David Duizer returns with indoor speed training that builds fast-twitch development through sprint mechanics, plyometrics, and power work, not endurance. Athletes improve their 10m, 20m, 40m, and lateral times, measured with professional timing equipment.
+        location: Gymnasium
+        audience: Ages 8 – 12
+        dates: Nov 12 – Dec 17
+        time: 3:00 – 5:00 pm
+        cost: "240"
+        url: https://drduizer.com/youth-speed-fundamentals-vancouver/
+
+      - id: young-rembrandts
+        flyer: /assets/img/programs/fall-2026/yrdrawing.webp
+        title: Young Rembrandts
+        short: Drawing
+        emoji: 🎨
+        category: arts
+        blurb: Step-by-step drawing lessons that build fine-motor skills, focus, and artistic confidence.
+        location: Library
+        audience: Grades 1 – 6
+        dates: Oct 1 – Dec 10
+        time: 3:00 – 4:10 pm
+        cost: "211.50"
+        url: https://campscui.active.com/orgs/YoungRembrandtsMetroVancouver?e4q=dfdfb2d9-97ae-453a-9eb6-a0c779e40e2b&e4p=a989fa49-9a93-4381-8940-19993b97ef2c&e4ts=1782241369&e4c=active&e4e=snlvcmpscui00001load&e4rt=Safetynet&e4h=aee70a97655b2d18f1682d02094bebe2&newcui=true#/selectSessions/3835637/filter/session=71391437
+
+  - name: Fridays
+    group: After school
+    programs:
+      - id: vems-group-guitar
+        flyer: /assets/img/programs/fall-2026/vemsguitar.webp
+        title: VEMS Group Guitar
+        short: Group Guitar
+        emoji: 🎸
+        category: music
+        blurb: Learn guitar in a small group, from first chords to favourite songs, and enjoy the fun of playing together.
+        location: Library
+        audience: Grades 4 – 7
+        dates: Oct 2 – Jun 11
+        time: 3:00 – 4:00 pm
+        cost: 483 (full year)
+        url: https://vems.ca/signup
