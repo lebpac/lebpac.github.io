@@ -605,6 +605,25 @@ img {
   border-color: #4141a5;
 }
 
+/* On phones, show just the emoji so the buttons stay big and fit on one row. */
+@media (max-width: 38em) {
+  .program-filter {
+    flex: 1 1 0;
+    padding: 0.35rem 0;
+    text-align: center;
+  }
+
+  .program-filter-label {
+    display: none;
+  }
+
+  .program-filter img.emoji {
+    width: 1.3em;
+    height: 1.3em;
+    vertical-align: -0.25em;
+  }
+}
+
 .program-filter.is-active {
   background: #4141a5;
   border-color: #4141a5;

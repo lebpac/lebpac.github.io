@@ -30,9 +30,9 @@
 
 <!-- Filters -->
 <div class="program-filters" role="group" aria-label="Filter programs">
-  <button type="button" class="program-filter is-active" data-filter="all">✨ All</button>
+  <button type="button" class="program-filter is-active" data-filter="all" aria-label="All programs" title="All programs"><span class="program-filter-emoji">✨</span> <span class="program-filter-label">All</span></button>
   {%- for cat in data.categories -%}
-  <button type="button" class="program-filter cat-{{ cat.key }}" data-filter="{{ cat.key }}">{{ cat.emoji }} {{ cat.label }}</button>
+  <button type="button" class="program-filter cat-{{ cat.key }}" data-filter="{{ cat.key }}" aria-label="{{ cat.label }} programs" title="{{ cat.label }} programs"><span class="program-filter-emoji">{{ cat.emoji }}</span> <span class="program-filter-label">{{ cat.label }}</span></button>
   {%- endfor -%}
 </div>
 
