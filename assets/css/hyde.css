@@ -751,7 +751,7 @@ img {
   grid-template-columns: repeat(3, 1fr);
   gap: 0.5rem 1rem;
   margin: 0 0 1rem;
-  padding: 0.65rem 0.85rem;
+  padding: 0.7rem 0.9rem;
   border-radius: 6px;
   background: #f0f1f9;
   font-size: 0.9rem;
@@ -798,8 +798,7 @@ img {
   padding: 0.4rem 0.9rem;
   border-radius: 4px;
   background: #4141a5;
-  font-size: 0.85rem;
-  font-weight: 700;
+  font-size: 0.9rem;
   text-decoration: none;
 }
 
