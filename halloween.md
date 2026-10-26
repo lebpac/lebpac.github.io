@@ -27,7 +27,11 @@ It’s best to pre-purchase entry, activity tickets, and hot dogs!
 
 Event entry wristbands are required for most school-aged children. Grade 7 students, younger children, and adults are free.
 
+{% comment %}
 {% include link.html link="https://munchalunch.com/fundraisers/20753" text="🎟️ Purchase tickets" %}
+{% endcomment %}
+
+{% include link.html text="🎟️ Purchase tickets at the door" %}
 
 ## We need your help
 
