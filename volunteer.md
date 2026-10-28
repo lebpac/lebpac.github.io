@@ -17,7 +17,7 @@ Help keep our online lunch ordering system running smoothly. You'll also coordin
 {% endcomment %}
 
 **Sushi Coordinators**  
-Help keep our Tuesday sushi lunch rolling! You'll organize the volunteer schedule and be the point person for the vendor and the day-of crew, so everything comes together without a hitch.
+Help keep our Tuesday sushi lunch rolling! We're looking for 2–3 coordinators to take turns being the point people for the vendor and the day-of crew so everything comes together without a hitch.
 {: .boxed-list-item}
 
 {% comment %}
