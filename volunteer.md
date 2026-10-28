@@ -16,6 +16,10 @@ Help keep our online lunch ordering system running smoothly. You'll also coordin
 {: .boxed-list-item}
 {% endcomment %}
 
+**Sushi Coordinators**  
+Help keep our Tuesday sushi lunch rolling! You'll organize the volunteer schedule and be the point person for the vendor and the day-of crew, so everything comes together without a hitch.
+{: .boxed-list-item}
+
 {% comment %}
 **Class Parents**  
 Interested in getting more involved at the school? Being a Class Parent is a great way to help build community with other families in your child's class. It’s a low time commitment, but it makes a real difference. [Learn more.](https://docs.google.com/document/d/13k_8RlG0WkVcldW-tfXJj4guQ_oHy-s_DVvDdxNNTPQ){:target="_blank"}
