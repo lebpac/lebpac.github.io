@@ -4,7 +4,7 @@ title: Get Involved
 badge: 🙌
 ---
 
-Join other parents and get involved with your school community. Everything we do is made possible through our dedicated parent volunteers.
+Join other parents and get involved with your school community. Everything we do is made possible by our dedicated parent volunteers.
 
 ## Volunteer opportunities
 
