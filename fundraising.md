@@ -8,7 +8,7 @@ raised: $0
 goal: $15,000
 ---
 
-As parents and guardians, we directly fund educational resources beyond the basics provided by the VSB and provincial government. 
+As parents and guardians, we directly fund educational resources beyond the basics provided by the VSB and provincial government.
 
 ## Donate
 
