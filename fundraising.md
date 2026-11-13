@@ -8,24 +8,24 @@ raised: $0
 goal: $15,000
 ---
 
-As parents and guardians, we directly fund additional educational resources beyond those provided by the VSB and provincial government.
+As parents and guardians, we directly fund educational resources beyond the basics provided by the VSB and provincial government. 
 
 ## Donate
 
-Most of our funds are raised through direct donation, an annual voluntary contribution. The suggested donation amount is **$100 per student**.
+Most of our funds are raised through direct donation, an annual voluntary contribution. The suggested donation amount is **$100 per family**.
 
 {% comment %}
 {% include thermometer.html raised=page.raised goal=page.goal %}
 {% endcomment %}
 
 {% capture donate_link %}{% link donate.html %}{% endcapture %}
-{% include link.html link=donate_link text="❤️ Donate to the PAC" %}
+{% include link.html link=donate_link text="❤️ Donate to enhance your child's education" %}
 
 All donations are eligible for a tax receipt.
 
 ## What your donation supports
 
-This year, your donation will fund much-needed programs and resources, including:
+Your donation will fund much-needed programs and resources, including:
 
 <div class="boxed-list">
   <div class="boxed-list-item">
@@ -34,7 +34,7 @@ This year, your donation will fund much-needed programs and resources, including
   </div>
   <div class="boxed-list-item">
     <div class="boxed-list-item-heading">💻 Learning technology</div>
-    <p>Document cameras, whiteboards for classrooms, an iPad storage tub, and replacement iPad cables and cases</p>
+    <p>Document cameras, whiteboards for classrooms, iPads, keyboards, and other digital literacy tools</p>
   </div>
    <div class="boxed-list-item">
     <div class="boxed-list-item-heading">🤸 Sports programs and equipment</div>
