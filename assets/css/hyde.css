@@ -330,6 +330,15 @@ img {
   border: 1px solid #e5e5e5;
   padding: 16px;
   border-radius: 8px;
+  margin-bottom: 1rem;
+}
+
+.boxed-list-item > :last-child {
+  margin-bottom: 0;
+}
+
+.boxed-list > .boxed-list-item {
+  margin-bottom: 0;
 }
 
 .boxed-list-item-heading {
