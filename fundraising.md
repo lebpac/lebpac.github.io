@@ -61,6 +61,12 @@ Our goal is to raise {{ page.goal }} to continue supporting these and other scho
 
 ## Other easy ways to support your school
 
+### Sports tickets
+
+The Vancouver Goldeneyes are back at the Coliseum for their second season in the Professional Women's Hockey League (PWHL). Come cheer them on and support your school at the same time.
+
+{% include link.html link="https://www.gofevo.com/event/Lassociationdes2" text="![Vancouver Goldeneyes Logo](/assets/img/fundraising/vancouver-goldeneyes.webp) Vancouver Goldeneyes Tickets" %}
+
 ### Mabel's Labels
 
 Mabel’s Labels sells highly customizable labels that are laundry and dishwasher safe. For use on clothing, shoes, bags, lunchboxes and anything your child might use or lose at school.
