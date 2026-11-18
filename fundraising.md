@@ -59,7 +59,7 @@ Our goal is to raise {{ page.goal }} to continue supporting these and other scho
 > Being able to project items directly onto a whiteboard has dramatically enhanced my lessons and my students' learning. It has enabled me to facilitate explicit modelling of concepts during lessons by annotating diagrams or completing examples together. Thank you so much for providing us with such a useful tool! <span class="attribution">— LEB teacher</span>
 {% endcomment %}
 
-## Other easy ways to support your school
+## Other ways to support your school
 
 ### Sports tickets
 
@@ -67,25 +67,25 @@ The Vancouver Goldeneyes are back at the Coliseum for their second season in the
 
 {% include link.html link="https://www.gofevo.com/event/Lassociationdes2" text="![Vancouver Goldeneyes Logo](/assets/img/fundraising/vancouver-goldeneyes.webp) Vancouver Goldeneyes Tickets" %}
 
+### COBS Bread
+
+Visit COBS Bread at 8th and Cambie and mention _L’École Bilingue_ before you pay. COBS will donate 5% of your purchase back to the school.
+
+{% include link.html link="https://www.cobsbread.com/pages/bakeries/8th-at-cambie-bakery" text="![COBS Bread Logo](/assets/img/fundraising/cobs-bread.webp) Visit COBS Bread" %}
+
 ### Mabel's Labels
 
 Mabel’s Labels sells highly customizable labels that are laundry and dishwasher safe. For use on clothing, shoes, bags, lunchboxes and anything your child might use or lose at school.
 
 {% include link.html link="https://campaigns.mabelslabels.com" text="![Mabel's Labels Logo](/assets/img/fundraising/mabels-labels.webp) Shop Mabel's Labels" %}
 
-### Craft Coffee and Tea
+### Coffee and Tea
 
 Enjoy some of Canada's best coffees and teas in your own home and support your school at the same time. Use discount code _LEB_ at checkout.
 
 {% include link.html link="https://craftcoffeecanada.com/discount/LEB" text="![Craft Coffee Canada Logo](/assets/img/fundraising/craft-coffee-canada.webp) Order from Craft Coffee Canada" %}
 
 {% include link.html link="https://www.teasparrow.ca/discount/LEB" text="![Tea Sparrow Logo](/assets/img/fundraising/tea-sparrow.webp) Order from Tea Sparrow" %}
-
-### COBS Bread
-
-Visit COBS Bread at 8th and Cambie and mention _L’École Bilingue_ before you pay. COBS will donate 5% of your purchase back to the school.
-
-{% include link.html link="https://www.cobsbread.com/pages/bakeries/8th-at-cambie-bakery" text="![COBS Bread Logo](/assets/img/fundraising/cobs-bread.webp) Visit COBS Bread" %}
 
 ---
 
