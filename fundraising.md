@@ -79,7 +79,7 @@ Enjoy some of Canada's best coffees and teas in your own home and support your s
 
 Visit COBS Bread at 8th and Cambie and mention _L’École Bilingue_ before you pay. COBS will donate 5% of your purchase back to the school.
 
-{% include link.html link="https://www.cobsbread.com/pages/bakeries/8th-at-cambie-bakery" text="![COBS Bread Logo](/assets/img/fundraising/cobs-bread.svg) Visit COBS Bread" %}
+{% include link.html link="https://www.cobsbread.com/pages/bakeries/8th-at-cambie-bakery" text="![COBS Bread Logo](/assets/img/fundraising/cobs-bread.webp) Visit COBS Bread" %}
 
 ---
 
