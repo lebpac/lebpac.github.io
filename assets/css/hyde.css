@@ -656,7 +656,6 @@ img {
   border: 1px solid #e5e5e5;
   border-radius: 8px;
   background: #fff;
-  scroll-margin-top: 1rem;
 }
 
 .program-card:target {
@@ -981,4 +980,9 @@ img.emoji {
     margin-top: 0;
   }
   
+}
+
+/* Leave breathing room above anchor targets */
+:target {
+  scroll-margin-top: 1rem;
 }
