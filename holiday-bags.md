@@ -9,7 +9,7 @@ For the ninth year, our school community is preparing holiday gift bags for the 
 
 ## How to help
 
-We’re asking divisions to collect **100 of their assigned items** (see the list below) so we can once again fill 100 gift bags. Blue IKEA bags will be available by classrooms.
+We’re asking divisions to collect **100 of their assigned items** (see the list below) so we can once again fill 100 gift bags. Students can drop off items in the blue IKEA bags in their pod.
 
 **The deadline for collection is Friday, December 11.**
 
