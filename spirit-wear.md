@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Spirit Wear
-description: Show your school spirit in style. Order by December 1.
+description: Support your school in style. Orders are open until December 1.
 image: assets/og-image-spirit-wear.jpg
 badge: 👕
 ---
