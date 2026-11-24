@@ -459,6 +459,35 @@ img {
   text-align: center;
 }
 
+/* Items table (holiday bags) */
+.items-table {
+  border: 1px solid #e5e5e5;
+  border-radius: 8px;
+  border-collapse: separate;
+  border-spacing: 0;
+  overflow: hidden;
+}
+
+.items-table th,
+.items-table td {
+  padding: .4rem .8rem;
+  border: none;
+  border-top: 1px solid #e5e5e5;
+  text-align: left;
+}
+
+.items-table thead th {
+  border-top: none;
+  background: #f0f1f9;
+}
+
+.items-table td:first-child {
+  width: 6.5rem;
+  font-weight: 700;
+  white-space: nowrap;
+  vertical-align: top;
+}
+
 /* Programs guide */
 .program-card[hidden],
 .program-day[hidden],
