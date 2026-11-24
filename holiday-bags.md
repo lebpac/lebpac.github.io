@@ -50,7 +50,3 @@ Goal: 100 of each item. Please, no used items (apart from toques and gloves).
 {: .items-table}
 
 Thank you for your continued support with this essential project.
-
-## Questions?
-
-Please reach out to Tessa Wilson, if you can find her.
