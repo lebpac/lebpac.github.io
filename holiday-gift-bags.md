@@ -3,6 +3,7 @@ layout: page
 title: Holiday Gift Bags
 description: Help us fill 100 holiday gift bags for our community. Donations due December 11.
 badge: 🎁
+image: assets/og-image-holiday-gift-bags.jpg
 ---
 
 For the ninth year, our school community is preparing holiday gift bags for the Downtown Community Health Centre on Powell Street, which supports individuals on the Downtown Eastside. For many clients visiting during the last week of the year, this may be their only gift. Our support truly matters.
