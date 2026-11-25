@@ -31,14 +31,14 @@ In addition, the whole school community is invited to donate:
 
 ## What each division is collecting
 
-No used items, please (except toques and gloves).
+No used items, please (except where noted).
 
 | Divisions | Requested items |
 |---|---|
 | 1 & 2 | Menstrual products (30 packs of pads, 30 packs of tampons) and men's/women's deodorant |
 | 3 & 4 | Adult toques (new or gently used okay) |
 | 5 & 6 | Adult finger gloves (new or gently used okay) |
-| 7, 8 & 9 | Socks: men's/women's, wool or synthetic preferred (new) |
+| 7, 8 & 9 | Socks: men's/women's, wool or synthetic preferred |
 | 10 | Small-sized shampoo and conditioner, lip balm |
 | 11 | Soap: bars, small-sized body wash, lip balm |
 | 12 & 13 | New hand towels (small) |
