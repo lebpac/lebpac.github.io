@@ -14,5 +14,6 @@ And, new this year, exciting colourways that may or may not be limited edition. 
 
 Every purchase helps support our school.
 
-{% include link.html link="https://www.beastvan.com/lebspirit" text="👕 Order now" %}
+{% include link.html link="https://www.beastvan.com/lecole-bilingue-unisex-spirti-wear" text="👕 Order now from Beastvan" %}
 
+{% include sizing-guide.html %}

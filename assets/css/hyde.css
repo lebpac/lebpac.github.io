@@ -1015,3 +1015,129 @@ img.emoji {
 :target {
   scroll-margin-top: 1rem;
 }
+
+/* Sizing guide (collapsible) */
+.sizing-guide {
+  margin-bottom: 1rem;
+  border-radius: 12px;
+  background: #f9f9f9;
+}
+
+.sizing-guide summary {
+  padding: 1rem;
+  color: #4141a5;
+  cursor: pointer;
+  list-style: none;
+  border-radius: 12px;
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+.sizing-guide summary::-webkit-details-marker {
+  display: none;
+}
+
+.sizing-guide summary::after {
+  content: "";
+  margin: 0 0.25rem 0.2rem auto;
+  width: 0.4rem;
+  height: 0.4rem;
+  border-right: 2px solid currentColor;
+  border-bottom: 2px solid currentColor;
+  transform: rotate(45deg);
+}
+
+.sizing-guide[open] summary::after {
+  margin-bottom: 0;
+  transform: rotate(-135deg);
+}
+
+.sizing-body {
+  padding: 0 1rem 1rem;
+  font-size: 0.8rem;
+}
+
+.sizing-style + .sizing-style {
+  margin-top: 1.25rem;
+}
+
+.sizing-head {
+  margin-bottom: 0.5rem;
+}
+
+.sizing-style h4 {
+  margin: 0;
+  font-size: 1rem;
+  color: #081e77;
+}
+
+.sizing-colours {
+  margin: 0;
+  color: #777;
+}
+
+.sizing-scroll {
+  overflow-x: auto;
+  border: 1px solid #e1e4ef;
+  border-radius: 8px;
+  background: #fff;
+}
+
+/* Fixed layout keeps every column the same width across all four tables */
+.sizing-table {
+  margin: 0;
+  border: 0;
+  table-layout: fixed;
+}
+
+.sizing-table th,
+.sizing-table td {
+  padding: 0.35rem 0.2rem;
+  text-align: center;
+  border: 0;
+  border-top: 1px solid #eef0f6;
+}
+
+.sizing-table thead th:first-child {
+  width: 32%;
+}
+
+.sizing-table thead th,
+.sizing-table .sizing-group th {
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: #4141a5;
+}
+
+.sizing-table thead th {
+  border-top: 0;
+  background: #f0f1f9;
+}
+
+.sizing-table tbody th {
+  padding-left: 0.5rem;
+  text-align: left;
+}
+
+.sizing-table .sizing-group th {
+  background: #f7f7fb;
+}
+
+.sizing-table tbody th[scope="row"] {
+  font-weight: 400;
+  color: #515151;
+}
+
+.sizing-table td {
+  white-space: nowrap;
+}
+
+.sizing-table td.is-none {
+  color: #bbb;
+}
+
+@media (max-width: 38em) {
+  .sizing-table td {
+    font-size: 0.7rem;
+  }
+}
