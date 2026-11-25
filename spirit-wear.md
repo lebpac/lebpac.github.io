@@ -8,7 +8,7 @@ badge: 👕
 
 ![Spirit Wear](/assets/img/spirit_wear.webp)
 
-Back by popular demand! Order LEB Spirit Wear by **Tuesday, December 1** for pick-up before the holiday break. Items include hoodies, zip-up hoodies, and t-shirts. Both child and adult sizes are available so the whole family can match.
+Back by popular demand! Order LEB Spirit Wear by **Tuesday, December 1** for pick-up before the winter break. Items include hoodies, zip-up hoodies, and t-shirts. Both child and adult sizes are available so the whole family can match.
 
 And, new this year, exciting colourways that may or may not be limited edition. Choose from dark green, maroon, pale blush, light blue, and lavender.
 
