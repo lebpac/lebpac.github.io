@@ -29,7 +29,7 @@
       {% for path in sidebar_paths %}
         {% assign node = site.pages | where: "path", path | first %}
         <div class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}">
-          {% if node.badge != null %}<a href="{{ node.url }}">{{ node.badge }}</a>{% endif %}
+          {% if node.badge != null %}<a href="{{ node.url }}" tabindex="-1" aria-hidden="true">{{ node.badge }}</a>{% endif %}
           <a href="{{ node.url }}">{{ node.title }}</a> 
         </div>
       {% endfor %}
