@@ -3,13 +3,13 @@ layout: page
 title: Meetings
 ---
 
-You can find upcoming PAC meetings on the [calendar]({% link calendar.md %}). Meetings are held in person in the school library and online via Google Meet.
+You can find upcoming PAC meetings on the [calendar]({% link calendar.md %}). Afternoon meetings are held in person in the school library and online. Evening meetings are online only.
 
 Everyone is welcome.
 
 {% include link.html link="https://drive.google.com/drive/folders/1cXYcP6r-JS9iND2MxebtMhN7xCuAapDp" text="📁 Meeting Agendas & Minutes" %}
 
-{% include link.html link="https://meet.google.com/kke-hxot-cbm" text="![Google Meet](/assets/img/meet_icon.svg) Join online via Google Meet" %}
+{% include link.html link="https://meet.google.com/knu-aurw-hxm" text="![Google Meet](/assets/img/meet_icon.svg) Join online via Google Meet" %}
 
 ## Archive
 
