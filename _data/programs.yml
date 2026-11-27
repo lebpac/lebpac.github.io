@@ -81,6 +81,13 @@ days:
         cost: 300 + tax
         url: https://app.amilia.com/store/en/wize-academy-of-vancouver-south-richmond/shop/activities/7537103
 
+      - id: youth-athletics
+        title: Youth Athletics (Outdoor Program)
+        short: Youth Athletics
+        emoji: 🏃
+        category: active
+        blurb: An outdoor athletics program building speed, agility, and power through sprint mechanics, plyometrics, and games.
+
   - name: Fridays
     group: After school
     programs:

@@ -64,6 +64,7 @@
         </div>
       </header>
       <p class="program-card-blurb">{{ program.blurb }}</p>
+      {%- if program.dates %}
       <dl class="program-facts">
         <div><dt>🎒</dt><dd>{{ program.audience }}</dd></div>
         <div><dt>🗓️</dt><dd>{{ program.dates }}</dd></div>
@@ -71,6 +72,7 @@
         <div><dt>💲</dt><dd>{{ program.cost }}</dd></div>
         <div{% unless program.no_sessions %} class="is-empty"{% endunless %}>{% if program.no_sessions %}<dt>🚫</dt><dd>{{ program.no_sessions }}</dd>{% endif %}</div>
       </dl>
+      {%- endif %}
       {%- if program.note %}
       <p class="program-card-note">💡 {{ program.note }}</p>
       {%- endif %}
