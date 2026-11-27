@@ -11,7 +11,7 @@ These programs are not school-sanctioned nor supervised by the PAC or L'École B
 Please pick up your child _outside_ of the front doors of the school.
 {: .message-highlight}
 
-## Fall 2026
+## Winter 2027
 
 {% include programs-guide.html %}
 

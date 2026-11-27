@@ -68,14 +68,17 @@
         <div><dt>🎒</dt><dd>{{ program.audience }}</dd></div>
         <div><dt>🗓️</dt><dd>{{ program.dates }}</dd></div>
         <div{% unless program.time %} class="is-empty"{% endunless %}>{% if program.time %}<dt>🕒</dt><dd>{{ program.time }}</dd>{% endif %}</div>
-        <div><dt>📍</dt><dd>{{ program.location }}</dd></div>
         <div><dt>💲</dt><dd>{{ program.cost }}</dd></div>
         <div{% unless program.no_sessions %} class="is-empty"{% endunless %}>{% if program.no_sessions %}<dt>🚫</dt><dd>{{ program.no_sessions }}</dd>{% endif %}</div>
       </dl>
       {%- if program.note %}
       <p class="program-card-note">💡 {{ program.note }}</p>
       {%- endif %}
+      {%- if program.url %}
       <a class="program-card-cta" href="{{ program.url }}" target="_blank" rel="noopener">Info and registration →</a>
+      {%- else %}
+      <button type="button" class="program-card-cta" disabled>Registration coming soon</button>
+      {%- endif %}
     </article>
   {%- endfor -%}
   </div>
