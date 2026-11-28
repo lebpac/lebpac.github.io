@@ -11,25 +11,25 @@ Join other parents and get involved with your school community. Everything we do
 Here's where we could use a hand right now:
 
 <div class="boxed-list-item" markdown="1">
-🍣 Sushi Coordinators
+🍣 Sushi Sensei
 {: .boxed-list-item-heading}
 
-After years of keeping the sushi train running, Usha is officially retiring on December 15! We need new coordinators to help keep our Sushi Lunch rolling.
+After years of running Sushi Lunch, Usha is officially retiring on December 15! We need new dedicated volunteers to help keep the lunch rolling.
 
-- When: Tuesdays, 11:30 am – 1 pm (shared among coordinators).
+- When: Tuesdays, 11:30 am – 1 pm (shared with others).
 - What: Oversee setup, lunch distribution, and cleanup.
 - Experience: None! Training and support provided.
 </div>
 
 <div class="boxed-list-item" markdown="1">
-🍕 Pizza Coordinators
+🍕 Slice Specialists
 {: .boxed-list-item-heading}
 
-Our Pizza Lunch raised over $20,000 last year! Not bad for cheese and pepperoni. We need new coordinators to come join in the fun.
+Our Pizza Lunch raised over $20,000 last year! Not bad for cheese and pepperoni. We need committed volunteers to come join in the fun.
 
 - When: Thursdays, 11:30 am – 1 pm, as little as once every two months!
-- What: Help oversee pizza distribution alongside a seasoned coordinator.
-- Experience: Zero required. Enthusiasm for pizza optional.
+- What: Help oversee pizza distribution alongside a seasoned specialist.
+- Experience: We'll train you! Enthusiasm for pizza optional.
 </div>
 
 <div class="boxed-list-item" markdown="1">
